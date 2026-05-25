@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000036698986807296",
+        "3_2000036699024527360"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2000036713306239000",
+    "created_at": "2025-12-14T02:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T03:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000036713306239000"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "人妻"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "反差"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "肉便器"
+        },
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "胁迫奴"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "调教"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "洗脑淫堕"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 98,
+          "id": "1844956237135544320",
+          "start": 91,
+          "username": "zplike"
+        },
+        {
+          "end": 102,
+          "id": "118307321",
+          "start": 99,
+          "username": "dd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7WSvh3XNyp",
+          "end": 126,
+          "expanded_url": "https://x.com/SY1599838/status/2000036713306239000/photo/1",
+          "media_key": "3_2000036698986807296",
+          "start": 103,
+          "url": "https://t.co/7WSvh3XNyp"
+        },
+        {
+          "display_url": "pic.x.com/7WSvh3XNyp",
+          "end": 126,
+          "expanded_url": "https://x.com/SY1599838/status/2000036713306239000/photo/1",
+          "media_key": "3_2000036699024527360",
+          "start": 103,
+          "url": "https://t.co/7WSvh3XNyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000036713306239000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猜猜这又是哪个万粉女s呢，已经用龟男的贡金倒贴调教了呢\n猪脑里面灌满了骚精，喜欢被掐着脖子窒息捅穿，舒服的不想结束呢#堕落 #人妻 #反差 #肉便器 #胁迫奴 #调教 #洗脑淫堕 \n@zplike @DD https://t.co/7WSvh3XNyp"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [dd].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "dd",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "dd"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2000036698986807296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GOx_TagAA4Hpn.jpg",
+        "width": 764
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2000036699024527360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GOx_caEAAnEyV.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000036698986807296",
+            "3_2000036699024527360"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2000036713306239000",
+        "created_at": "2025-12-14T02:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000036713306239000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "人妻"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "反差"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "肉便器"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "胁迫奴"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "调教"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "洗脑淫堕"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 98,
+              "id": "1844956237135544320",
+              "start": 91,
+              "username": "zplike"
+            },
+            {
+              "end": 102,
+              "id": "118307321",
+              "start": 99,
+              "username": "dd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7WSvh3XNyp",
+              "end": 126,
+              "expanded_url": "https://x.com/SY1599838/status/2000036713306239000/photo/1",
+              "media_key": "3_2000036698986807296",
+              "start": 103,
+              "url": "https://t.co/7WSvh3XNyp"
+            },
+            {
+              "display_url": "pic.x.com/7WSvh3XNyp",
+              "end": 126,
+              "expanded_url": "https://x.com/SY1599838/status/2000036713306239000/photo/1",
+              "media_key": "3_2000036699024527360",
+              "start": 103,
+              "url": "https://t.co/7WSvh3XNyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000036713306239000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜这又是哪个万粉女s呢，已经用龟男的贡金倒贴调教了呢\n猪脑里面灌满了骚精，喜欢被掐着脖子窒息捅穿，舒服的不想结束呢#堕落 #人妻 #反差 #肉便器 #胁迫奴 #调教 #洗脑淫堕 \n@zplike @DD https://t.co/7WSvh3XNyp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 398,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 45
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:   @jiaofu716428191     \n小号艾特➕关注帮转帖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 2,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 473
+        },
+        "username": "zplike",
+        "verified": false
+      }
+    ]
+  }
+}

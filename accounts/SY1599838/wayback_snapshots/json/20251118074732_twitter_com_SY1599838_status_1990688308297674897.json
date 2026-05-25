@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1990227994418495488"
+      ],
+      "media_source_tweet_id": [
+        "1990228146533351713"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1990688308297674897",
+    "created_at": "2025-11-18T07:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990688308297674897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795062181060558848",
+          "start": 3,
+          "username": "LJJjacobsss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iL9iebxkE9",
+          "end": 59,
+          "expanded_url": "https://x.com/LJJjacobsss/status/1990228146533351713/video/1",
+          "media_key": "13_1990227994418495488",
+          "start": 36,
+          "url": "https://t.co/iL9iebxkE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990688308297674897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990228146533351713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LJJjacobsss: 群友投稿 希望给周一的你们一些动力！ https://t.co/iL9iebxkE9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990688308297674897].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990688308297674897",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990688308297674897"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13930,
+        "height": 848,
+        "media_key": "13_1990227994418495488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990227994418495488/img/t2hkaEpdfEr-I07r.jpg",
+        "public_metrics": {
+          "view_count": 22033
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990227994418495488/vid/avc1/644x360/vfiV4MXmdN1ik74X.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990227994418495488/vid/avc1/482x270/vYcAHXscviVriiOt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990227994418495488/vid/avc1/1290x720/_1Ldzb5EZOw0TiVn.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990227994418495488/vid/avc1/1520x848/o7Kpqq5-cP88eN2t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990227994418495488/pl/oQKoSPhDh4aOjJSd.m3u8"
+          }
+        ],
+        "width": 1520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990227994418495488"
+          ]
+        },
+        "author_id": "1795062181060558848",
+        "conversation_id": "1990228146533351713",
+        "created_at": "2025-11-17T01:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T02:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990228146533351713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iL9iebxkE9",
+              "end": 42,
+              "expanded_url": "https://x.com/LJJjacobsss/status/1990228146533351713/video/1",
+              "media_key": "13_1990227994418495488",
+              "start": 19,
+              "url": "https://t.co/iL9iebxkE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990228146533351713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 625,
+          "impression_count": 44122,
+          "like_count": 1689,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "群友投稿 希望给周一的你们一些动力！ https://t.co/iL9iebxkE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 389,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T11:59:20.000Z",
+        "description": "夜之城赛博人|原创专业剪辑|各种XP集合者|欢迎各大博主投稿|你们冲得爽是本工作室创作的最大动力！全部作品飞机主页👇@dokiatnight 金主产品欢迎支持  御用声优 @loba200377",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "dokiatnight"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "loba200377"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+-YrmO902z75mN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+-YrmO902z75mNzRk",
+                "start": 0,
+                "url": "https://t.co/S7K27Imh3s"
+              }
+            ]
+          }
+        },
+        "id": "1795062181060558848",
+        "location": "Hong Kong",
+        "name": "STAY",
+        "pinned_tweet_id": "1929535924628508917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795063944098545664/5i2LDklB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121254,
+          "following_count": 897,
+          "like_count": 2373,
+          "listed_count": 259,
+          "media_count": 404,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/S7K27Imh3s",
+        "username": "LJJjacobsss",
+        "verified": true
+      }
+    ]
+  }
+}

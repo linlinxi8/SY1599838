@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021808926283771906"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2020316560653709799",
+    "created_at": "2026-02-12T04:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T05:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021808967043989906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oyrjmYYnoK",
+          "end": 33,
+          "expanded_url": "https://x.com/SY1599838/status/2021808967043989906/photo/1",
+          "media_key": "3_2021808926283771906",
+          "start": 10,
+          "url": "https://t.co/oyrjmYYnoK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021808967043989906",
+    "in_reply_to_user_id": "1736574795125563392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020316560653709799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "更新骚逼～继续曝光 https://t.co/oyrjmYYnoK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2108,
+        "media_key": "3_2021808926283771906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7ogabbsAIY1yS.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020316004585549824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmas7tbsAAjlvw.jpg",
+        "width": 1121
+      },
+      {
+        "height": 1768,
+        "media_key": "3_2020316004560302081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmas7nacAEx0je.jpg",
+        "width": 1212
+      },
+      {
+        "height": 1980,
+        "media_key": "3_2020316004606472193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmas7ya8AEPnwt.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021808926283771906"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2020316560653709799",
+        "created_at": "2026-02-12T04:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021808967043989906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oyrjmYYnoK",
+              "end": 33,
+              "expanded_url": "https://x.com/SY1599838/status/2021808967043989906/photo/1",
+              "media_key": "3_2021808926283771906",
+              "start": 10,
+              "url": "https://t.co/oyrjmYYnoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021808967043989906",
+        "in_reply_to_user_id": "1736574795125563392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020316560653709799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新骚逼～继续曝光 https://t.co/oyrjmYYnoK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020316004585549824",
+            "3_2020316004560302081",
+            "3_2020316004606472193"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2020316560653709799",
+        "created_at": "2026-02-08T01:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T02:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020316560653709799"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "羞辱洗脑"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "女大学生"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "母狗女高"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "母猪"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "反差母狗"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 82,
+              "id": "1652591516756615171",
+              "start": 72,
+              "username": "DDDDBBHHH"
+            },
+            {
+              "end": 91,
+              "id": "1844956237135544320",
+              "start": 84,
+              "username": "zplike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7KIb2VH6sO",
+              "end": 146,
+              "expanded_url": "https://x.com/SY1599838/status/2020316560653709799/photo/1",
+              "media_key": "3_2020316004585549824",
+              "start": 123,
+              "url": "https://t.co/7KIb2VH6sO"
+            },
+            {
+              "display_url": "pic.x.com/7KIb2VH6sO",
+              "end": 146,
+              "expanded_url": "https://x.com/SY1599838/status/2020316560653709799/photo/1",
+              "media_key": "3_2020316004560302081",
+              "start": 123,
+              "url": "https://t.co/7KIb2VH6sO"
+            },
+            {
+              "display_url": "pic.x.com/7KIb2VH6sO",
+              "end": 146,
+              "expanded_url": "https://x.com/SY1599838/status/2020316560653709799/photo/1",
+              "media_key": "3_2020316004606472193",
+              "start": 123,
+              "url": "https://t.co/7KIb2VH6sO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020316560653709799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1658,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "女大穴牲13🖤\n观望了好久终于忍不住跪趴着靠近呢～对着鸡巴祖宗磕头犯贱请安～背着男友疯狂拱逼献媚母猪婊子～🖤不必害羞～来真实的承认真实的自己🖤\n@DDDDBBHHH \n@zplike \n#羞辱洗脑  #女大学生  #母狗女高 #母猪 #反差母狗 https://t.co/7KIb2VH6sO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 571,
+          "like_count": 336,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 145
+        },
+        "username": "SY1599838",
+        "verified": false
+      }
+    ]
+  }
+}

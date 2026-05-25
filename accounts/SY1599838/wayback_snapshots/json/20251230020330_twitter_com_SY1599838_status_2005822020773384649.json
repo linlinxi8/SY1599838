@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005821963093303301",
+        "3_2005821964401930240",
+        "3_2005821963080720386",
+        "13_2005821963093303298"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2005822020773384649",
+    "created_at": "2025-12-30T02:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T03:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005822020773384649"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "羞辱贱狗"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "反差"
+        },
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "肉便器"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "辱骂"
+        },
+        {
+          "end": 97,
+          "start": 93,
+          "tag": "反差婊"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "女大"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 110,
+          "id": "1844956237135544320",
+          "start": 103,
+          "username": "zplike"
+        },
+        {
+          "end": 124,
+          "id": "1652591516756615171",
+          "start": 114,
+          "username": "DDDDBBHHH"
+        },
+        {
+          "end": 141,
+          "id": "1994695281909403656",
+          "start": 127,
+          "username": "liaoyiansheng"
+        },
+        {
+          "end": 147,
+          "id": "2039",
+          "start": 145,
+          "username": "w"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l4J9clGX3l",
+          "end": 171,
+          "expanded_url": "https://x.com/SY1599838/status/2005822020773384649/video/1",
+          "media_key": "3_2005821963093303301",
+          "start": 148,
+          "url": "https://t.co/l4J9clGX3l"
+        },
+        {
+          "display_url": "pic.x.com/l4J9clGX3l",
+          "end": 171,
+          "expanded_url": "https://x.com/SY1599838/status/2005822020773384649/video/1",
+          "media_key": "3_2005821964401930240",
+          "start": 148,
+          "url": "https://t.co/l4J9clGX3l"
+        },
+        {
+          "display_url": "pic.x.com/l4J9clGX3l",
+          "end": 171,
+          "expanded_url": "https://x.com/SY1599838/status/2005822020773384649/video/1",
+          "media_key": "3_2005821963080720386",
+          "start": 148,
+          "url": "https://t.co/l4J9clGX3l"
+        },
+        {
+          "display_url": "pic.x.com/l4J9clGX3l",
+          "end": 171,
+          "expanded_url": "https://x.com/SY1599838/status/2005822020773384649/video/1",
+          "media_key": "13_2005821963093303298",
+          "start": 148,
+          "url": "https://t.co/l4J9clGX3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005822020773384649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大穴牲4🖤\n贱逼母狗白天装完了高冷，深夜里就想主动贡献自己装纯的嘴脸任由亲爹辱骂，被当成牲口母畜一样毫无尊严的贬低践踏，说的是不是你，嗯？ #羞辱贱狗   #反差 #肉便器  #辱骂  #反差婊 #女大 \n@zplike\n  \n@DDDDBBHHH\n \n@liaoyiansheng\n  \n@w https://t.co/l4J9clGX3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2014,
+        "media_key": "3_2005821963093303301",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9YccrjaYAUUtSK.jpg",
+        "width": 1177
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005821964401930240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9YccwbacAAIzXv.jpg",
+        "width": 1171
+      },
+      {
+        "height": 1944,
+        "media_key": "3_2005821963080720386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9YccrgaYAI6wwu.jpg",
+        "width": 1153
+      },
+      {
+        "duration_ms": 8799,
+        "height": 1583,
+        "media_key": "13_2005821963093303298",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005821963093303298/img/wo9NOpCTvk4WmURu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005821963093303298/vid/avc1/320x570/NrCFQNhbhf8B3mXh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005821963093303298/vid/avc1/480x856/scSgFG918IlRJUIZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005821963093303298/vid/avc1/720x1286/08MMMUgTr6pYVzdA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005821963093303298/pl/533IXQPSWEvYoEkU.m3u8?tag=14"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005821963093303301",
+            "3_2005821964401930240",
+            "3_2005821963080720386",
+            "13_2005821963093303298"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2005822020773384649",
+        "created_at": "2025-12-30T02:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T03:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005822020773384649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "羞辱贱狗"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "反差"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "肉便器"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "辱骂"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "反差婊"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "女大"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 110,
+              "id": "1844956237135544320",
+              "start": 103,
+              "username": "zplike"
+            },
+            {
+              "end": 124,
+              "id": "1652591516756615171",
+              "start": 114,
+              "username": "DDDDBBHHH"
+            },
+            {
+              "end": 141,
+              "id": "1994695281909403656",
+              "start": 127,
+              "username": "liaoyiansheng"
+            },
+            {
+              "end": 147,
+              "id": "2039",
+              "start": 145,
+              "username": "w"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l4J9clGX3l",
+              "end": 171,
+              "expanded_url": "https://x.com/SY1599838/status/2005822020773384649/video/1",
+              "media_key": "3_2005821963093303301",
+              "start": 148,
+              "url": "https://t.co/l4J9clGX3l"
+            },
+            {
+              "display_url": "pic.x.com/l4J9clGX3l",
+              "end": 171,
+              "expanded_url": "https://x.com/SY1599838/status/2005822020773384649/video/1",
+              "media_key": "3_2005821964401930240",
+              "start": 148,
+              "url": "https://t.co/l4J9clGX3l"
+            },
+            {
+              "display_url": "pic.x.com/l4J9clGX3l",
+              "end": 171,
+              "expanded_url": "https://x.com/SY1599838/status/2005822020773384649/video/1",
+              "media_key": "3_2005821963080720386",
+              "start": 148,
+              "url": "https://t.co/l4J9clGX3l"
+            },
+            {
+              "display_url": "pic.x.com/l4J9clGX3l",
+              "end": 171,
+              "expanded_url": "https://x.com/SY1599838/status/2005822020773384649/video/1",
+              "media_key": "13_2005821963093303298",
+              "start": 148,
+              "url": "https://t.co/l4J9clGX3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005822020773384649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大穴牲4🖤\n贱逼母狗白天装完了高冷，深夜里就想主动贡献自己装纯的嘴脸任由亲爹辱骂，被当成牲口母畜一样毫无尊严的贬低践踏，说的是不是你，嗯？ #羞辱贱狗   #反差 #肉便器  #辱骂  #反差婊 #女大 \n@zplike\n  \n@DDDDBBHHH\n \n@liaoyiansheng\n  \n@w https://t.co/l4J9clGX3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 422,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 71
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:   @jiaofu716428191     \n小号艾特➕关注帮转帖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 2,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 523
+        },
+        "username": "zplike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T08:31:44.000Z",
+        "description": "免费转推@DDDDBBHHH 直接@就可以。   每日大赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "DDDDBBHHH"
+              }
+            ]
+          }
+        },
+        "id": "1652591516756615171",
+        "name": "每日大赛（@帮转）",
+        "pinned_tweet_id": "1898995609756897717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652592430699651073/HYzCDgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 129,
+          "like_count": 2895,
+          "listed_count": 9,
+          "media_count": 5,
+          "tweet_count": 4094
+        },
+        "username": "DDDDBBHHH",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T09:09:51.000Z",
+        "description": "NSFW18+｜接投稿！！！投稿同时@wqganenshi_和@liaoyiansheng｜#超1天没转私我｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "超1天没转私我"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "wqganenshi_"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "liaoyiansheng"
+              }
+            ]
+          }
+        },
+        "id": "1994695281909403656",
+        "name": "撩意暗生",
+        "pinned_tweet_id": "2000421834425340330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997576611944865792/xif-BMUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 9,
+          "like_count": 208,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 192
+        },
+        "username": "liaoyiansheng",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-17T18:40:19.000Z",
+        "description": "Tweeting since 2006.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/wvonkoch/",
+                "end": 23,
+                "expanded_url": "https://www.linkedin.com/in/wvonkoch/",
+                "start": 0,
+                "url": "https://t.co/KHvOedQeRd"
+              }
+            ]
+          }
+        },
+        "id": "2039",
+        "location": "Seattle, WA",
+        "name": "Walter",
+        "pinned_tweet_id": "1636066261363838982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001727991928492033/Z0iW0VAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 26,
+          "like_count": 18,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/KHvOedQeRd",
+        "username": "w",
+        "verified": false
+      }
+    ]
+  }
+}

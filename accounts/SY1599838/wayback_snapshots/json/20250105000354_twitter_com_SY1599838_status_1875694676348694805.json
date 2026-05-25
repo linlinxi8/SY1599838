@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1875694676348694805",
+    "created_at": "2025-01-05T00:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T01:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875694676348694805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1366936278919352326",
+          "start": 3,
+          "username": "YuiYuiYui33_09"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "ctt.ac/ryJxk",
+          "end": 75,
+          "expanded_url": "https://ctt.ac/ryJxk",
+          "start": 52,
+          "status": 200,
+          "title": "小狗喜欢Yui妈妈~ 小狗狗要不行了，要被妈妈踩射了~ 小狗狗想把自己的一切都交给Yui主人~ @YuiYuiYui33_09 https://ctt.ec/ryJxk",
+          "unwound_url": "https://clicktotweet.com/ryJxk",
+          "url": "https://t.co/OBFCXCGz7w"
+        },
+        {
+          "description": "在这里一切都由Yui说了算。在提交任何内容之前，请阅读所有信息。",
+          "display_url": "forms.gle/Tx2EJYRTJyLg3B…",
+          "end": 104,
+          "expanded_url": "https://forms.gle/Tx2EJYRTJyLg3Bz4A",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1875331799209172992/B6cR7oM5?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1875331799209172992/B6cR7oM5?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 81,
+          "status": 200,
+          "title": "Yui的贡奴契约",
+          "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSfsmh4rUZW3HiadJLcTKoKl7aKRv-TPFs4KC0Zdxh4ycCe1uA/viewform?usp=send_form",
+          "url": "https://t.co/WRg41CzdsA"
+        },
+        {
+          "display_url": "forms.gle/XKVTK38uXsr2u5…",
+          "end": 133,
+          "expanded_url": "https://forms.gle/XKVTK38uXsr2u5cL9",
+          "start": 110,
+          "status": 403,
+          "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdN9JTdGVTLoq64YdaaLlP35nMDON_UodXGK6yyQ9sBzokDgw/viewform?usp=send_form",
+          "url": "https://t.co/7ci95zcM1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875694676348694805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805976793897460124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuiYuiYui33_09: 💖新置顶💖\n每一个小狗都要好好地仔细地完整地阅读哦\n\n小狗任务\nhttps://t.co/OBFCXCGz7w\n贡奴契约\nhttps://t.co/WRg41CzdsA\n胁迫契约\nhttps://t.co/7ci95zcM1z\n轮盘游戏…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1875694676348694805].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1875694676348694805",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1875694676348694805"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1805976200210481152",
+            "3_1805976288081141761"
+          ]
+        },
+        "author_id": "1366936278919352326",
+        "conversation_id": "1805976793897460124",
+        "created_at": "2024-06-26T14:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T15:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805976793897460124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ctt.ac/ryJxk",
+              "end": 55,
+              "expanded_url": "https://ctt.ac/ryJxk",
+              "start": 32,
+              "status": 200,
+              "title": "小狗喜欢Yui妈妈~ 小狗狗要不行了，要被妈妈踩射了~ 小狗狗想把自己的一切都交给Yui主人~ @YuiYuiYui33_09 https://ctt.ec/ryJxk",
+              "unwound_url": "https://clicktotweet.com/ryJxk",
+              "url": "https://t.co/OBFCXCGz7w"
+            },
+            {
+              "description": "在这里一切都由Yui说了算。在提交任何内容之前，请阅读所有信息。",
+              "display_url": "forms.gle/Tx2EJYRTJyLg3B…",
+              "end": 84,
+              "expanded_url": "https://forms.gle/Tx2EJYRTJyLg3Bz4A",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1875331799209172992/B6cR7oM5?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1875331799209172992/B6cR7oM5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 61,
+              "status": 200,
+              "title": "Yui的贡奴契约",
+              "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSfsmh4rUZW3HiadJLcTKoKl7aKRv-TPFs4KC0Zdxh4ycCe1uA/viewform?usp=send_form",
+              "url": "https://t.co/WRg41CzdsA"
+            },
+            {
+              "display_url": "forms.gle/XKVTK38uXsr2u5…",
+              "end": 113,
+              "expanded_url": "https://forms.gle/XKVTK38uXsr2u5cL9",
+              "start": 90,
+              "status": 403,
+              "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdN9JTdGVTLoq64YdaaLlP35nMDON_UodXGK6yyQ9sBzokDgw/viewform?usp=send_form",
+              "url": "https://t.co/7ci95zcM1z"
+            },
+            {
+              "description": "Enter names, spin wheel to pick a random winner. Customize look and feel, save and share wheels.",
+              "display_url": "wheelofnames.com/zh-CN/g5f-ys5",
+              "end": 142,
+              "expanded_url": "https://wheelofnames.com/zh-CN/g5f-ys5",
+              "images": [
+                {
+                  "height": 1163,
+                  "url": "https://pbs.twimg.com/news_img/1829177339554738179/SX7qOket?format=jpg&name=orig",
+                  "width": 1163
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1829177339554738179/SX7qOket?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 119,
+              "status": 200,
+              "title": "Wheel of Names",
+              "unwound_url": "https://wheelofnames.com/zh-CN/g5f-ys5",
+              "url": "https://t.co/nDCwpQ1Av7"
+            },
+            {
+              "display_url": "pic.x.com/9xgpYmPQrh",
+              "end": 207,
+              "expanded_url": "https://x.com/YuiYuiYui33_09/status/1805976793897460124/photo/1",
+              "media_key": "3_1805976200210481152",
+              "start": 184,
+              "url": "https://t.co/9xgpYmPQrh"
+            },
+            {
+              "display_url": "pic.x.com/9xgpYmPQrh",
+              "end": 207,
+              "expanded_url": "https://x.com/YuiYuiYui33_09/status/1805976793897460124/photo/1",
+              "media_key": "3_1805976288081141761",
+              "start": 184,
+              "url": "https://t.co/9xgpYmPQrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805976793897460124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 88201,
+          "like_count": 223,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "💖新置顶💖\n每一个小狗都要好好地仔细地完整地阅读哦\n\n小狗任务\nhttps://t.co/OBFCXCGz7w\n贡奴契约\nhttps://t.co/WRg41CzdsA\n胁迫契约\nhttps://t.co/7ci95zcM1z\n轮盘游戏\nhttps://t.co/nDCwpQ1Av7\n\n点赞每满200抽奖原味或者小零食\n抽奖要满足条件哦（点赞评论转发关注缺一不可） https://t.co/9xgpYmPQrh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875692524096122881/jStRE-Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 199,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-03T02:20:00.000Z",
+        "description": "女S Yui 温柔dom 锁主 / 忠于我更重要 / 语音 出原味 / qq 门槛20r 微信门槛99r q2593464869 搜不到私信 //广告评论链接别乱点//推荐我自己长期使用的喵叽VPN加速器 🔗：https://t.co/nXfS1fGWu7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 128,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=LBKmMWvW",
+                "start": 105,
+                "url": "https://t.co/nXfS1fGWu7"
+              }
+            ]
+          }
+        },
+        "id": "1366936278919352326",
+        "location": "你的心里",
+        "name": "Yui♡",
+        "pinned_tweet_id": "1805976793897460124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826761598683492352/XHCDzGAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13272,
+          "following_count": 67,
+          "like_count": 327,
+          "listed_count": 57,
+          "media_count": 413,
+          "tweet_count": 856
+        },
+        "username": "YuiYuiYui33_09",
+        "verified": false
+      }
+    ]
+  }
+}

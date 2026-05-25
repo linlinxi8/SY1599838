@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1893341959026094553",
+    "created_at": "2025-02-23T00:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T01:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893453972184211944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1672431991973638145",
+          "start": 0,
+          "username": "huanaijichen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893453972184211944",
+    "in_reply_to_user_id": "1672431991973638145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893341959026094553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanaijichen 汪汪汪谢谢主人～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736574795125563392",
+        "conversation_id": "1893341959026094553",
+        "created_at": "2025-02-23T00:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T01:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893453972184211944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1672431991973638145",
+              "start": 0,
+              "username": "huanaijichen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893453972184211944",
+        "in_reply_to_user_id": "1672431991973638145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893341959026094553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanaijichen 汪汪汪谢谢主人～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672431991973638145",
+        "conversation_id": "1893341959026094553",
+        "created_at": "2025-02-22T16:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T17:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893341959026094553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893341959026094553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 624,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我的小狗 生日快乐～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875692524096122881/jStRE-Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 200,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T02:30:52.000Z",
+        "description": "一切xp仅为皮下人格，不涉三。🐧门牌 3829188307主人格是s 当可以是反差m啦。你是强主就可以征服我，如果你不是那你就只能是被亲妈踩在脚下的畜生呢，🚪20💰防屌丝 https://t.co/Mr9C0PBW0y 电报群菜单自选，持续更新的主题菜单可自行查阅（添加不上可口令加自己企鹅门牌私我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaokamom",
+                "end": 109,
+                "expanded_url": "https://t.me/xiaokamom",
+                "start": 86,
+                "url": "https://t.co/Mr9C0PBW0y"
+              }
+            ]
+          }
+        },
+        "id": "1672431991973638145",
+        "location": "Tokyo-to, Japan",
+        "name": "🖤小卡",
+        "pinned_tweet_id": "1886393802824515771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795512085910294533/q_WwspDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22674,
+          "following_count": 122,
+          "like_count": 28,
+          "listed_count": 116,
+          "media_count": 250,
+          "tweet_count": 596
+        },
+        "username": "huanaijichen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1767202945056313344"
+      ],
+      "media_source_tweet_id": [
+        "1767202954099204337"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1996451174598520855",
+    "created_at": "2025-12-04T05:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T06:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996451174598520855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1626662200873033729",
+          "start": 3,
+          "username": "yangyangmuzhu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dkFIfCYqgY",
+          "end": 64,
+          "expanded_url": "https://x.com/Patrici79750113/status/1767202954099204337/photo/1",
+          "media_key": "3_1767202945056313344",
+          "start": 41,
+          "url": "https://t.co/dkFIfCYqgY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996451174598520855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1767202954099204337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangyangmuzhu: 哼哧哼哧……阳阳是曦主人的丧志母猪哦哦哦哦 https://t.co/dkFIfCYqgY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1996451174598520855].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1996451174598520855",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1996451174598520855"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1767202945056313344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GIZdtyobEAAUkFh.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1767202945056313344"
+          ]
+        },
+        "author_id": "1626662200873033729",
+        "conversation_id": "1767202954099204337",
+        "created_at": "2024-03-11T14:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-11T15:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1767202954099204337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkFIfCYqgY",
+              "end": 45,
+              "expanded_url": "https://x.com/Patrici79750113/status/1767202954099204337/photo/1",
+              "media_key": "3_1767202945056313344",
+              "start": 22,
+              "url": "https://t.co/dkFIfCYqgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1767202954099204337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7501,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "哼哧哼哧……阳阳是曦主人的丧志母猪哦哦哦哦 https://t.co/dkFIfCYqgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBR7zS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBR7zS"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "南京",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996418766763405312/URsv1Ehh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 422,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 36
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T19:17:55.000Z",
+        "description": "这里是阳阳～现大学在校生～表面是高贵的校园女神～背地里是主人的肥臀母畜，是淫荡的肉便器啦❤️ 除血腥🈚️下限…..也擅长调教狗奴和洗脑小m哦，喜欢戴着假阳具干翻小公狗的屁眼 ❤️（一切xp仅为皮下人格不涉三） 35 /30min 包周600 包月1400记得点赞关注呢 门牌3958666725",
+        "id": "1626662200873033729",
+        "location": "🚪 3958666725",
+        "name": "阳阳🐷（变态版）（求互推）",
+        "pinned_tweet_id": "1893989300015972731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841709582433058816/dJwVvVaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10988,
+          "following_count": 171,
+          "like_count": 49,
+          "listed_count": 48,
+          "media_count": 167,
+          "tweet_count": 2688
+        },
+        "username": "yangyangmuzhu",
+        "verified": false
+      }
+    ]
+  }
+}

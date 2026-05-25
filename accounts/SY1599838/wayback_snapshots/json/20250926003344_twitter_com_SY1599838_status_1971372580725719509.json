@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1957281229684023296"
+      ],
+      "media_source_tweet_id": [
+        "1957281266438754501"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1971372580725719509",
+    "created_at": "2025-09-26T00:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T01:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971372580725719509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684213812109484039",
+          "start": 3,
+          "username": "bb13146666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kwnvyAUgEe",
+          "end": 75,
+          "expanded_url": "https://x.com/bb13146666/status/1957281266438754501/video/1",
+          "media_key": "7_1957281229684023296",
+          "start": 52,
+          "url": "https://t.co/kwnvyAUgEe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971372580725719509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957281266438754501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bb13146666: 口水流在纹身奶子上 就把贱鸡巴看硬了？真没用哈哈哈哈\n都懒得正眼看你！ https://t.co/kwnvyAUgEe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1971372580725719509].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1971372580725719509",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1971372580725719509"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11748,
+        "height": 1092,
+        "media_key": "7_1957281229684023296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957281229684023296/pu/img/ji4WR_HOQAspVf2F.jpg",
+        "public_metrics": {
+          "view_count": 10133
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957281229684023296/pu/vid/avc1/320x594/OkEtP120Chta73Of.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957281229684023296/pu/vid/avc1/480x890/gAkozugYKQre9XEZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957281229684023296/pu/vid/avc1/588x1092/BAeui8s9_lcNBdNh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957281229684023296/pu/pl/rrttOWwlmeZyTzMe.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1957281229684023296"
+          ]
+        },
+        "author_id": "1684213812109484039",
+        "conversation_id": "1957281266438754501",
+        "created_at": "2025-08-18T03:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957281266438754501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwnvyAUgEe",
+              "end": 59,
+              "expanded_url": "https://x.com/bb13146666/status/1957281266438754501/video/1",
+              "media_key": "7_1957281229684023296",
+              "start": 36,
+              "url": "https://t.co/kwnvyAUgEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957281266438754501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 41677,
+          "like_count": 682,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "口水流在纹身奶子上 就把贱鸡巴看硬了？真没用哈哈哈哈\n都懒得正眼看你！ https://t.co/kwnvyAUgEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875692524096122881/jStRE-Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 270,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T14:47:25.000Z",
+        "description": "喜欢精神小妹 看见她们就控制不住自己 欢迎投稿 交流 日常更新精神小妹片段   \n                                                  进群交流：3863610954（有门槛）",
+        "id": "1684213812109484039",
+        "location": "距离你1.1km",
+        "name": "精神小妹都是我亲妈",
+        "pinned_tweet_id": "1695512874897276950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703090138421817344/jdCPNycA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14802,
+          "following_count": 16,
+          "like_count": 801,
+          "listed_count": 41,
+          "media_count": 375,
+          "tweet_count": 920
+        },
+        "username": "bb13146666",
+        "verified": false
+      }
+    ]
+  }
+}

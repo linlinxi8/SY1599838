@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041316811942268929",
+        "3_2041316811933970432",
+        "3_2041316811921326080",
+        "3_2041316811912953856"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2041316998542700564",
+    "created_at": "2026-04-07T00:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T01:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041316998542700564"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "羞辱贱狗"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "反差"
+        },
+        {
+          "end": 81,
+          "start": 77,
+          "tag": "肉便器"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "辱骂"
+        },
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "反差婊"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "母狗"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 107,
+          "id": "1652591516756615171",
+          "start": 97,
+          "username": "DDDDBBHHH"
+        },
+        {
+          "end": 116,
+          "id": "1844956237135544320",
+          "start": 109,
+          "username": "zplike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gEdQzdlqvV",
+          "end": 140,
+          "expanded_url": "https://x.com/SY1599838/status/2041316998542700564/photo/1",
+          "media_key": "3_2041316811942268929",
+          "start": 117,
+          "url": "https://t.co/gEdQzdlqvV"
+        },
+        {
+          "display_url": "pic.x.com/gEdQzdlqvV",
+          "end": 140,
+          "expanded_url": "https://x.com/SY1599838/status/2041316998542700564/photo/1",
+          "media_key": "3_2041316811933970432",
+          "start": 117,
+          "url": "https://t.co/gEdQzdlqvV"
+        },
+        {
+          "display_url": "pic.x.com/gEdQzdlqvV",
+          "end": 140,
+          "expanded_url": "https://x.com/SY1599838/status/2041316998542700564/photo/1",
+          "media_key": "3_2041316811921326080",
+          "start": 117,
+          "url": "https://t.co/gEdQzdlqvV"
+        },
+        {
+          "display_url": "pic.x.com/gEdQzdlqvV",
+          "end": 140,
+          "expanded_url": "https://x.com/SY1599838/status/2041316998542700564/photo/1",
+          "media_key": "3_2041316811912953856",
+          "start": 117,
+          "url": "https://t.co/gEdQzdlqvV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041316998542700564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "贱逼母狗白天装完了高冷，深夜里就想主动贡献自己装纯的嘴脸任由亲爹辱骂，被当成牲口母畜一样毫无尊严的贬低践踏，说的是不是你，嗯？ \n#羞辱贱狗   #反差 #肉便器  #辱骂  #反差婊 #母狗\n@DDDDBBHHH  @zplike https://t.co/gEdQzdlqvV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_2041316811942268929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ20znaEAETuaB.jpg",
+        "width": 1173
+      },
+      {
+        "height": 1626,
+        "media_key": "3_2041316811933970432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ20zlbcAAKPRV.jpg",
+        "width": 1162
+      },
+      {
+        "height": 1575,
+        "media_key": "3_2041316811921326080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ20ziagAAPOns.jpg",
+        "width": 1150
+      },
+      {
+        "height": 1582,
+        "media_key": "3_2041316811912953856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ20zgawAA5MdL.jpg",
+        "width": 1189
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041316811942268929",
+            "3_2041316811933970432",
+            "3_2041316811921326080",
+            "3_2041316811912953856"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2041316998542700564",
+        "created_at": "2026-04-07T00:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041316998542700564"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "羞辱贱狗"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "反差"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "肉便器"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "辱骂"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "反差婊"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "母狗"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 107,
+              "id": "1652591516756615171",
+              "start": 97,
+              "username": "DDDDBBHHH"
+            },
+            {
+              "end": 116,
+              "id": "1844956237135544320",
+              "start": 109,
+              "username": "zplike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gEdQzdlqvV",
+              "end": 140,
+              "expanded_url": "https://x.com/SY1599838/status/2041316998542700564/photo/1",
+              "media_key": "3_2041316811942268929",
+              "start": 117,
+              "url": "https://t.co/gEdQzdlqvV"
+            },
+            {
+              "display_url": "pic.x.com/gEdQzdlqvV",
+              "end": 140,
+              "expanded_url": "https://x.com/SY1599838/status/2041316998542700564/photo/1",
+              "media_key": "3_2041316811933970432",
+              "start": 117,
+              "url": "https://t.co/gEdQzdlqvV"
+            },
+            {
+              "display_url": "pic.x.com/gEdQzdlqvV",
+              "end": 140,
+              "expanded_url": "https://x.com/SY1599838/status/2041316998542700564/photo/1",
+              "media_key": "3_2041316811921326080",
+              "start": 117,
+              "url": "https://t.co/gEdQzdlqvV"
+            },
+            {
+              "display_url": "pic.x.com/gEdQzdlqvV",
+              "end": 140,
+              "expanded_url": "https://x.com/SY1599838/status/2041316998542700564/photo/1",
+              "media_key": "3_2041316811912953856",
+              "start": 117,
+              "url": "https://t.co/gEdQzdlqvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041316998542700564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贱逼母狗白天装完了高冷，深夜里就想主动贡献自己装纯的嘴脸任由亲爹辱骂，被当成牲口母畜一样毫无尊严的贬低践踏，说的是不是你，嗯？ \n#羞辱贱狗   #反差 #肉便器  #辱骂  #反差婊 #母狗\n@DDDDBBHHH  @zplike https://t.co/gEdQzdlqvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 536,
+          "like_count": 341,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 154
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T08:31:44.000Z",
+        "description": "免费转推@DDDDBBHHH 直接@就可以。   每日大赛\n               （  真假自辨   ）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "DDDDBBHHH"
+              }
+            ]
+          }
+        },
+        "id": "1652591516756615171",
+        "name": "每日大赛（@帮转）",
+        "pinned_tweet_id": "1898995609756897717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652592430699651073/HYzCDgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4506,
+          "following_count": 128,
+          "like_count": 3080,
+          "listed_count": 10,
+          "media_count": 6,
+          "tweet_count": 4660
+        },
+        "username": "DDDDBBHHH",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:    @jiaofu716428191     v:wsdbtxx\n Q:867768161",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "2027668958573412477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 2,
+          "like_count": 195,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 764
+        },
+        "username": "zplike",
+        "verified": false
+      }
+    ]
+  }
+}

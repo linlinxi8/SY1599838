@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000141591873454080"
+      ],
+      "media_source_tweet_id": [
+        "2000141860195668398"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2000754709510946875",
+    "created_at": "2025-12-16T02:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T03:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000754709510946875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666260342",
+          "start": 3,
+          "username": "obemejoy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4riqDCFFq0",
+          "end": 43,
+          "expanded_url": "https://x.com/obemejoy/status/2000141860195668398/video/1",
+          "media_key": "13_2000141591873454080",
+          "start": 20,
+          "url": "https://t.co/4riqDCFFq0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000754709510946875",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2319
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000141860195668398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @obemejoy: wataa https://t.co/4riqDCFFq0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000754709510946875].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000754709510946875",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000754709510946875"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 610404,
+        "height": 826,
+        "media_key": "13_2000141591873454080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000141591873454080/img/6qVouu0iefGpY3xj.jpg",
+        "public_metrics": {
+          "view_count": 224268
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000141591873454080/vid/avc1/320x568/MfiymhSYvnaKvCAO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000141591873454080/vid/avc1/464x826/pmSOUhptd2-Hmsel.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000141591873454080/pl/JRqZEabjdpQ0Dyyz.m3u8"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000141591873454080"
+          ]
+        },
+        "author_id": "1666260342",
+        "conversation_id": "2000141860195668398",
+        "created_at": "2025-12-14T09:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000141860195668398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4riqDCFFq0",
+              "end": 29,
+              "expanded_url": "https://x.com/obemejoy/status/2000141860195668398/video/1",
+              "media_key": "13_2000141591873454080",
+              "start": 6,
+              "url": "https://t.co/4riqDCFFq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000141860195668398",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5151,
+          "impression_count": 380753,
+          "like_count": 11714,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 2319
+        },
+        "reply_settings": "following",
+        "text": "wataa https://t.co/4riqDCFFq0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 398,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 49
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-12T23:49:59.000Z",
+        "description": "在线找男主",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mi_qi502",
+                "end": 23,
+                "expanded_url": "https://t.me/mi_qi502",
+                "start": 0,
+                "url": "https://t.co/d4A27J5wH5"
+              }
+            ]
+          }
+        },
+        "id": "1666260342",
+        "location": "唯一联系 ：",
+        "name": "米奇宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999478295956729856/4nJE9-mg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4867,
+          "following_count": 22,
+          "like_count": 1,
+          "listed_count": 6,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/d4A27J5wH5",
+        "username": "obemejoy",
+        "verified": true
+      }
+    ]
+  }
+}

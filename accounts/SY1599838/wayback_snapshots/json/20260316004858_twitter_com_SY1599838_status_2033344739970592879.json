@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033344004302196736",
+        "3_2033344004339949568",
+        "3_2033344004340015104",
+        "3_2033344004335747072"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2033344739970592879",
+    "created_at": "2026-03-16T00:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T01:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033344739970592879"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "母猪"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "骚逼"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "反差"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "幼师"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "母狗"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "肉便器"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 69,
+          "id": "1652591516756615171",
+          "start": 59,
+          "username": "DDDDBBHHH"
+        },
+        {
+          "end": 78,
+          "id": "1844956237135544320",
+          "start": 71,
+          "username": "zplike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wmU3kk5QWz",
+          "end": 128,
+          "expanded_url": "https://x.com/SY1599838/status/2033344739970592879/photo/1",
+          "media_key": "3_2033344004302196736",
+          "start": 105,
+          "url": "https://t.co/wmU3kk5QWz"
+        },
+        {
+          "display_url": "pic.x.com/wmU3kk5QWz",
+          "end": 128,
+          "expanded_url": "https://x.com/SY1599838/status/2033344739970592879/photo/1",
+          "media_key": "3_2033344004339949568",
+          "start": 105,
+          "url": "https://t.co/wmU3kk5QWz"
+        },
+        {
+          "display_url": "pic.x.com/wmU3kk5QWz",
+          "end": 128,
+          "expanded_url": "https://x.com/SY1599838/status/2033344739970592879/photo/1",
+          "media_key": "3_2033344004340015104",
+          "start": 105,
+          "url": "https://t.co/wmU3kk5QWz"
+        },
+        {
+          "display_url": "pic.x.com/wmU3kk5QWz",
+          "end": 128,
+          "expanded_url": "https://x.com/SY1599838/status/2033344739970592879/photo/1",
+          "media_key": "3_2033344004335747072",
+          "start": 105,
+          "url": "https://t.co/wmU3kk5QWz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033344739970592879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久不见呀，最近出门旅游了，各位骚狗有没有想爹爹呀🖤\n给大家看看死妈贱逼是怎么犯贱的～依旧点赞评论区更新跟男友犯贱～\n@DDDDBBHHH \n@zplike \n#母猪 #骚逼 #反差 #幼师 #母狗 #肉便器 https://t.co/wmU3kk5QWz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1514,
+        "media_key": "3_2033344004302196736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDfjmUqaUAAI0iD.jpg",
+        "width": 1173
+      },
+      {
+        "height": 2006,
+        "media_key": "3_2033344004339949568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDfjmUzaYAA_9nD.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033344004340015104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDfjmUzbYAAQaMk.jpg",
+        "width": 1118
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2033344004335747072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDfjmUyaQAAJ_1z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033344004302196736",
+            "3_2033344004339949568",
+            "3_2033344004340015104",
+            "3_2033344004335747072"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2033344739970592879",
+        "created_at": "2026-03-16T00:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T01:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033344739970592879"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "母猪"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "骚逼"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "反差"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "幼师"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "母狗"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "肉便器"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 69,
+              "id": "1652591516756615171",
+              "start": 59,
+              "username": "DDDDBBHHH"
+            },
+            {
+              "end": 78,
+              "id": "1844956237135544320",
+              "start": 71,
+              "username": "zplike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmU3kk5QWz",
+              "end": 128,
+              "expanded_url": "https://x.com/SY1599838/status/2033344739970592879/photo/1",
+              "media_key": "3_2033344004302196736",
+              "start": 105,
+              "url": "https://t.co/wmU3kk5QWz"
+            },
+            {
+              "display_url": "pic.x.com/wmU3kk5QWz",
+              "end": 128,
+              "expanded_url": "https://x.com/SY1599838/status/2033344739970592879/photo/1",
+              "media_key": "3_2033344004339949568",
+              "start": 105,
+              "url": "https://t.co/wmU3kk5QWz"
+            },
+            {
+              "display_url": "pic.x.com/wmU3kk5QWz",
+              "end": 128,
+              "expanded_url": "https://x.com/SY1599838/status/2033344739970592879/photo/1",
+              "media_key": "3_2033344004340015104",
+              "start": 105,
+              "url": "https://t.co/wmU3kk5QWz"
+            },
+            {
+              "display_url": "pic.x.com/wmU3kk5QWz",
+              "end": 128,
+              "expanded_url": "https://x.com/SY1599838/status/2033344739970592879/photo/1",
+              "media_key": "3_2033344004335747072",
+              "start": 105,
+              "url": "https://t.co/wmU3kk5QWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033344739970592879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久不见呀，最近出门旅游了，各位骚狗有没有想爹爹呀🖤\n给大家看看死妈贱逼是怎么犯贱的～依旧点赞评论区更新跟男友犯贱～\n@DDDDBBHHH \n@zplike \n#母猪 #骚逼 #反差 #幼师 #母狗 #肉便器 https://t.co/wmU3kk5QWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 552,
+          "like_count": 334,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 149
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T08:31:44.000Z",
+        "description": "免费转推@DDDDBBHHH 直接@就可以。   每日大赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "DDDDBBHHH"
+              }
+            ]
+          }
+        },
+        "id": "1652591516756615171",
+        "name": "每日大赛（@帮转）",
+        "pinned_tweet_id": "1898995609756897717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652592430699651073/HYzCDgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4213,
+          "following_count": 129,
+          "like_count": 2959,
+          "listed_count": 10,
+          "media_count": 5,
+          "tweet_count": 4509
+        },
+        "username": "DDDDBBHHH",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:    @jiaofu716428191     v:wsdbtxx\n Q:867768161",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "2027668958573412477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 3,
+          "like_count": 190,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 734
+        },
+        "username": "zplike",
+        "verified": false
+      }
+    ]
+  }
+}

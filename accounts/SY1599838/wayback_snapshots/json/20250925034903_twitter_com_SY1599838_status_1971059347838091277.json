@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1959625716062167040"
+      ],
+      "media_source_tweet_id": [
+        "1959625738069725403"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1971059347838091277",
+    "created_at": "2025-09-25T03:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T04:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971059347838091277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684213812109484039",
+          "start": 3,
+          "username": "bb13146666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cY1VjWBD6w",
+          "end": 96,
+          "expanded_url": "https://x.com/bb13146666/status/1959625738069725403/video/1",
+          "media_key": "7_1959625716062167040",
+          "start": 73,
+          "url": "https://t.co/cY1VjWBD6w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971059347838091277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959625738069725403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bb13146666: 你这种废物就要在亲妈跳舞的时候躺在地下接亲妈的口水，让臭口水滴在你脸上，猛猛吸亲妈的口水和丝袜的味道，然后喷出来 https://t.co/cY1VjWBD6w"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1971059347838091277].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1971059347838091277",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1971059347838091277"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3237,
+        "height": 1060,
+        "media_key": "7_1959625716062167040",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1959625716062167040/pu/img/_DDb0UkOCorszROL.jpg",
+        "public_metrics": {
+          "view_count": 19751
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959625716062167040/pu/vid/avc1/320x576/JMSGHEI9uxJLqLtw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959625716062167040/pu/vid/avc1/480x864/mOd4QdSxT-gT5dqt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959625716062167040/pu/vid/avc1/588x1060/n15LCeV90SbBq3Fy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1959625716062167040/pu/pl/ywNM_Gd9mvpeWoZC.m3u8?tag=12"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1959625716062167040"
+          ]
+        },
+        "author_id": "1684213812109484039",
+        "conversation_id": "1959625738069725403",
+        "created_at": "2025-08-24T14:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T15:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959625738069725403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cY1VjWBD6w",
+              "end": 80,
+              "expanded_url": "https://x.com/bb13146666/status/1959625738069725403/video/1",
+              "media_key": "7_1959625716062167040",
+              "start": 57,
+              "url": "https://t.co/cY1VjWBD6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959625738069725403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 64178,
+          "like_count": 739,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "你这种废物就要在亲妈跳舞的时候躺在地下接亲妈的口水，让臭口水滴在你脸上，猛猛吸亲妈的口水和丝袜的味道，然后喷出来 https://t.co/cY1VjWBD6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875692524096122881/jStRE-Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 266,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T14:47:25.000Z",
+        "description": "喜欢精神小妹 看见她们就控制不住自己 欢迎投稿 交流 日常更新精神小妹片段   \n                                                  进群交流：3863610954（有门槛）",
+        "id": "1684213812109484039",
+        "location": "距离你1.1km",
+        "name": "精神小妹都是我亲妈",
+        "pinned_tweet_id": "1695512874897276950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703090138421817344/jdCPNycA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14679,
+          "following_count": 16,
+          "like_count": 787,
+          "listed_count": 43,
+          "media_count": 370,
+          "tweet_count": 901
+        },
+        "username": "bb13146666",
+        "verified": false
+      }
+    ]
+  }
+}

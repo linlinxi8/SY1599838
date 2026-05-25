@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007786847997689857"
+      ],
+      "media_source_tweet_id": [
+        "2007786854918295798"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2007787830312128535",
+    "created_at": "2026-01-04T12:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T13:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007787830312128535"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "臣服文"
+        },
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "2026year"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "母豬"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "抖m"
+        },
+        {
+          "end": 107,
+          "start": 102,
+          "tag": "羞辱洗脑"
+        },
+        {
+          "end": 112,
+          "start": 108,
+          "tag": "女反差"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "婊子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "916605934813593600",
+          "start": 3,
+          "username": "SweetKaty333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZblhRVIGre",
+          "end": 140,
+          "expanded_url": "https://x.com/SweetKaty333/status/2007786854918295798/photo/1",
+          "media_key": "3_2007786847997689857",
+          "start": 117,
+          "url": "https://t.co/ZblhRVIGre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007787830312128535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007786854918295798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SweetKaty333: #臣服文 #2026year \n完蛋投降、好吧我承認我是欠幹的淫蕩婊子、、賤母狗🥵🥵\n新年願望就是讓你看看我這婊子有多會裝女神、結果不過就是隻婊子豬🐽\n#母豬 #抖m #羞辱洗脑 #女反差 #婊子 https://t.co/ZblhRVIGre"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007787830312128535].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007787830312128535",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007787830312128535"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_2007786847997689857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90XgCOagAEwUjk.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007786847997689857"
+          ]
+        },
+        "author_id": "916605934813593600",
+        "conversation_id": "2007786854918295798",
+        "created_at": "2026-01-04T12:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T13:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007786854918295798"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "臣服文"
+            },
+            {
+              "end": 14,
+              "start": 5,
+              "tag": "2026year"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "母豬"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "抖m"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "羞辱洗脑"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "女反差"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "婊子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZblhRVIGre",
+              "end": 122,
+              "expanded_url": "https://x.com/SweetKaty333/status/2007786854918295798/photo/1",
+              "media_key": "3_2007786847997689857",
+              "start": 99,
+              "url": "https://t.co/ZblhRVIGre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007786854918295798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#臣服文 #2026year \n完蛋投降、好吧我承認我是欠幹的淫蕩婊子、、賤母狗🥵🥵\n新年願望就是讓你看看我這婊子有多會裝女神、結果不過就是隻婊子豬🐽\n#母豬 #抖m #羞辱洗脑 #女反差 #婊子 https://t.co/ZblhRVIGre"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 430,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 84
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-07T10:07:39.000Z",
+        "description": "愛裝女神人設、私下是淫蕩賤貨、欠羞辱的反差婊、最愛當頭洩慾便器👠",
+        "id": "916605934813593600",
+        "location": "Taiwan",
+        "name": "色母豬凱蒂",
+        "pinned_tweet_id": "1942279929628090555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001602869045399553/zM5_oEpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 179,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 287
+        },
+        "username": "SweetKaty333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1966288381589250253",
+    "created_at": "2025-09-11T23:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T00:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966288381589250253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1777121327536816128",
+          "start": 3,
+          "username": "123meng789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966288381589250253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966179495129584069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @123meng789: 喜欢压榨，喜欢剥夺，喜欢拿走你的一切♥\n私信添加QQ购买问卷哦♡\n无脑败北\n钱包训化\n提款工具人\n直击你的内心深处最想要的快感♡\n身为贡畜了是无法戒掉贡瘾的，你唯一能做的就是请求琳璃大人能满足你的上贡欲望啦♡\n\n转发推特，私信免费获取前两个文游♡…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 759,
+        "media_key": "3_1966179492340314118",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0lF1L2aMAYTZAh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736574795125563392",
+        "conversation_id": "1966288381589250253",
+        "created_at": "2025-09-11T23:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T00:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966288381589250253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1777121327536816128",
+              "start": 3,
+              "username": "123meng789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966288381589250253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966179495129584069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @123meng789: 喜欢压榨，喜欢剥夺，喜欢拿走你的一切♥\n私信添加QQ购买问卷哦♡\n无脑败北\n钱包训化\n提款工具人\n直击你的内心深处最想要的快感♡\n身为贡畜了是无法戒掉贡瘾的，你唯一能做的就是请求琳璃大人能满足你的上贡欲望啦♡\n\n转发推特，私信免费获取前两个文游♡…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966179492340314118"
+          ]
+        },
+        "author_id": "1777121327536816128",
+        "conversation_id": "1966179495129584069",
+        "created_at": "2025-09-11T16:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T17:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966179495129584069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAr24ao13O",
+              "end": 147,
+              "expanded_url": "https://x.com/123meng789/status/1966179495129584069/photo/1",
+              "media_key": "3_1966179492340314118",
+              "start": 124,
+              "url": "https://t.co/rAr24ao13O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966179495129584069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 799,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢压榨，喜欢剥夺，喜欢拿走你的一切♥\n私信添加QQ购买问卷哦♡\n无脑败北\n钱包训化\n提款工具人\n直击你的内心深处最想要的快感♡\n身为贡畜了是无法戒掉贡瘾的，你唯一能做的就是请求琳璃大人能满足你的上贡欲望啦♡\n\n转发推特，私信免费获取前两个文游♡ https://t.co/rAr24ao13O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875692524096122881/jStRE-Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 243,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T23:48:50.000Z",
+        "description": "你好，你现在看到的是小琳大人@xiaolinyia的分身♡账号为小琳大人的第一号钱包♡账号当然~还是继续散布一些让小雏男羞耻兴奋的文字和图片♡ 你是~琳璃妈妈的新钱包👛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "xiaolinyia"
+              }
+            ]
+          }
+        },
+        "id": "1777121327536816128",
+        "name": "琳璃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962280155369594880/WcUDAsFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 74,
+          "like_count": 66,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 42
+        },
+        "username": "123meng789",
+        "verified": false
+      }
+    ]
+  }
+}

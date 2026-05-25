@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025480400311910400"
+      ],
+      "media_source_tweet_id": [
+        "2025480411737194934"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2025485004206383155",
+    "created_at": "2026-02-22T08:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T09:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025485004206383155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1982671107808448512",
+          "start": 3,
+          "username": "facd1277"
+        },
+        {
+          "end": 51,
+          "id": "1736574795125563392",
+          "start": 41,
+          "username": "SY1599838"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NzWIA5RT5P",
+          "end": 75,
+          "expanded_url": "https://x.com/facd1277/status/2025480411737194934/photo/1",
+          "media_key": "3_2025480400311910400",
+          "start": 52,
+          "url": "https://t.co/NzWIA5RT5P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025485004206383155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025480411737194934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @facd1277: 死妈母猪是曦爹的屁眼奴臀垫婊子 只配舔曦爹的屁眼🖤🖤🖤@SY1599838 https://t.co/NzWIA5RT5P"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025485004206383155].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025485004206383155",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025485004206383155"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1869,
+        "media_key": "3_2025480400311910400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvzsVAbgAARgfF.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025480400311910400"
+          ]
+        },
+        "author_id": "1982671107808448512",
+        "conversation_id": "2025480411737194934",
+        "created_at": "2026-02-22T07:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025480411737194934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1736574795125563392",
+              "start": 27,
+              "username": "SY1599838"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NzWIA5RT5P",
+              "end": 61,
+              "expanded_url": "https://x.com/facd1277/status/2025480411737194934/photo/1",
+              "media_key": "3_2025480400311910400",
+              "start": 38,
+              "url": "https://t.co/NzWIA5RT5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025480411737194934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "死妈母猪是曦爹的屁眼奴臀垫婊子 只配舔曦爹的屁眼🖤🖤🖤@SY1599838 https://t.co/NzWIA5RT5P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 579,
+          "like_count": 336,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 150
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T04:50:26.000Z",
+        "description": "榨精母猪 人形飞机杯 免费公厕 glory hole主理人 母猪肉便器 上下穴免费使用 内射中出可解锁更多体位喵🖤🖤🖤",
+        "id": "1982671107808448512",
+        "name": "曦爹祖宗的肉便器",
+        "pinned_tweet_id": "2025480411737194934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025017056559579136/UeWJoAIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 53,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 15
+        },
+        "username": "facd1277",
+        "verified": false
+      }
+    ]
+  }
+}

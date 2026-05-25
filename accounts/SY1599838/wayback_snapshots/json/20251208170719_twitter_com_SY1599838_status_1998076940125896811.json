@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998076929849839616",
+        "3_1998076928738422785"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1998076940125896811",
+    "created_at": "2025-12-08T17:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T18:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998076940125896811"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "母狗"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "母人"
+        },
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "男尊女卑"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "无脑"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "傻逼"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 54,
+          "id": "1844956237135544320",
+          "start": 47,
+          "username": "zplike"
+        },
+        {
+          "end": 70,
+          "id": "1427499053227466756",
+          "start": 58,
+          "username": "wqganenshi_"
+        },
+        {
+          "end": 84,
+          "id": "1652591516756615171",
+          "start": 74,
+          "username": "DDDDBBHHH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2zG05XWlaz",
+          "end": 108,
+          "expanded_url": "https://x.com/SY1599838/status/1998076940125896811/photo/1",
+          "media_key": "3_1998076929849839616",
+          "start": 85,
+          "url": "https://t.co/2zG05XWlaz"
+        },
+        {
+          "display_url": "pic.x.com/2zG05XWlaz",
+          "end": 108,
+          "expanded_url": "https://x.com/SY1599838/status/1998076940125896811/photo/1",
+          "media_key": "3_1998076928738422785",
+          "start": 85,
+          "url": "https://t.co/2zG05XWlaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998076940125896811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "接着收傻逼无脑母狗，猪脑屄水乱喷，鸡把冲脑的死畜\n#母狗 #母人 #男尊女卑 #无脑 #傻逼\n@zplike \n \n@wqganenshi_ \n \n@DDDDBBHHH https://t.co/2zG05XWlaz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1097,
+        "media_key": "3_1998076929849839616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qYYaWaUAAhYge.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1998076928738422785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qYYWNbcAEFmGR.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998076929849839616",
+            "3_1998076928738422785"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "1998076940125896811",
+        "created_at": "2025-12-08T17:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T18:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998076940125896811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "母狗"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "母人"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "无脑"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "傻逼"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 54,
+              "id": "1844956237135544320",
+              "start": 47,
+              "username": "zplike"
+            },
+            {
+              "end": 70,
+              "id": "1427499053227466756",
+              "start": 58,
+              "username": "wqganenshi_"
+            },
+            {
+              "end": 84,
+              "id": "1652591516756615171",
+              "start": 74,
+              "username": "DDDDBBHHH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zG05XWlaz",
+              "end": 108,
+              "expanded_url": "https://x.com/SY1599838/status/1998076940125896811/photo/1",
+              "media_key": "3_1998076929849839616",
+              "start": 85,
+              "url": "https://t.co/2zG05XWlaz"
+            },
+            {
+              "display_url": "pic.x.com/2zG05XWlaz",
+              "end": 108,
+              "expanded_url": "https://x.com/SY1599838/status/1998076940125896811/photo/1",
+              "media_key": "3_1998076928738422785",
+              "start": 85,
+              "url": "https://t.co/2zG05XWlaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998076940125896811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接着收傻逼无脑母狗，猪脑屄水乱喷，鸡把冲脑的死畜\n#母狗 #母人 #男尊女卑 #无脑 #傻逼\n@zplike \n \n@wqganenshi_ \n \n@DDDDBBHHH https://t.co/2zG05XWlaz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBR7zS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBR7zS"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "南京",
+        "name": "曦主（黑心版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 417,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 37
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:   @jiaofu716428191     \n小号艾特➕关注帮转帖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 2,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 462
+        },
+        "username": "zplike",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T05:14:45.000Z",
+        "description": "接投稿！！！投稿格式：@wqganenshi_中文翻译：wq感恩石_|#超1天没转私我｜🌏老牌靠谱线下c圈约妹@jinchencos86｜🔥五年C圈信誉中介@huahuocos7｜ 💥简介招商",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "超1天没转私我"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "wqganenshi_"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "username": "jinchencos86"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "huahuocos7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_S-sTNs_LyIwN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_S-sTNs_LyIwN2E1",
+                "start": 0,
+                "url": "https://t.co/0u3WNRSlMt"
+              }
+            ]
+          }
+        },
+        "id": "1427499053227466756",
+        "location": "有稿投💨💦小群👇",
+        "name": "有稿投😁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1482978871964225537/zQoKqgXc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 300201,
+          "following_count": 167,
+          "like_count": 54427,
+          "listed_count": 419,
+          "media_count": 0,
+          "tweet_count": 50476
+        },
+        "url": "https://t.co/0u3WNRSlMt",
+        "username": "wqganenshi_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2023-04-30T08:31:44.000Z",
+        "description": "免费转推@DDDDBBHHH 直接@就可以。   每日大赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "DDDDBBHHH"
+              }
+            ]
+          }
+        },
+        "id": "1652591516756615171",
+        "name": "每日大赛（@帮转）",
+        "pinned_tweet_id": "1898995609756897717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652592430699651073/HYzCDgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3578,
+          "following_count": 130,
+          "like_count": 2771,
+          "listed_count": 7,
+          "media_count": 5,
+          "tweet_count": 3912
+        },
+        "username": "DDDDBBHHH",
+        "verified": false
+      }
+    ]
+  }
+}

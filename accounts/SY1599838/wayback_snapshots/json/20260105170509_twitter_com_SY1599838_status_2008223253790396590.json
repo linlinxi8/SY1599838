@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2008223253790396590",
+    "created_at": "2026-01-05T17:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T18:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008223253790396590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1014117257729863680",
+          "start": 3,
+          "username": "KentLu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008223253790396590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1772801114725118252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KentLu9: 個人很喜歡的母狗調教場景: 先栓在門邊, 賤穴插好電動遙控假肉棒與肛塞, 命令母狗抽插自己的淫穴, 必須像條淫蕩母狗一樣伸出舌頭, 而且不准高潮, 還必須要到寸止, 只要沒做到, 就賞牠幾個巴掌, 滿意以後, 再牽著狗繩, 在房間遛狗, 狗爬姿勢要正確…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2008223253790396590].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2008223253790396590",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2008223253790396590"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 106695,
+        "height": 1080,
+        "media_key": "7_1772799077648056320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1772799077648056320/pu/img/abr3EJ3OFq8_7Yqu.jpg",
+        "public_metrics": {
+          "view_count": 4605
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1772799077648056320/pu/vid/avc1/480x270/cLtXeBEij9prD7op.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1772799077648056320/pu/vid/avc1/1280x720/SyStjmISKd66cgLG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1772799077648056320/pu/vid/avc1/1920x1080/RVPoinyzK0E0f72_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1772799077648056320/pu/pl/6W1qyyHQ1ZffeO5G.m3u8?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1772799077648056320/pu/vid/avc1/640x360/0RUmoU-a_d_i4NYX.mp4?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1772799077648056320"
+          ]
+        },
+        "author_id": "1014117257729863680",
+        "conversation_id": "1772801114725118252",
+        "created_at": "2024-03-27T01:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-27T02:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1772801114725118252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kle2gjSjyu",
+              "end": 174,
+              "expanded_url": "https://x.com/KentLu9/status/1772801114725118252/video/1",
+              "media_key": "7_1772799077648056320",
+              "start": 151,
+              "url": "https://t.co/kle2gjSjyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1772801114725118252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "個人很喜歡的母狗調教場景: 先栓在門邊, 賤穴插好電動遙控假肉棒與肛塞, 命令母狗抽插自己的淫穴, 必須像條淫蕩母狗一樣伸出舌頭, 而且不准高潮, 還必須要到寸止, 只要沒做到, 就賞牠幾個巴掌, 滿意以後, 再牽著狗繩, 在房間遛狗, 狗爬姿勢要正確, 插著的假肉棒必須開到最高速, 賤穴必須夾緊, 快高潮時必須跟主人說,求主人減速, 全程只能寸止, 沒做到就狠狠的鞭打, 然後繼續遛, 繼續無限的寸止...."
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 16379,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "個人很喜歡的母狗調教場景: 先栓在門邊, 賤穴插好電動遙控假肉棒與肛塞, 命令母狗抽插自己的淫穴, 必須像條淫蕩母狗一樣伸出舌頭, 而且不准高潮, 還必須要到寸止, 只要沒做到, 就賞牠幾個巴掌, 滿意以後, 再牽著狗繩, 在房間遛狗, 狗爬姿勢要正確, 插著的假肉棒必須開到最高速, 賤穴必須夾緊, https://t.co/kle2gjSjyu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 435,
+          "like_count": 257,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 90
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-03T12:02:50.000Z",
+        "description": "我們每個人是獨立的，但也是孤獨的，\n像我橫幅的圖一樣, 無論是舞者(sub)或觀眾(Dom), \n我們都渴望被理解，希望透過某種特定的方式與志同道合者聯繫。\n希望在BDSM中, 我們都能遇到交心的朋友，\n或者讓身邊多幾位特別的伴侶\n🔞 newbie #Dom  #BDSM #SSC #知情同意",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 125,
+                "tag": "Dom"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "BDSM"
+              },
+              {
+                "end": 141,
+                "start": 137,
+                "tag": "SSC"
+              },
+              {
+                "end": 147,
+                "start": 142,
+                "tag": "知情同意"
+              }
+            ]
+          }
+        },
+        "id": "1014117257729863680",
+        "location": "BDSM ",
+        "name": "KentLiu",
+        "pinned_tweet_id": "1999702878752243728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702554194623025152/CcWNiflA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 58,
+          "like_count": 11089,
+          "listed_count": 6,
+          "media_count": 55,
+          "tweet_count": 589
+        },
+        "username": "KentLu9",
+        "verified": true
+      }
+    ]
+  }
+}

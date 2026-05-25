@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2007712083287388442",
+    "created_at": "2026-01-04T07:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T08:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007714615258730577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740325618640691200",
+          "start": 0,
+          "username": "lovemagg1e"
+        },
+        {
+          "end": 25,
+          "id": "2006294040548196352",
+          "start": 12,
+          "username": "zhouzhoufuwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007714615258730577",
+    "in_reply_to_user_id": "1740325618640691200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007714220117467262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovemagg1e @zhouzhoufuwa 哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736574795125563392",
+        "conversation_id": "2007712083287388442",
+        "created_at": "2026-01-04T07:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007714615258730577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740325618640691200",
+              "start": 0,
+              "username": "lovemagg1e"
+            },
+            {
+              "end": 25,
+              "id": "2006294040548196352",
+              "start": 12,
+              "username": "zhouzhoufuwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007714615258730577",
+        "in_reply_to_user_id": "1740325618640691200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007714220117467262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovemagg1e @zhouzhoufuwa 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740325618640691200",
+        "conversation_id": "2007712083287388442",
+        "created_at": "2026-01-04T07:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007714220117467262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1736574795125563392",
+              "start": 0,
+              "username": "SY1599838"
+            },
+            {
+              "end": 24,
+              "id": "2006294040548196352",
+              "start": 11,
+              "username": "zhouzhoufuwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007714220117467262",
+        "in_reply_to_user_id": "1736574795125563392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007713625180602514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SY1599838 @zhouzhoufuwa 咱俩一起上属实便宜这母驴了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 427,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 83
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T10:55:44.000Z",
+        "description": "q3408307295，想学习女德自己加，母人是下贱劣等的生物，理应被男爹驯化成温顺的母畜",
+        "id": "1740325618640691200",
+        "location": "骑在母驴逼脸上",
+        "name": "康拉德· 柯兹（诱捕母权）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997519505652858880/8ZqNLI5L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 1183,
+          "like_count": 386,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 357
+        },
+        "username": "lovemagg1e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T09:19:19.000Z",
+        "description": "🖤熟人勿扰",
+        "id": "2006294040548196352",
+        "name": "www",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007672284815978496/d9gKcESq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 23,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "username": "zhouzhoufuwa",
+        "verified": false
+      }
+    ]
+  }
+}

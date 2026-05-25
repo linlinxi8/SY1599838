@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996258740694368256",
+        "3_1996258740757282821"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1996255644639445089",
+    "created_at": "2025-12-03T16:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T17:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996258759442907160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oeonZIxOGT",
+          "end": 57,
+          "expanded_url": "https://x.com/SY1599838/status/1996258759442907160/photo/1",
+          "media_key": "3_1996258740694368256",
+          "start": 34,
+          "url": "https://t.co/oeonZIxOGT"
+        },
+        {
+          "display_url": "pic.x.com/oeonZIxOGT",
+          "end": 57,
+          "expanded_url": "https://x.com/SY1599838/status/1996258759442907160/photo/1",
+          "media_key": "3_1996258740757282821",
+          "start": 34,
+          "url": "https://t.co/oeonZIxOGT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996258759442907160",
+    "in_reply_to_user_id": "1736574795125563392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996255644639445089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刘雨卉 湖南科技大学机械工程 南校区12栋 就是这头自毁上瘾的傻逼 https://t.co/oeonZIxOGT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1968,
+        "media_key": "3_1996258740694368256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Qiv37bQAAPi9l.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996258740757282821",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Qiv4KbQAULU_3.jpg",
+        "width": 1255
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1996255634556403714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Qf7EqbQAIQAVl.jpg",
+        "width": 783
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1996255634501910528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Qf7EdbwAAvN5E.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996258740694368256",
+            "3_1996258740757282821"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "1996255644639445089",
+        "created_at": "2025-12-03T16:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T17:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996258759442907160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oeonZIxOGT",
+              "end": 57,
+              "expanded_url": "https://x.com/SY1599838/status/1996258759442907160/photo/1",
+              "media_key": "3_1996258740694368256",
+              "start": 34,
+              "url": "https://t.co/oeonZIxOGT"
+            },
+            {
+              "display_url": "pic.x.com/oeonZIxOGT",
+              "end": 57,
+              "expanded_url": "https://x.com/SY1599838/status/1996258759442907160/photo/1",
+              "media_key": "3_1996258740757282821",
+              "start": 34,
+              "url": "https://t.co/oeonZIxOGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996258759442907160",
+        "in_reply_to_user_id": "1736574795125563392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996255644639445089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刘雨卉 湖南科技大学机械工程 南校区12栋 就是这头自毁上瘾的傻逼 https://t.co/oeonZIxOGT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996255634556403714",
+            "3_1996255634501910528"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "1996255644639445089",
+        "created_at": "2025-12-03T16:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T17:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996255644639445089"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "母畜"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "母蛆"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "母驴"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "废物"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "傻逼"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "死妈"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "辱骂"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "洗脑"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "反差"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "贱货"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "上贡"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "自曝"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "自毁"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "低等"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "女德"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "倒贴"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "胁迫"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "母猪"
+            },
+            {
+              "end": 87,
+              "start": 85,
+              "tag": "丧"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rueXxp9gXV",
+              "end": 111,
+              "expanded_url": "https://x.com/SY1599838/status/1996255644639445089/photo/1",
+              "media_key": "3_1996255634556403714",
+              "start": 88,
+              "url": "https://t.co/rueXxp9gXV"
+            },
+            {
+              "display_url": "pic.x.com/rueXxp9gXV",
+              "end": 111,
+              "expanded_url": "https://x.com/SY1599838/status/1996255644639445089/photo/1",
+              "media_key": "3_1996255634501910528",
+              "start": 88,
+              "url": "https://t.co/rueXxp9gXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996255644639445089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深夜发情的贱逼\n#母畜  #母蛆 #母驴 #废物 #傻逼 #死妈  #辱骂 #洗脑 #反差 #贱货 #上贡 #自曝 #自毁 #低等  #女德 #倒贴   #胁迫 #母猪 #丧 https://t.co/rueXxp9gXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996238702704803840/wYQgIk5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 410,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "username": "SY1599838",
+        "verified": false
+      }
+    ]
+  }
+}

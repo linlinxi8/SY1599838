@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2007639379012198528",
+    "created_at": "2026-01-04T02:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T03:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007639379012198528"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "洗脑"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "贱货"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "调教"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "母狗"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "丧志"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "反差婊"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "发骚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1740325618640691200",
+          "start": 3,
+          "username": "lovemagg1e"
+        },
+        {
+          "end": 129,
+          "id": "1652591516756615171",
+          "start": 119,
+          "username": "DDDDBBHHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007639379012198528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998803742540587360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovemagg1e: 转载了这条推特，就意味着你是一头我随时可以回收的畜牲！只要我在你的主页看到了你的转载，我就可以直接辱骂你玩弄你！\n让所有人知道你是堕落的母畜！！\n#洗脑 #贱货 #调教 #母狗 #丧志 #反差婊 #发骚 \n@DDDDBBHHH \n@007shar…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007639379012198528].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007639379012198528",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007639379012198528"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 92869,
+        "height": 618,
+        "media_key": "7_1998803620570234880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1998803620570234880/pu/img/gcq-PnwcqDAGal19.jpg",
+        "public_metrics": {
+          "view_count": 492
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998803620570234880/pu/vid/avc1/304x270/OnD5T6IrDzb7uZ86.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998803620570234880/pu/vid/avc1/406x360/iOXmrPpyPQoID4ta.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998803620570234880/pu/vid/avc1/700x618/91IT6yebhNgrwo6v.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1998803620570234880/pu/pl/Z6xfXknsvwHNRkmQ.m3u8?tag=12"
+          }
+        ],
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1998803620570234880"
+          ]
+        },
+        "author_id": "1740325618640691200",
+        "conversation_id": "1998803742540587360",
+        "created_at": "2025-12-10T17:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T18:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998803742540587360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "洗脑"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "贱货"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "调教"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "母狗"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "丧志"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "反差婊"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "发骚"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 113,
+              "id": "1652591516756615171",
+              "start": 103,
+              "username": "DDDDBBHHH"
+            },
+            {
+              "end": 124,
+              "id": "1252372982",
+              "start": 115,
+              "username": "007share"
+            },
+            {
+              "end": 132,
+              "id": "1844956237135544320",
+              "start": 125,
+              "username": "zplike"
+            },
+            {
+              "end": 145,
+              "id": "1567177642562170883",
+              "start": 133,
+              "username": "tankebuluo1"
+            },
+            {
+              "end": 156,
+              "id": "1728416577463238656",
+              "start": 147,
+              "username": "tbzt2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3SLkxHEhOo",
+              "end": 180,
+              "expanded_url": "https://x.com/lovemagg1e/status/1998803742540587360/video/1",
+              "media_key": "7_1998803620570234880",
+              "start": 157,
+              "url": "https://t.co/3SLkxHEhOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998803742540587360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1656,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "转载了这条推特，就意味着你是一头我随时可以回收的畜牲！只要我在你的主页看到了你的转载，我就可以直接辱骂你玩弄你！\n让所有人知道你是堕落的母畜！！\n#洗脑 #贱货 #调教 #母狗 #丧志 #反差婊 #发骚 \n@DDDDBBHHH \n@007share @zplike\n@tankebuluo1 \n@tbzt2024 https://t.co/3SLkxHEhOo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 424,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 79
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T10:55:44.000Z",
+        "description": "q3408307295，想学习女德自己加，母人是下贱劣等的生物，理应被男爹驯化成温顺的母畜",
+        "id": "1740325618640691200",
+        "location": "骑在母驴逼脸上",
+        "name": "康拉德· 柯兹（诱捕母权）",
+        "pinned_tweet_id": "1998744381621457120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997519505652858880/8ZqNLI5L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 1184,
+          "like_count": 381,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 354
+        },
+        "username": "lovemagg1e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T08:31:44.000Z",
+        "description": "免费转推@DDDDBBHHH 直接@就可以。   每日大赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "DDDDBBHHH"
+              }
+            ]
+          }
+        },
+        "id": "1652591516756615171",
+        "name": "每日大赛（@帮转）",
+        "pinned_tweet_id": "1898995609756897717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652592430699651073/HYzCDgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3723,
+          "following_count": 128,
+          "like_count": 2924,
+          "listed_count": 10,
+          "media_count": 5,
+          "tweet_count": 4124
+        },
+        "username": "DDDDBBHHH",
+        "verified": false
+      }
+    ]
+  }
+}

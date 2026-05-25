@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009145640035733506",
+        "3_2009145790938402819"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009145956261089296",
+    "created_at": "2026-01-08T06:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T07:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009145956261089296"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 105,
+          "tag": "羞辱洗脑"
+        },
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "母猪发情"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 129,
+          "id": "1652591516756615171",
+          "start": 119,
+          "username": "DDDDBBHHH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3U7opwNieU",
+          "end": 153,
+          "expanded_url": "https://x.com/SY1599838/status/2009145956261089296/photo/1",
+          "media_key": "3_2009145640035733506",
+          "start": 130,
+          "url": "https://t.co/3U7opwNieU"
+        },
+        {
+          "display_url": "pic.x.com/3U7opwNieU",
+          "end": 153,
+          "expanded_url": "https://x.com/SY1599838/status/2009145956261089296/photo/1",
+          "media_key": "3_2009145790938402819",
+          "start": 130,
+          "url": "https://t.co/3U7opwNieU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009145956261089296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "双手环抱着紧实的大腿，臻首也被粗壮的手臂如用品般抓着头发粗鲁地摁在肉根下，仅仅是压倒性的雄性气息便让丰满淫骚的肉体发情献媚屄水直流，迷离地吐着热气伸出香舌，黏在肉根上如圣物般侍奉，大脑完全如浆糊般被情欲填满🖤\n#羞辱洗脑  #母猪发情 \n@DDDDBBHHH https://t.co/3U7opwNieU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2009145640035733506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-HrUJBa0AInQ1F.jpg",
+        "width": 849
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2009145790938402819",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Hrc7La0AMXS7C.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009145640035733506",
+            "3_2009145790938402819"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009145956261089296",
+        "created_at": "2026-01-08T06:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T07:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009145956261089296"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "羞辱洗脑"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "母猪发情"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 129,
+              "id": "1652591516756615171",
+              "start": 119,
+              "username": "DDDDBBHHH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3U7opwNieU",
+              "end": 153,
+              "expanded_url": "https://x.com/SY1599838/status/2009145956261089296/photo/1",
+              "media_key": "3_2009145640035733506",
+              "start": 130,
+              "url": "https://t.co/3U7opwNieU"
+            },
+            {
+              "display_url": "pic.x.com/3U7opwNieU",
+              "end": 153,
+              "expanded_url": "https://x.com/SY1599838/status/2009145956261089296/photo/1",
+              "media_key": "3_2009145790938402819",
+              "start": 130,
+              "url": "https://t.co/3U7opwNieU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009145956261089296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "双手环抱着紧实的大腿，臻首也被粗壮的手臂如用品般抓着头发粗鲁地摁在肉根下，仅仅是压倒性的雄性气息便让丰满淫骚的肉体发情献媚屄水直流，迷离地吐着热气伸出香舌，黏在肉根上如圣物般侍奉，大脑完全如浆糊般被情欲填满🖤\n#羞辱洗脑  #母猪发情 \n@DDDDBBHHH https://t.co/3U7opwNieU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 461,
+          "like_count": 270,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 96
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T08:31:44.000Z",
+        "description": "免费转推@DDDDBBHHH 直接@就可以。   每日大赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "DDDDBBHHH"
+              }
+            ]
+          }
+        },
+        "id": "1652591516756615171",
+        "name": "每日大赛（@帮转）",
+        "pinned_tweet_id": "1898995609756897717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652592430699651073/HYzCDgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3759,
+          "following_count": 127,
+          "like_count": 2939,
+          "listed_count": 10,
+          "media_count": 5,
+          "tweet_count": 4140
+        },
+        "username": "DDDDBBHHH",
+        "verified": false
+      }
+    ]
+  }
+}

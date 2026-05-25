@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2018903157238349863",
+    "created_at": "2026-02-04T04:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T05:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018903157238349863"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "女神"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "反差"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "母狗"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "羞辱"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "人妻"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "少妇"
+        },
+        {
+          "end": 129,
+          "start": 125,
+          "tag": "白富美"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "女大"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "御姐"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994650544338866176",
+          "start": 3,
+          "username": "xhenhuan"
+        },
+        {
+          "end": 89,
+          "id": "1844956237135544320",
+          "start": 82,
+          "username": "zplike"
+        },
+        {
+          "end": 100,
+          "id": "1736574795125563392",
+          "start": 90,
+          "username": "SY1599838"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018903157238349863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018900221204590733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xhenhuan: 装尼玛的什么高冷女神白富美，来了爹这里都是一排跪好了，母狗们扣着穴等着爹的赏赐，爹的命令是绝对的，没赏给母狗之前就伸好了舌头拱着b等着 @zplike @SY1599838 #女神 #反差 #母狗 #羞辱 #人妻 #少妇 #白富美 #女大 #御姐 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018903157238349863].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018903157238349863",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018903157238349863"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_2018900213315112960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASTDCObkAAFPxD.jpg",
+        "width": 1121
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018900213315112960"
+          ]
+        },
+        "author_id": "1994650544338866176",
+        "conversation_id": "2018900221204590733",
+        "created_at": "2026-02-04T04:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018900221204590733"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "女神"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "反差"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "母狗"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "羞辱"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "人妻"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "少妇"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "白富美"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "女大"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "御姐"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "调教"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 75,
+              "id": "1844956237135544320",
+              "start": 68,
+              "username": "zplike"
+            },
+            {
+              "end": 86,
+              "id": "1736574795125563392",
+              "start": 76,
+              "username": "SY1599838"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IC3cJY76Ak",
+              "end": 151,
+              "expanded_url": "https://x.com/xhenhuan/status/2018900221204590733/photo/1",
+              "media_key": "3_2018900213315112960",
+              "start": 128,
+              "url": "https://t.co/IC3cJY76Ak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018900221204590733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "装尼玛的什么高冷女神白富美，来了爹这里都是一排跪好了，母狗们扣着穴等着爹的赏赐，爹的命令是绝对的，没赏给母狗之前就伸好了舌头拱着b等着 @zplike @SY1599838 #女神 #反差 #母狗 #羞辱 #人妻 #少妇 #白富美 #女大 #御姐 #调教 https://t.co/IC3cJY76Ak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "2016460297947459805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 566,
+          "like_count": 332,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 137
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T06:12:15.000Z",
+        "description": "高冷女神/清纯女大/外人眼中的乖乖女/反差性瘾人妻/高管/白富美 接受野爹的调教 羞辱 洗脑 榨金 任务 做野爹的奴隶 做真实的母猪贱狗肉便器 QQ： 2148133364 VX：xiaohonwell",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hongge123",
+                "end": 23,
+                "expanded_url": "http://t.me/hongge123",
+                "start": 0,
+                "url": "https://t.co/PTq5PDYdy4"
+              }
+            ]
+          }
+        },
+        "id": "1994650544338866176",
+        "name": "宏爹",
+        "pinned_tweet_id": "2017526703694983594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013179265064280064/EZOzMAI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 352,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/PTq5PDYdy4",
+        "username": "xhenhuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:    @jiaofu716428191     v:wsdbtxx\n Q:867768161",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 9,
+          "like_count": 115,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 617
+        },
+        "username": "zplike",
+        "verified": false
+      }
+    ]
+  }
+}

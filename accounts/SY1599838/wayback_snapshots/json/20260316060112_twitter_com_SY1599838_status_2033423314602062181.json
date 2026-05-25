@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2033423314602062181",
+    "created_at": "2026-03-16T06:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033423314602062181"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "母畜"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "母猪"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "拱逼"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "媚男"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "婊子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1816502226380361728",
+          "start": 3,
+          "username": "FengliuC3133"
+        },
+        {
+          "end": 91,
+          "id": "1994695281909403656",
+          "start": 77,
+          "username": "liaoyiansheng"
+        },
+        {
+          "end": 105,
+          "id": "1427499053227466756",
+          "start": 93,
+          "username": "wqganenshi_"
+        },
+        {
+          "end": 117,
+          "id": "1652591516756615171",
+          "start": 107,
+          "username": "DDDDBBHHH"
+        },
+        {
+          "end": 127,
+          "id": "1279376447111442433",
+          "start": 118,
+          "username": "Haosehou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033423314602062181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033348745468018850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FengliuC3133: 女权女神挑战\n需母人全程内裤套头跟随视频母猪淫叫扣质自慰认清自己低贱的身份\n#母畜 #母猪  #拱逼 #媚男 ＃婊子\n@liaoyiansheng \n@wqganenshi_ \n@DDDDBBHHH\n@Haosehou https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033423314602062181].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033423314602062181",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033423314602062181"
+    },
+    {
+      "detail": "User has been suspended: [liaoyiansheng].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "liaoyiansheng",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "liaoyiansheng"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 131425,
+        "height": 1280,
+        "media_key": "7_2033348502273818625",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2033348502273818625/pu/img/RPrHIbq3nPLKD1XA.jpg",
+        "public_metrics": {
+          "view_count": 52
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033348502273818625/pu/vid/avc1/320x710/ZGP2lZAw_oEDhKvK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033348502273818625/pu/vid/avc1/480x1066/Ugc0asAaYP94MD0q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033348502273818625/pu/vid/avc1/576x1280/UdC2PqcZ9LqeWOp2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2033348502273818625/pu/pl/lg4n9ZVxXe6t9vK7.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2033348502273818625"
+          ]
+        },
+        "author_id": "1816502226380361728",
+        "conversation_id": "2033348745468018850",
+        "created_at": "2026-03-16T01:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T02:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033348745468018850"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "母畜"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "母猪"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "拱逼"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "媚男"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "婊子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 73,
+              "id": "1994695281909403656",
+              "start": 59,
+              "username": "liaoyiansheng"
+            },
+            {
+              "end": 87,
+              "id": "1427499053227466756",
+              "start": 75,
+              "username": "wqganenshi_"
+            },
+            {
+              "end": 99,
+              "id": "1652591516756615171",
+              "start": 89,
+              "username": "DDDDBBHHH"
+            },
+            {
+              "end": 109,
+              "id": "1279376447111442433",
+              "start": 100,
+              "username": "Haosehou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbTKx2p92V",
+              "end": 133,
+              "expanded_url": "https://x.com/FengliuC3133/status/2033348745468018850/video/1",
+              "media_key": "7_2033348502273818625",
+              "start": 110,
+              "url": "https://t.co/xbTKx2p92V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033348745468018850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "女权女神挑战\n需母人全程内裤套头跟随视频母猪淫叫扣质自慰认清自己低贱的身份\n#母畜 #母猪  #拱逼 #媚男 ＃婊子\n@liaoyiansheng \n@wqganenshi_ \n@DDDDBBHHH\n@Haosehou https://t.co/xbTKx2p92V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 555,
+          "like_count": 334,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 150
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:54:40.000Z",
+        "description": "防丢小号 @xiaoxin318260 🐧318260856（说明来意）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "xiaoxin318260"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoxinn60",
+                "end": 23,
+                "expanded_url": "https://t.me/xiaoxinn60",
+                "start": 0,
+                "url": "https://t.co/057SWpK0EE"
+              }
+            ]
+          }
+        },
+        "id": "1816502226380361728",
+        "name": "小新🖤",
+        "pinned_tweet_id": "2022272480690520079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008832702456471552/Q_BITctm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 478,
+          "like_count": 3712,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/057SWpK0EE",
+        "username": "FengliuC3133",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T05:14:45.000Z",
+        "description": "接投稿！！！投稿同时@wqganenshi_中文翻译：wq感恩石_|#超1天没转私我｜💎玩外围怕踩坑？找金教授 @jjshou13｜🌏老牌靠谱线下c圈约妹@jinchencos520｜ 🌟 优质语视店铺 @lukekepwdian｜💥简介招商",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "超1天没转私我"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "wqganenshi_"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "jjshou13"
+              },
+              {
+                "end": 91,
+                "start": 77,
+                "username": "jinchencos520"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "lukekepwdian"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_S-sTNs_LyIwN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_S-sTNs_LyIwN2E1",
+                "start": 0,
+                "url": "https://t.co/0u3WNRSlMt"
+              }
+            ]
+          }
+        },
+        "id": "1427499053227466756",
+        "location": "有稿投💨💦小群👇",
+        "name": "有稿投😁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1482978871964225537/zQoKqgXc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 309656,
+          "following_count": 205,
+          "like_count": 58652,
+          "listed_count": 435,
+          "media_count": 0,
+          "tweet_count": 54918
+        },
+        "url": "https://t.co/0u3WNRSlMt",
+        "username": "wqganenshi_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2023-04-30T08:31:44.000Z",
+        "description": "免费转推@DDDDBBHHH 直接@就可以。   每日大赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "DDDDBBHHH"
+              }
+            ]
+          }
+        },
+        "id": "1652591516756615171",
+        "name": "每日大赛（@帮转）",
+        "pinned_tweet_id": "1898995609756897717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652592430699651073/HYzCDgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4209,
+          "following_count": 129,
+          "like_count": 2959,
+          "listed_count": 10,
+          "media_count": 5,
+          "tweet_count": 4512
+        },
+        "username": "DDDDBBHHH",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-04T11:28:21.000Z",
+        "description": "全国高质量资深C圈外围@beizhecos02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "beizhecos02"
+              }
+            ]
+          }
+        },
+        "id": "1279376447111442433",
+        "location": "距离你8.88KM",
+        "name": "好色猴",
+        "pinned_tweet_id": "1836334415490036002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697127100460027904/MfGTwwVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543741,
+          "following_count": 111,
+          "like_count": 1618,
+          "listed_count": 1643,
+          "media_count": 3271,
+          "tweet_count": 588478
+        },
+        "username": "Haosehou",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

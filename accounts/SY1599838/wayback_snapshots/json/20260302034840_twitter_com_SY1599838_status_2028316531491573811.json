@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028315939574607872",
+        "3_2028315940895801344",
+        "3_2028315941382328320",
+        "3_2028316023393488896"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2028316531491573811",
+    "created_at": "2026-03-02T03:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T04:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028316531491573811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 56,
+          "id": "1844956237135544320",
+          "start": 49,
+          "username": "zplike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sxfe6vY4yD",
+          "end": 89,
+          "expanded_url": "https://x.com/SY1599838/status/2028316531491573811/photo/1",
+          "media_key": "3_2028315939574607872",
+          "start": 66,
+          "url": "https://t.co/Sxfe6vY4yD"
+        },
+        {
+          "display_url": "pic.x.com/Sxfe6vY4yD",
+          "end": 89,
+          "expanded_url": "https://x.com/SY1599838/status/2028316531491573811/photo/1",
+          "media_key": "3_2028315940895801344",
+          "start": 66,
+          "url": "https://t.co/Sxfe6vY4yD"
+        },
+        {
+          "display_url": "pic.x.com/Sxfe6vY4yD",
+          "end": 89,
+          "expanded_url": "https://x.com/SY1599838/status/2028316531491573811/photo/1",
+          "media_key": "3_2028315941382328320",
+          "start": 66,
+          "url": "https://t.co/Sxfe6vY4yD"
+        },
+        {
+          "display_url": "pic.x.com/Sxfe6vY4yD",
+          "end": 89,
+          "expanded_url": "https://x.com/SY1599838/status/2028316531491573811/photo/1",
+          "media_key": "3_2028316023393488896",
+          "start": 66,
+          "url": "https://t.co/Sxfe6vY4yD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028316531491573811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "限时曝光骚逼母猪🖤\n清理厕所的骚逼婊子被祖宗胁迫🖤无脑发情吃屎母猪～欢迎大家评论区羞辱～母猪会看\n@zplike \n@DDDDBB https://t.co/Sxfe6vY4yD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2028315939574607872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYGmb6bcAAcfv-.jpg",
+        "width": 1212
+      },
+      {
+        "height": 2117,
+        "media_key": "3_2028315940895801344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYGmg1bQAAjS3w.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2181,
+        "media_key": "3_2028315941382328320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYGmipbEAAUheQ.jpg",
+        "width": 1194
+      },
+      {
+        "height": 1849,
+        "media_key": "3_2028316023393488896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYGrUKaEAAKjF0.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028315939574607872",
+            "3_2028315940895801344",
+            "3_2028315941382328320",
+            "3_2028316023393488896"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2028316531491573811",
+        "created_at": "2026-03-02T03:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T04:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028316531491573811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 56,
+              "id": "1844956237135544320",
+              "start": 49,
+              "username": "zplike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sxfe6vY4yD",
+              "end": 89,
+              "expanded_url": "https://x.com/SY1599838/status/2028316531491573811/photo/1",
+              "media_key": "3_2028315939574607872",
+              "start": 66,
+              "url": "https://t.co/Sxfe6vY4yD"
+            },
+            {
+              "display_url": "pic.x.com/Sxfe6vY4yD",
+              "end": 89,
+              "expanded_url": "https://x.com/SY1599838/status/2028316531491573811/photo/1",
+              "media_key": "3_2028315940895801344",
+              "start": 66,
+              "url": "https://t.co/Sxfe6vY4yD"
+            },
+            {
+              "display_url": "pic.x.com/Sxfe6vY4yD",
+              "end": 89,
+              "expanded_url": "https://x.com/SY1599838/status/2028316531491573811/photo/1",
+              "media_key": "3_2028315941382328320",
+              "start": 66,
+              "url": "https://t.co/Sxfe6vY4yD"
+            },
+            {
+              "display_url": "pic.x.com/Sxfe6vY4yD",
+              "end": 89,
+              "expanded_url": "https://x.com/SY1599838/status/2028316531491573811/photo/1",
+              "media_key": "3_2028316023393488896",
+              "start": 66,
+              "url": "https://t.co/Sxfe6vY4yD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028316531491573811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "限时曝光骚逼母猪🖤\n清理厕所的骚逼婊子被祖宗胁迫🖤无脑发情吃屎母猪～欢迎大家评论区羞辱～母猪会看\n@zplike \n@DDDDBB https://t.co/Sxfe6vY4yD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 572,
+          "like_count": 335,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 149
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:    @jiaofu716428191     v:wsdbtxx\n Q:867768161",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "2027668958573412477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 8,
+          "like_count": 197,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 704
+        },
+        "username": "zplike",
+        "verified": false
+      }
+    ]
+  }
+}

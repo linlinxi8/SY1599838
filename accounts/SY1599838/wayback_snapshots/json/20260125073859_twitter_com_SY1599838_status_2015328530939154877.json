@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2015328530939154877",
+    "created_at": "2026-01-25T07:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T08:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015328530939154877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1930815952578637824",
+          "start": 3,
+          "username": "j6M5CFSDAU12781"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015328530939154877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014765364933230619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @j6M5CFSDAU12781: ～哦哦哦母狗冉是曦爹祖宗的性奴便器鸡巴套子梦傻逼，母猪正在完成祖宗的任务啊阿啊!刷到推的凭截图可以随意操我哦哦哦猪屄好痒!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736574795125563392",
+        "conversation_id": "2015328530939154877",
+        "created_at": "2026-01-25T07:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015328530939154877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1930815952578637824",
+              "start": 3,
+              "username": "j6M5CFSDAU12781"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015328530939154877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014765364933230619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @j6M5CFSDAU12781: ～哦哦哦母狗冉是曦爹祖宗的性奴便器鸡巴套子梦傻逼，母猪正在完成祖宗的任务啊阿啊!刷到推的凭截图可以随意操我哦哦哦猪屄好痒!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930815952578637824",
+        "conversation_id": "2014765364933230619",
+        "created_at": "2026-01-23T18:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T19:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014765364933230619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014765364933230619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "～哦哦哦母狗冉是曦爹祖宗的性奴便器鸡巴套子梦傻逼，母猪正在完成祖宗的任务啊阿啊!刷到推的凭截图可以随意操我哦哦哦猪屄好痒!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 546,
+          "like_count": 314,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 123
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T02:36:21.000Z",
+        "description": "母狗冉承认是曦爹的骚逼母猪鸡巴套子\n@曦主（黑心版）",
+        "id": "1930815952578637824",
+        "name": "曦爹祖宗的傻逼母狗冉",
+        "pinned_tweet_id": "2012814828381822978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014216813090119681/akNOrH5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 112,
+          "like_count": 169,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "username": "j6M5CFSDAU12781",
+        "verified": false
+      }
+    ]
+  }
+}

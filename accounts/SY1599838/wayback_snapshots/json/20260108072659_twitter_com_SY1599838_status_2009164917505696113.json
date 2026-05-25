@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991786533066801153",
+        "3_1991786533083648000",
+        "3_1991786533066821632",
+        "13_1991786533083664384"
+      ],
+      "media_source_tweet_id": [
+        "1991786611806478754",
+        "1991786611806478754",
+        "1991786611806478754",
+        "1991786611806478754"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2009164917505696113",
+    "created_at": "2026-01-08T07:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T08:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009164917505696113"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "曝光"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "社死挑战"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "社死"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "母狗"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "反差"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "女大"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "公交车"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "自毁"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "母猪"
+        },
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "投稿曝光"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905248094704521216",
+          "start": 3,
+          "username": "bnAdvmdoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/II8daYuWV8",
+          "end": 140,
+          "expanded_url": "https://x.com/bnAdvmdoll/status/1991786611806478754/video/1",
+          "media_key": "3_1991786533066801153",
+          "start": 117,
+          "url": "https://t.co/II8daYuWV8"
+        },
+        {
+          "display_url": "pic.x.com/II8daYuWV8",
+          "end": 140,
+          "expanded_url": "https://x.com/bnAdvmdoll/status/1991786611806478754/video/1",
+          "media_key": "3_1991786533083648000",
+          "start": 117,
+          "url": "https://t.co/II8daYuWV8"
+        },
+        {
+          "display_url": "pic.x.com/II8daYuWV8",
+          "end": 140,
+          "expanded_url": "https://x.com/bnAdvmdoll/status/1991786611806478754/video/1",
+          "media_key": "3_1991786533066821632",
+          "start": 117,
+          "url": "https://t.co/II8daYuWV8"
+        },
+        {
+          "display_url": "pic.x.com/II8daYuWV8",
+          "end": 140,
+          "expanded_url": "https://x.com/bnAdvmdoll/status/1991786611806478754/video/1",
+          "media_key": "13_1991786533083664384",
+          "start": 117,
+          "url": "https://t.co/II8daYuWV8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009164917505696113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991786611806478754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bnAdvmdoll: 秦皇岛温馨家园3栋的鸡巴套子张倩熙，男朋友赵籽岩，是个倒贴的下贱大专母狗婊子，也是欲求不满渴望鸡巴的弱智肉便器。#曝光 #社死挑战 #社死 #母狗 #反差 #女大 #公交车 #自毁 #母猪 #投稿曝光 https://t.co/II8daYuWV8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009164917505696113].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009164917505696113",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009164917505696113"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1991786533066801153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Q_TIPagAE2fJe.jpg",
+        "width": 682
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1991786533083648000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Q_TITbkAAvdM0.jpg",
+        "width": 683
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1991786533066821632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Q_TIPa0AAcB4a.jpg",
+        "width": 834
+      },
+      {
+        "duration_ms": 16283,
+        "height": 716,
+        "media_key": "13_1991786533083664384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991786533083664384/img/aOq_ua5QShPhNC3b.jpg",
+        "public_metrics": {
+          "view_count": 515
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991786533083664384/vid/avc1/470x270/dGZQ-sj8URCYHtKB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991786533083664384/vid/avc1/628x360/UI56NU7eqpkgl094.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991786533083664384/vid/avc1/1250x716/RNWhPfM9pktCDa-4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991786533083664384/pl/PAZhnJbe4AHPpQ3Y.m3u8"
+          }
+        ],
+        "width": 1250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991786533066801153",
+            "3_1991786533083648000",
+            "3_1991786533066821632",
+            "13_1991786533083664384"
+          ]
+        },
+        "author_id": "1905248094704521216",
+        "conversation_id": "1991786611806478754",
+        "created_at": "2025-11-21T08:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T09:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991786611806478754"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "曝光"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "社死挑战"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "社死"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "母狗"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "反差"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "女大"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "公交车"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "自毁"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "母猪"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "投稿曝光"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/II8daYuWV8",
+              "end": 124,
+              "expanded_url": "https://x.com/bnAdvmdoll/status/1991786611806478754/video/1",
+              "media_key": "3_1991786533066801153",
+              "start": 101,
+              "url": "https://t.co/II8daYuWV8"
+            },
+            {
+              "display_url": "pic.x.com/II8daYuWV8",
+              "end": 124,
+              "expanded_url": "https://x.com/bnAdvmdoll/status/1991786611806478754/video/1",
+              "media_key": "3_1991786533083648000",
+              "start": 101,
+              "url": "https://t.co/II8daYuWV8"
+            },
+            {
+              "display_url": "pic.x.com/II8daYuWV8",
+              "end": 124,
+              "expanded_url": "https://x.com/bnAdvmdoll/status/1991786611806478754/video/1",
+              "media_key": "3_1991786533066821632",
+              "start": 101,
+              "url": "https://t.co/II8daYuWV8"
+            },
+            {
+              "display_url": "pic.x.com/II8daYuWV8",
+              "end": 124,
+              "expanded_url": "https://x.com/bnAdvmdoll/status/1991786611806478754/video/1",
+              "media_key": "13_1991786533083664384",
+              "start": 101,
+              "url": "https://t.co/II8daYuWV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991786611806478754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1168,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "秦皇岛温馨家园3栋的鸡巴套子张倩熙，男朋友赵籽岩，是个倒贴的下贱大专母狗婊子，也是欲求不满渴望鸡巴的弱智肉便器。#曝光 #社死挑战 #社死 #母狗 #反差 #女大 #公交车 #自毁 #母猪 #投稿曝光 https://t.co/II8daYuWV8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 462,
+          "like_count": 271,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 96
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T13:18:46.000Z",
+        "description": "主页曝光，想倒贴的私信备注傻逼母猪， 长期爆耍母傻逼，私信直接吐自己年龄/职业/QQ加贡献自己三张精修自拍一张现拍逼照，犯贱可曝光评价羞辱打分 电报https://t.co/RjsiRtfmEy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Fgghhgds",
+                "end": 97,
+                "expanded_url": "https://t.me/Fgghhgds",
+                "start": 74,
+                "url": "https://t.co/RjsiRtfmEy"
+              }
+            ]
+          }
+        },
+        "id": "1905248094704521216",
+        "name": "黑心D爹",
+        "pinned_tweet_id": "1991786611806478754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905483608196087809/DhXojPLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 25,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 60
+        },
+        "username": "bnAdvmdoll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1965413574387601408"
+      ],
+      "media_source_tweet_id": [
+        "1965413886133432436"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1966340775157076379",
+    "created_at": "2025-09-12T03:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T04:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966340775157076379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "845063886",
+          "start": 3,
+          "username": "tofb2010"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m6S8GFsyGW",
+          "end": 43,
+          "expanded_url": "https://x.com/tofb2010/status/1965413886133432436/video/1",
+          "media_key": "13_1965413574387601408",
+          "start": 20,
+          "url": "https://t.co/m6S8GFsyGW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966340775157076379",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2542
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965413886133432436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tofb2010: Wataa https://t.co/m6S8GFsyGW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1966340775157076379].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1966340775157076379",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1966340775157076379"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38847,
+        "height": 1220,
+        "media_key": "13_1965413574387601408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965413574387601408/img/BhtI6htWDDVBAEyw.jpg",
+        "public_metrics": {
+          "view_count": 186483
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965413574387601408/vid/avc1/320x360/VaZuBWd8W8zdMiSa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965413574387601408/vid/avc1/480x542/FIEDqm-xlScAFDUR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965413574387601408/vid/avc1/720x812/eoR46JLRylaT_Zd7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965413574387601408/pl/qMkOroSdxRR4RWW6.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965413574387601408"
+          ]
+        },
+        "author_id": "845063886",
+        "conversation_id": "1965413886133432436",
+        "created_at": "2025-09-09T13:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965413886133432436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m6S8GFsyGW",
+              "end": 29,
+              "expanded_url": "https://x.com/tofb2010/status/1965413886133432436/video/1",
+              "media_key": "13_1965413574387601408",
+              "start": 6,
+              "url": "https://t.co/m6S8GFsyGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965413886133432436",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6438,
+          "impression_count": 563973,
+          "like_count": 16605,
+          "quote_count": 16,
+          "reply_count": 79,
+          "retweet_count": 2542
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa https://t.co/m6S8GFsyGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875692524096122881/jStRE-Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 244,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-25T07:39:36.000Z",
+        "description": "𝙉𝙎𝙁𝙒 18+🔞专注分享高质量视频｜每日更新 精彩不断｜点点关注不迷路❤️",
+        "id": "845063886",
+        "name": "口艺妓",
+        "pinned_tweet_id": "1965655044461920634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965059723289665536/5MIbl6mB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6265,
+          "following_count": 31,
+          "like_count": 83,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 63
+        },
+        "username": "tofb2010",
+        "verified": false
+      }
+    ]
+  }
+}

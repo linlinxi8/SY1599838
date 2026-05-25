@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998315004555333632",
+        "3_1998315313713369088"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1998315368457322662",
+    "created_at": "2025-12-09T08:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T09:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998315368457322662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 67,
+          "id": "1844956237135544320",
+          "start": 60,
+          "username": "zplike"
+        },
+        {
+          "end": 78,
+          "id": "1652591516756615171",
+          "start": 68,
+          "username": "DDDDBBHHH"
+        },
+        {
+          "end": 88,
+          "id": "1728416577463238656",
+          "start": 79,
+          "username": "tbzt2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mz8fKfnlVx",
+          "end": 112,
+          "expanded_url": "https://x.com/SY1599838/status/1998315368457322662/photo/1",
+          "media_key": "3_1998315004555333632",
+          "start": 89,
+          "url": "https://t.co/Mz8fKfnlVx"
+        },
+        {
+          "display_url": "pic.x.com/Mz8fKfnlVx",
+          "end": 112,
+          "expanded_url": "https://x.com/SY1599838/status/1998315368457322662/photo/1",
+          "media_key": "3_1998315313713369088",
+          "start": 89,
+          "url": "https://t.co/Mz8fKfnlVx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998315368457322662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然说败者跪在了脚底，卑微到一无是处\n但是脑子里面已经爽到上天堂了啊\n送逼就要有送逼母猪的样子，倒贴着拱穴高潮\n感谢帮转@zplike @DDDDBBHHH @tbzt2024 https://t.co/Mz8fKfnlVx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1427,
+        "media_key": "3_1998315004555333632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7tw6LvakAA1F_H.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1998315313713369088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7txMLcb0AAIA_J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998315004555333632",
+            "3_1998315313713369088"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "1998315368457322662",
+        "created_at": "2025-12-09T08:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998315368457322662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1844956237135544320",
+              "start": 60,
+              "username": "zplike"
+            },
+            {
+              "end": 78,
+              "id": "1652591516756615171",
+              "start": 68,
+              "username": "DDDDBBHHH"
+            },
+            {
+              "end": 88,
+              "id": "1728416577463238656",
+              "start": 79,
+              "username": "tbzt2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mz8fKfnlVx",
+              "end": 112,
+              "expanded_url": "https://x.com/SY1599838/status/1998315368457322662/photo/1",
+              "media_key": "3_1998315004555333632",
+              "start": 89,
+              "url": "https://t.co/Mz8fKfnlVx"
+            },
+            {
+              "display_url": "pic.x.com/Mz8fKfnlVx",
+              "end": 112,
+              "expanded_url": "https://x.com/SY1599838/status/1998315368457322662/photo/1",
+              "media_key": "3_1998315313713369088",
+              "start": 89,
+              "url": "https://t.co/Mz8fKfnlVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998315368457322662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然说败者跪在了脚底，卑微到一无是处\n但是脑子里面已经爽到上天堂了啊\n送逼就要有送逼母猪的样子，倒贴着拱穴高潮\n感谢帮转@zplike @DDDDBBHHH @tbzt2024 https://t.co/Mz8fKfnlVx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBR7zS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBR7zS"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "南京",
+        "name": "曦主（黑心版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 409,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 39
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:   @jiaofu716428191     \n小号艾特➕关注帮转帖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 2,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 468
+        },
+        "username": "zplike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T08:31:44.000Z",
+        "description": "免费转推@DDDDBBHHH 直接@就可以。   每日大赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "DDDDBBHHH"
+              }
+            ]
+          }
+        },
+        "id": "1652591516756615171",
+        "name": "每日大赛（@帮转）",
+        "pinned_tweet_id": "1898995609756897717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652592430699651073/HYzCDgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3578,
+          "following_count": 130,
+          "like_count": 2774,
+          "listed_count": 7,
+          "media_count": 5,
+          "tweet_count": 3918
+        },
+        "username": "DDDDBBHHH",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T14:13:44.000Z",
+        "description": "老号@tbzt3623已封！请关注投稿这个新号！！！                           接投稿！正文艾特我，会转！！！转推内容自行甄别，概不负责！接推广，请私信！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "tbzt3623"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=dmG51put",
+                "start": 0,
+                "url": "https://t.co/VhOCOwrpdX"
+              }
+            ]
+          }
+        },
+        "id": "1728416577463238656",
+        "location": "自用VPN推荐，有需要请点下面链接👇",
+        "name": "推波助臀（接投稿）",
+        "pinned_tweet_id": "1931641444315566286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757611212559499264/Zx1N02L-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58188,
+          "following_count": 87,
+          "like_count": 19216,
+          "listed_count": 186,
+          "media_count": 57,
+          "tweet_count": 19072
+        },
+        "url": "https://t.co/VhOCOwrpdX",
+        "username": "tbzt2024",
+        "verified": false
+      }
+    ]
+  }
+}

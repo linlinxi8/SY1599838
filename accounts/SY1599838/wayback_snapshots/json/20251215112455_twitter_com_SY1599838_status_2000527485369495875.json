@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999848116967854080",
+        "3_1999848117005598720",
+        "3_1999848116988817408",
+        "3_1999848116997218304"
+      ],
+      "media_source_tweet_id": [
+        "1999848128640626980",
+        "1999848128640626980",
+        "1999848128640626980",
+        "1999848128640626980"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2000527485369495875",
+    "created_at": "2025-12-15T11:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T12:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000527485369495875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1959121084374286336",
+          "start": 3,
+          "username": "yayale6666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/61fCDQbxYk",
+          "end": 65,
+          "expanded_url": "https://x.com/yayale6666/status/1999848128640626980/photo/1",
+          "media_key": "3_1999848116967854080",
+          "start": 42,
+          "url": "https://t.co/61fCDQbxYk"
+        },
+        {
+          "display_url": "pic.x.com/61fCDQbxYk",
+          "end": 65,
+          "expanded_url": "https://x.com/yayale6666/status/1999848128640626980/photo/1",
+          "media_key": "3_1999848117005598720",
+          "start": 42,
+          "url": "https://t.co/61fCDQbxYk"
+        },
+        {
+          "display_url": "pic.x.com/61fCDQbxYk",
+          "end": 65,
+          "expanded_url": "https://x.com/yayale6666/status/1999848128640626980/photo/1",
+          "media_key": "3_1999848116988817408",
+          "start": 42,
+          "url": "https://t.co/61fCDQbxYk"
+        },
+        {
+          "display_url": "pic.x.com/61fCDQbxYk",
+          "end": 65,
+          "expanded_url": "https://x.com/yayale6666/status/1999848128640626980/photo/1",
+          "media_key": "3_1999848116997218304",
+          "start": 42,
+          "url": "https://t.co/61fCDQbxYk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000527485369495875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999848128640626980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yayale6666: 嘿嘿，还有谁想吸男高弟弟香臭香臭的原味…….🥵🥵🥵 https://t.co/61fCDQbxYk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000527485369495875].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000527485369495875",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000527485369495875"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1999848116967854080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DjREiaUAAie-z.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1999848117005598720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DjREraQAAbUz3.jpg",
+        "width": 1707
+      },
+      {
+        "height": 994,
+        "media_key": "3_1999848116988817408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DjREnaMAAeJpI.jpg",
+        "width": 1008
+      },
+      {
+        "height": 1959,
+        "media_key": "3_1999848116997218304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DjREpaYAADMWc.jpg",
+        "width": 823
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999848116967854080",
+            "3_1999848117005598720",
+            "3_1999848116988817408",
+            "3_1999848116997218304"
+          ]
+        },
+        "author_id": "1959121084374286336",
+        "conversation_id": "1999848128640626980",
+        "created_at": "2025-12-13T14:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T15:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999848128640626980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/61fCDQbxYk",
+              "end": 49,
+              "expanded_url": "https://x.com/yayale6666/status/1999848128640626980/photo/1",
+              "media_key": "3_1999848116967854080",
+              "start": 26,
+              "url": "https://t.co/61fCDQbxYk"
+            },
+            {
+              "display_url": "pic.x.com/61fCDQbxYk",
+              "end": 49,
+              "expanded_url": "https://x.com/yayale6666/status/1999848128640626980/photo/1",
+              "media_key": "3_1999848117005598720",
+              "start": 26,
+              "url": "https://t.co/61fCDQbxYk"
+            },
+            {
+              "display_url": "pic.x.com/61fCDQbxYk",
+              "end": 49,
+              "expanded_url": "https://x.com/yayale6666/status/1999848128640626980/photo/1",
+              "media_key": "3_1999848116988817408",
+              "start": 26,
+              "url": "https://t.co/61fCDQbxYk"
+            },
+            {
+              "display_url": "pic.x.com/61fCDQbxYk",
+              "end": 49,
+              "expanded_url": "https://x.com/yayale6666/status/1999848128640626980/photo/1",
+              "media_key": "3_1999848116997218304",
+              "start": 26,
+              "url": "https://t.co/61fCDQbxYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999848128640626980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1593,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿，还有谁想吸男高弟弟香臭香臭的原味…….🥵🥵🥵 https://t.co/61fCDQbxYk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 397,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 48
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T05:10:48.000Z",
+        "description": "08 180 17 异性恋 一级运动员 备战高考 有🚪\n可出原味，讨厌没礼貌喜欢白嫖的人",
+        "id": "1959121084374286336",
+        "name": "范不繁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959121222886989826/rGbTte4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 467,
+          "like_count": 1614,
+          "listed_count": 8,
+          "media_count": 11,
+          "tweet_count": 22
+        },
+        "username": "yayale6666",
+        "verified": false
+      }
+    ]
+  }
+}

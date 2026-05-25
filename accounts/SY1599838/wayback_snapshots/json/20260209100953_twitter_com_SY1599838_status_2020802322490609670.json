@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2020802322490609670",
+    "created_at": "2026-02-09T10:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T11:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020802322490609670"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "羞辱"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "控制"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "母猪"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "肉便器"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "倒贴"
+        },
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "丧志"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "母驴"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "男尊女卑"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "反差婊"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2020084712262311936",
+          "start": 3,
+          "username": "DieZhui15099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020802322490609670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020125265502798093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DieZhui15099: 喷卵贱畜们 半夜又忍不住打开推特来找到祖宗了吧 顶着你那骚猪油脸对着高贵的鸡巴磕头求祖宗临幸几把套子母畜的骚逼 跪着嗦祖宗的脚趾沦为肉便器性奴🖤\n#羞辱 #控制 #母猪 #肉便器 #倒贴 #ATM奴 ＃丧志 ＃母驴 #男尊女卑  #反差婊…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020802322490609670].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020802322490609670",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020802322490609670"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_2020125251120574464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjtNnrWsAApGBd.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020125251120574464"
+          ]
+        },
+        "author_id": "2020084712262311936",
+        "conversation_id": "2020125265502798093",
+        "created_at": "2026-02-07T13:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T14:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020125265502798093"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "羞辱"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "控制"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "母猪"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "肉便器"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "倒贴"
+            },
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "丧志"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "母驴"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "反差婊"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "精盆便器"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "婊子"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "喷卵"
+            },
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "女大学生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 149,
+              "id": "1844956237135544320",
+              "start": 142,
+              "username": "zplike"
+            },
+            {
+              "end": 160,
+              "id": "1652591516756615171",
+              "start": 150,
+              "username": "DDDDBBHHH"
+            },
+            {
+              "end": 173,
+              "id": "1427499053227466756",
+              "start": 161,
+              "username": "wqganenshi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lgFEJQfUhc",
+              "end": 197,
+              "expanded_url": "https://x.com/DieZhui15099/status/2020125265502798093/photo/1",
+              "media_key": "3_2020125251120574464",
+              "start": 174,
+              "url": "https://t.co/lgFEJQfUhc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020125265502798093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1856,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "喷卵贱畜们 半夜又忍不住打开推特来找到祖宗了吧 顶着你那骚猪油脸对着高贵的鸡巴磕头求祖宗临幸几把套子母畜的骚逼 跪着嗦祖宗的脚趾沦为肉便器性奴🖤\n#羞辱 #控制 #母猪 #肉便器 #倒贴 #ATM奴 ＃丧志 ＃母驴 #男尊女卑  #反差婊  #精盆便器 #婊子 #喷卵 #女大学生 \n@zplike @DDDDBBHHH @wqganenshi_ https://t.co/lgFEJQfUhc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 568,
+          "like_count": 334,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 140
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T10:40:27.000Z",
+        "description": "原推@ZhuiLuo_S 曝光投稿/羞辱/自毁/控制母狗 不骚不贱的别来骚扰坠爹 🐧：3787781298 ✈️：https://t.co/70jY4pcpbk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ZhuiLuo_S"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ZhuiLuo_S",
+                "end": 80,
+                "expanded_url": "http://t.me/ZhuiLuo_S",
+                "start": 57,
+                "url": "https://t.co/70jY4pcpbk"
+              }
+            ]
+          }
+        },
+        "id": "2020084712262311936",
+        "name": "坠爹（投稿 羞辱曝光）",
+        "pinned_tweet_id": "2020125265502798093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020085341395320832/7gvc1gvY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 43,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "DieZhui15099",
+        "verified": false
+      }
+    ]
+  }
+}

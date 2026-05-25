@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1998610744020201745",
+    "created_at": "2025-12-10T04:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T05:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998610744020201745"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "母狗"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "母猪"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "婊子"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "反差"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "男尊女卑"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "羞辱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "573702868",
+          "start": 3,
+          "username": "xingchenzz2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998610744020201745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959252600110391751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xingchenzz2025: 👰反差婊养成指南 👰\n这是一条反差婊自毁视频，点赞转发代表承认自己是平时矜持女神，背地里是无脑丧志的傻逼母人，骨子里就是奴性十足的媚吊废物，主人可以随时羞辱使用辱骂你这个反差母畜\n #母狗 #母猪 #婊子 #反差  #男尊女卑 #羞辱 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998610744020201745].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998610744020201745",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998610744020201745"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49597,
+        "height": 720,
+        "media_key": "7_1959252501666111488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1959252501666111488/pu/img/xTBZPJNUQuIaf_fB.jpg",
+        "public_metrics": {
+          "view_count": 4802
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959252501666111488/pu/vid/avc1/480x270/xIQh1RglhPtpklIh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959252501666111488/pu/vid/avc1/640x360/fMTGOY3i_iVjZX1b.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959252501666111488/pu/vid/avc1/1280x720/qSEvHbspyLBYRYOu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1959252501666111488/pu/pl/FHNNlcryVl0efrT7.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1959252501666111488"
+          ]
+        },
+        "author_id": "573702868",
+        "conversation_id": "1959252600110391751",
+        "created_at": "2025-08-23T13:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T14:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959252600110391751"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "母狗"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "母猪"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "婊子"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "反差"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "羞辱"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "调教"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "洗脑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 137,
+              "id": "1652591516756615171",
+              "start": 127,
+              "username": "DDDDBBHHH"
+            },
+            {
+              "end": 150,
+              "id": "1427499053227466756",
+              "start": 138,
+              "username": "wqganenshi_"
+            },
+            {
+              "end": 160,
+              "id": "1728416577463238656",
+              "start": 151,
+              "username": "tbzt2024"
+            },
+            {
+              "end": 171,
+              "id": "1252372982",
+              "start": 162,
+              "username": "007share"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/koAe2R8OIL",
+              "end": 195,
+              "expanded_url": "https://x.com/mypic25512947/status/1959252600110391751/video/1",
+              "media_key": "7_1959252501666111488",
+              "start": 172,
+              "url": "https://t.co/koAe2R8OIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959252600110391751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 29105,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "👰反差婊养成指南 👰\n这是一条反差婊自毁视频，点赞转发代表承认自己是平时矜持女神，背地里是无脑丧志的傻逼母人，骨子里就是奴性十足的媚吊废物，主人可以随时羞辱使用辱骂你这个反差母畜\n #母狗 #母猪 #婊子 #反差  #男尊女卑 #羞辱 #调教 #洗脑 \n@DDDDBBHHH\n@wqganenshi_\n@tbzt2024 \n@007share https://t.co/koAe2R8OIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 408,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 41
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-07T14:48:28.000Z",
+        "description": "收母狗，就是个只会粗口玩母狗把女人变成畜牲的俗人/qq：2789682102 /020可线下/小号曝光羞辱母狗/收接受改名母畜",
+        "id": "573702868",
+        "name": "星沉",
+        "pinned_tweet_id": "1959819675027861544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959273634838818816/ebHZHRkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 10,
+          "media_count": 18,
+          "tweet_count": 108
+        },
+        "username": "xingchenzz2025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007063763426611201",
+        "3_2007063763384729600",
+        "3_2007063931425316865"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2007064461170057292",
+    "created_at": "2026-01-02T12:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T13:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007064461170057292"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "女大反差"
+        },
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "羞辱调教"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "媚妓"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "胁迫奴"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "反差女高"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 66,
+          "id": "118307321",
+          "start": 63,
+          "username": "dd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ddMxL08Q8Y",
+          "end": 90,
+          "expanded_url": "https://x.com/SY1599838/status/2007064461170057292/photo/1",
+          "media_key": "3_2007063763426611201",
+          "start": 67,
+          "url": "https://t.co/ddMxL08Q8Y"
+        },
+        {
+          "display_url": "pic.x.com/ddMxL08Q8Y",
+          "end": 90,
+          "expanded_url": "https://x.com/SY1599838/status/2007064461170057292/photo/1",
+          "media_key": "3_2007063763384729600",
+          "start": 67,
+          "url": "https://t.co/ddMxL08Q8Y"
+        },
+        {
+          "display_url": "pic.x.com/ddMxL08Q8Y",
+          "end": 90,
+          "expanded_url": "https://x.com/SY1599838/status/2007064461170057292/photo/1",
+          "media_key": "3_2007063931425316865",
+          "start": 67,
+          "url": "https://t.co/ddMxL08Q8Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007064461170057292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "母狗们来祝亲爹新年快乐🖤\n新的一年继续爆耍你们这群骚逼鸡巴套子\n#女大反差  #羞辱调教 #媚妓 \n#胁迫奴  #反差女高 \n@DD https://t.co/ddMxL08Q8Y"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [dd].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "dd",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "dd"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 284,
+        "media_key": "3_2007063763426611201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qF2-SaEAErAR2.png",
+        "width": 1170
+      },
+      {
+        "height": 307,
+        "media_key": "3_2007063763384729600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qF2-IbAAALLDE.png",
+        "width": 1185
+      },
+      {
+        "height": 184,
+        "media_key": "3_2007063931425316865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qGAwIa4AE22DC.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007063763426611201",
+            "3_2007063763384729600",
+            "3_2007063931425316865"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2007064461170057292",
+        "created_at": "2026-01-02T12:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007064461170057292"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "女大反差"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "羞辱调教"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "媚妓"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "胁迫奴"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "反差女高"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 66,
+              "id": "118307321",
+              "start": 63,
+              "username": "dd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddMxL08Q8Y",
+              "end": 90,
+              "expanded_url": "https://x.com/SY1599838/status/2007064461170057292/photo/1",
+              "media_key": "3_2007063763426611201",
+              "start": 67,
+              "url": "https://t.co/ddMxL08Q8Y"
+            },
+            {
+              "display_url": "pic.x.com/ddMxL08Q8Y",
+              "end": 90,
+              "expanded_url": "https://x.com/SY1599838/status/2007064461170057292/photo/1",
+              "media_key": "3_2007063763384729600",
+              "start": 67,
+              "url": "https://t.co/ddMxL08Q8Y"
+            },
+            {
+              "display_url": "pic.x.com/ddMxL08Q8Y",
+              "end": 90,
+              "expanded_url": "https://x.com/SY1599838/status/2007064461170057292/photo/1",
+              "media_key": "3_2007063931425316865",
+              "start": 67,
+              "url": "https://t.co/ddMxL08Q8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007064461170057292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "母狗们来祝亲爹新年快乐🖤\n新的一年继续爆耍你们这群骚逼鸡巴套子\n#女大反差  #羞辱调教 #媚妓 \n#胁迫奴  #反差女高 \n@DD https://t.co/ddMxL08Q8Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 421,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 75
+        },
+        "username": "SY1599838",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1851784846206734476",
+    "created_at": "2024-10-31T00:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T01:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851784846206734476"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 25,
+          "tag": "轩轩大人的洗脑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1220568622566793216",
+          "start": 3,
+          "username": "DivinKieru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851784846206734476",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851580583576739922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DivinKieru: 【调教洗脑文案】\n#轩轩大人的洗脑\n\n变态足虫们看到轩轩大人的推文，其实就已经陷入发情的陷阱了哦\n\n只是看到轩轩大人的丝足撩起鞋子，你的下体就会自觉起反应了吧？\n目光不断盯着足底，足弓，鞋子，幻想自己就是一个卑微下贱的虫子，幻想能够被主人踩在足底…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851784846206734476].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851784846206734476",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851784846206734476"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851580565352484864",
+            "3_1851580564484370432",
+            "3_1851580565717450752",
+            "3_1851580566052978688"
+          ]
+        },
+        "author_id": "1220568622566793216",
+        "conversation_id": "1851580583576739922",
+        "created_at": "2024-10-30T11:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T12:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851580583576739922"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "轩轩大人的洗脑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZTB3pbK6O",
+              "end": 162,
+              "expanded_url": "https://x.com/DivinKieru/status/1851580583576739922/photo/1",
+              "media_key": "3_1851580565352484864",
+              "start": 139,
+              "url": "https://t.co/iZTB3pbK6O"
+            },
+            {
+              "display_url": "pic.x.com/iZTB3pbK6O",
+              "end": 162,
+              "expanded_url": "https://x.com/DivinKieru/status/1851580583576739922/photo/1",
+              "media_key": "3_1851580564484370432",
+              "start": 139,
+              "url": "https://t.co/iZTB3pbK6O"
+            },
+            {
+              "display_url": "pic.x.com/iZTB3pbK6O",
+              "end": 162,
+              "expanded_url": "https://x.com/DivinKieru/status/1851580583576739922/photo/1",
+              "media_key": "3_1851580565717450752",
+              "start": 139,
+              "url": "https://t.co/iZTB3pbK6O"
+            },
+            {
+              "display_url": "pic.x.com/iZTB3pbK6O",
+              "end": 162,
+              "expanded_url": "https://x.com/DivinKieru/status/1851580583576739922/photo/1",
+              "media_key": "3_1851580566052978688",
+              "start": 139,
+              "url": "https://t.co/iZTB3pbK6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851580583576739922",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 800,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "【调教洗脑文案】\n#轩轩大人的洗脑\n\n变态足虫们看到轩轩大人的推文，其实就已经陷入发情的陷阱了哦\n\n只是看到轩轩大人的丝足撩起鞋子，你的下体就会自觉起反应了吧？\n目光不断盯着足底，足弓，鞋子，幻想自己就是一个卑微下贱的虫子，幻想能够被主人踩在足底，被塞在鞋子里当成肉垫...… https://t.co/iZTB3pbK6O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "是轩轩大人的煞笔贱狗足虫呢@DivinKieru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "DivinKieru"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832303392645115906/YmYTBG0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 186,
+          "like_count": 98,
+          "listed_count": 0,
+          "tweet_count": 32
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-24T04:47:00.000Z",
+        "description": "抖S/Dom系饲主兼文援轩轩哦    01年坐标江苏，是个网瘾三坑少女～大爱jk和lolita～现实和网络，SM，Findom，性少数等各种圈子都有涉猎，比较包容，欢迎聊天交流，不收门槛费，不过小心被玩弄欺负哦♡ 门牌请私信～电报https://t.co/8MHaCzQ7pg 方便时可语音验证 日常号@xuan_kieru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 162,
+                "start": 151,
+                "username": "xuan_kieru"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/DyinKieru",
+                "end": 138,
+                "expanded_url": "http://t.me/DyinKieru",
+                "start": 115,
+                "url": "https://t.co/8MHaCzQ7pg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/divinkieru_x…",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/divinkieru_xuanxuan",
+                "start": 0,
+                "url": "https://t.co/RbmugRphV9"
+              }
+            ]
+          }
+        },
+        "id": "1220568622566793216",
+        "location": "抬起头，我在注视着你偷窥的可爱样子哦♡",
+        "name": "色気満々♡軒軒～【轩轩】",
+        "pinned_tweet_id": "1778749857106411819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1220568799419650049/AK2y0tdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4935,
+          "following_count": 35,
+          "like_count": 725,
+          "listed_count": 17,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/RbmugRphV9",
+        "username": "DivinKieru",
+        "verified": true
+      }
+    ]
+  }
+}

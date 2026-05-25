@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1983371131030765771",
+    "created_at": "2025-10-29T03:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T04:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983371131030765771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1713279235601903616",
+          "start": 3,
+          "username": "MelissaPor53es"
+        },
+        {
+          "end": 42,
+          "id": "1713287367803686912",
+          "start": 27,
+          "username": "BeatriceTo80es"
+        },
+        {
+          "end": 53,
+          "id": "1713294849611550720",
+          "start": 43,
+          "username": "lynda87es"
+        },
+        {
+          "end": 69,
+          "id": "1713296670291861504",
+          "start": 54,
+          "username": "MelissaWar76es"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983371131030765771",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970829564927701103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MelissaPor53es: chudai\n@BeatriceTo80es\n@lynda87es\n@MelissaWar76es"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983371131030765771].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983371131030765771",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983371131030765771"
+    },
+    {
+      "detail": "User has been suspended: [lynda87es].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "lynda87es",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "lynda87es"
+    },
+    {
+      "detail": "User has been suspended: [MelissaWar76es].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "MelissaWar76es",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "MelissaWar76es"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713279235601903616",
+        "conversation_id": "1970829564927701103",
+        "created_at": "2025-09-24T12:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T13:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970829564927701103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1713287367803686912",
+              "start": 7,
+              "username": "BeatriceTo80es"
+            },
+            {
+              "end": 33,
+              "id": "1713294849611550720",
+              "start": 23,
+              "username": "lynda87es"
+            },
+            {
+              "end": 49,
+              "id": "1713296670291861504",
+              "start": 34,
+              "username": "MelissaWar76es"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970829564927701103",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 186554,
+          "like_count": 247,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "chudai\n@BeatriceTo80es\n@lynda87es\n@MelissaWar76es"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 356,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T19:43:35.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "elbitsystemscareer.com",
+                "end": 23,
+                "expanded_url": "https://elbitsystemscareer.com/",
+                "start": 0,
+                "url": "https://t.co/ZOodaYkVaU"
+              }
+            ]
+          }
+        },
+        "id": "1713279235601903616",
+        "name": "Melissa Porter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977152390446170112/SOphwJ7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3312,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 12,
+          "media_count": 10,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/ZOodaYkVaU",
+        "username": "MelissaPor53es",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T20:15:49.000Z",
+        "description": "韓国の人気商品をご案内した期間内に\nお受け取りいただけます！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qoo10.jp/shop/jpscosmet…",
+                "end": 23,
+                "expanded_url": "https://www.qoo10.jp/shop/jpscosmetic",
+                "start": 0,
+                "url": "https://t.co/KwM5mC8p7W"
+              }
+            ]
+          }
+        },
+        "id": "1713287367803686912",
+        "location": "Tokyo",
+        "name": "Tonya Beatrice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977153566398988294/Ko4W2LqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3378,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 15,
+          "media_count": 9,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/KwM5mC8p7W",
+        "username": "BeatriceTo80es",
+        "verified": false
+      }
+    ]
+  }
+}

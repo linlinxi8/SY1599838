@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2010537748541968709",
+    "created_at": "2026-01-12T02:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T03:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010540101064102363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700184437714202624",
+          "start": 0,
+          "username": "Wordsworth13775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010540101064102363",
+    "in_reply_to_user_id": "1700184437714202624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010537748541968709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wordsworth13775 欢迎大家随便羞辱～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_2010537727989829632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-bdaUxa0AAsb2x.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736574795125563392",
+        "conversation_id": "2010537748541968709",
+        "created_at": "2026-01-12T02:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T03:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010540101064102363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700184437714202624",
+              "start": 0,
+              "username": "Wordsworth13775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010540101064102363",
+        "in_reply_to_user_id": "1700184437714202624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010537748541968709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wordsworth13775 欢迎大家随便羞辱～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010537727989829632"
+          ]
+        },
+        "author_id": "1700184437714202624",
+        "conversation_id": "2010537748541968709",
+        "created_at": "2026-01-12T02:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T03:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010537748541968709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQF6Qjm5Cq",
+              "end": 23,
+              "expanded_url": "https://x.com/Wordsworth13775/status/2010537748541968709/photo/1",
+              "media_key": "3_2010537727989829632",
+              "start": 0,
+              "url": "https://t.co/UQF6Qjm5Cq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010537748541968709",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UQF6Qjm5Cq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 503,
+          "like_count": 285,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 102
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T16:28:53.000Z",
+        "description": "",
+        "id": "1700184437714202624",
+        "name": "Wordsworth Maggie",
+        "pinned_tweet_id": "2010537748541968709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009660219874508800/HxwhhY5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 648,
+          "like_count": 668,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 11
+        },
+        "username": "Wordsworth13775",
+        "verified": false
+      }
+    ]
+  }
+}

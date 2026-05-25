@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1821941330249183233"
+      ],
+      "media_source_tweet_id": [
+        "1821941439086920049"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2003022268319056042",
+    "created_at": "2025-12-22T08:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T09:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003022268319056042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1819898568121143296",
+          "start": 3,
+          "username": "wobujiaochaersi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bi7E9Igrb5",
+          "end": 50,
+          "expanded_url": "https://x.com/wobujiaochaersi/status/1821941439086920049/video/1",
+          "media_key": "7_1821941330249183233",
+          "start": 27,
+          "url": "https://t.co/bi7E9Igrb5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003022268319056042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 182
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821941439086920049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wobujiaochaersi: 排队上公厕 https://t.co/bi7E9Igrb5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003022268319056042].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003022268319056042",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003022268319056042"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 140000,
+        "height": 720,
+        "media_key": "7_1821941330249183233",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1821941330249183233/pu/img/I8SVWYevdYmPWjvG.jpg",
+        "public_metrics": {
+          "view_count": 56528
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1821941330249183233/pu/vid/avc1/480x270/fAflg5oCrvaAdjHd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1821941330249183233/pu/vid/avc1/640x360/AgYtS_V8giHWg6DQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1821941330249183233/pu/vid/avc1/1280x720/GT0ekNzdrRPqLfkh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1821941330249183233/pu/pl/Rq5PBAoh3RLZLAcY.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1821941330249183233"
+          ]
+        },
+        "author_id": "1819898568121143296",
+        "conversation_id": "1821941439086920049",
+        "created_at": "2024-08-09T16:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T17:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821941439086920049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bi7E9Igrb5",
+              "end": 29,
+              "expanded_url": "https://x.com/wobujiaochaersi/status/1821941439086920049/video/1",
+              "media_key": "7_1821941330249183233",
+              "start": 6,
+              "url": "https://t.co/bi7E9Igrb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821941439086920049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 514,
+          "impression_count": 230295,
+          "like_count": 1187,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "排队上公厕 https://t.co/bi7E9Igrb5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 399,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 61
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T00:50:17.000Z",
+        "description": "老号被盗，关闭了评论，以抽奖为理由，在发帖骗人，新号重新开始，大家多注意⚠️⚠️⚠️，当心上当",
+        "id": "1819898568121143296",
+        "name": "我不叫查尔斯（真号重开版）",
+        "pinned_tweet_id": "1824011941012250680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819898848711696384/xO44dRaN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55097,
+          "following_count": 884,
+          "like_count": 4686,
+          "listed_count": 210,
+          "media_count": 176,
+          "tweet_count": 317
+        },
+        "username": "wobujiaochaersi",
+        "verified": false
+      }
+    ]
+  }
+}

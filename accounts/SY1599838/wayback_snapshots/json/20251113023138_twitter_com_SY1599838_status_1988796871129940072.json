@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1988587277707350016"
+      ],
+      "media_source_tweet_id": [
+        "1988587413762179072"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988796871129940072",
+    "created_at": "2025-11-13T02:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T03:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988796871129940072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1198782492590956550",
+          "start": 3,
+          "username": "Ellen66214449"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TRFVmm18WM",
+          "end": 49,
+          "expanded_url": "https://x.com/Ellen66214449/status/1988587413762179072/video/1",
+          "media_key": "13_1988587277707350016",
+          "start": 26,
+          "url": "https://t.co/TRFVmm18WM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988796871129940072",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988587413762179072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Ellen66214449: wataa🐶 https://t.co/TRFVmm18WM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988796871129940072].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988796871129940072",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988796871129940072"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30487,
+        "height": 720,
+        "media_key": "13_1988587277707350016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988587277707350016/img/zmFHW0xfz4R9HGev.jpg",
+        "public_metrics": {
+          "view_count": 4516
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988587277707350016/vid/avc1/480x270/0u1vjL5PSxujMUbb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988587277707350016/vid/avc1/640x360/tBdQTTOVrDTZuuPG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988587277707350016/vid/avc1/1280x720/_vQAeVDZE3AAmGAf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988587277707350016/pl/47WH4FaBTidGbiTx.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988587277707350016"
+          ]
+        },
+        "author_id": "1198782492590956550",
+        "conversation_id": "1988587413762179072",
+        "created_at": "2025-11-12T12:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988587413762179072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRFVmm18WM",
+              "end": 30,
+              "expanded_url": "https://x.com/Ellen66214449/status/1988587413762179072/video/1",
+              "media_key": "13_1988587277707350016",
+              "start": 7,
+              "url": "https://t.co/TRFVmm18WM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988587413762179072",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 17441,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 128
+        },
+        "reply_settings": "following",
+        "text": "wataa🐶 https://t.co/TRFVmm18WM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 370,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-25T01:56:56.000Z",
+        "description": "已婚骚妻一枚，绿帽是个圈，和老公入圈多年，推特所发视频平台均有完整版，已入驻平台:https://t.co/fFJOjZxruJ 里面有3p,换妻，献妻，群p，淫妻等各种免费约啪局！！所有视频均源自网络，如有侵权，私信必删！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t0b1.icu",
+                "end": 64,
+                "expanded_url": "https://t0b1.icu",
+                "start": 41,
+                "url": "https://t.co/fFJOjZxruJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t0b1.icu",
+                "end": 23,
+                "expanded_url": "https://t0b1.icu",
+                "start": 0,
+                "url": "https://t.co/fFJOjZxruJ"
+              }
+            ]
+          }
+        },
+        "id": "1198782492590956550",
+        "name": "绿帽俱乐部：玖儿",
+        "pinned_tweet_id": "1986821373592019207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986814973893644288/PYjxZclj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7292,
+          "following_count": 186,
+          "like_count": 1660,
+          "listed_count": 9,
+          "media_count": 35,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/fFJOjZxruJ",
+        "username": "Ellen66214449",
+        "verified": false
+      }
+    ]
+  }
+}

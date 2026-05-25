@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1995072219773604015",
+    "created_at": "2025-11-30T10:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T11:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995072219773604015"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "屁眼"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "调教"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "社死"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "反差"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1641512642161303552",
+          "start": 3,
+          "username": "Princessduuu"
+        },
+        {
+          "end": 30,
+          "id": "1567856289199566848",
+          "start": 19,
+          "username": "OceanDive6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995072219773604015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993758831017660711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Princessduuu: 由@OceanDive6 下达的社死挑战命令🙏🏻\n耐不住寂寞的贱屁眼骚货（本人）求男爹欺负，开始挑战屁眼自慰，每1个赞=扣屁眼10下，每1次转帖=扣屁眼20下，只有男爹满意了才能停止挑战 #屁眼 #调教 #社死 #反差 https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995072219773604015].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995072219773604015",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995072219773604015"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993758827733504001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6tBFyba0AEzMmz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993758827733504001"
+          ]
+        },
+        "author_id": "1641512642161303552",
+        "conversation_id": "1993758831017660711",
+        "created_at": "2025-11-26T19:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T20:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993758831017660711"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "屁眼"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "调教"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "社死"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "反差"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1567856289199566848",
+              "start": 1,
+              "username": "OceanDive6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfVHBN7ByF",
+              "end": 133,
+              "expanded_url": "https://x.com/Princessduuu/status/1993758831017660711/photo/1",
+              "media_key": "3_1993758827733504001",
+              "start": 110,
+              "url": "https://t.co/MfVHBN7ByF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993758831017660711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20594,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "由@OceanDive6 下达的社死挑战命令🙏🏻\n耐不住寂寞的贱屁眼骚货（本人）求男爹欺负，开始挑战屁眼自慰，每1个赞=扣屁眼10下，每1次转帖=扣屁眼20下，只有男爹满意了才能停止挑战 #屁眼 #调教 #社死 #反差 https://t.co/MfVHBN7ByF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 391,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 53
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T18:48:18.000Z",
+        "description": "所有命运的赠礼，早已在暗中标好了价格",
+        "id": "1641512642161303552",
+        "name": "Meetudu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895755825592827904/6RWPHEDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 3,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 14
+        },
+        "username": "Princessduuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T12:44:16.000Z",
+        "description": "大馬/中/台出沒\n1.文爱调教 羞辱洗脑 评价婊子 鉴定亲友 \n2.受理母猪证办理（＊需验证）\n3.母猪资格考试(置顶) \n4.女性自我启发问卷 https://t.co/ABG88Xjwq2\n5.照片动画风淫图化\n6.偷偷問我問題 https://t.co/xrF99UJ9Yw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "forms.office.com/r/L5vUKL98Qh",
+                "end": 96,
+                "expanded_url": "https://forms.office.com/r/L5vUKL98Qh",
+                "start": 73,
+                "url": "https://t.co/ABG88Xjwq2"
+              },
+              {
+                "display_url": "ngl.link/oceandive6",
+                "end": 140,
+                "expanded_url": "https://ngl.link/oceandive6",
+                "start": 117,
+                "url": "https://t.co/xrF99UJ9Yw"
+              }
+            ]
+          }
+        },
+        "id": "1567856289199566848",
+        "name": "OceanDive",
+        "pinned_tweet_id": "1647810342159028225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939664540062351361/9JqPjrpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43747,
+          "following_count": 1128,
+          "like_count": 10740,
+          "listed_count": 124,
+          "media_count": 2008,
+          "tweet_count": 5395
+        },
+        "username": "OceanDive6",
+        "verified": false
+      }
+    ]
+  }
+}

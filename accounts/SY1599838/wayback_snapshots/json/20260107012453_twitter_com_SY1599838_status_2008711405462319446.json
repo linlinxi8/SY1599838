@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008711182862225408",
+        "3_2008711182862135296"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2008711405462319446",
+    "created_at": "2026-01-07T01:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T02:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008711405462319446"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "母猪发情"
+        },
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "反差母狗"
+        },
+        {
+          "end": 54,
+          "start": 49,
+          "tag": "羞辱洗脑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597370951444074496",
+          "start": 0,
+          "username": "Ting__0831"
+        },
+        {
+          "end": 68,
+          "id": "1427499053227466756",
+          "start": 56,
+          "username": "wqganenshi_"
+        },
+        {
+          "end": 73,
+          "id": "118307321",
+          "start": 70,
+          "username": "dd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KO9juZ28YW",
+          "end": 97,
+          "expanded_url": "https://x.com/SY1599838/status/2008711405462319446/photo/1",
+          "media_key": "3_2008711182862225408",
+          "start": 74,
+          "url": "https://t.co/KO9juZ28YW"
+        },
+        {
+          "display_url": "pic.x.com/KO9juZ28YW",
+          "end": 97,
+          "expanded_url": "https://x.com/SY1599838/status/2008711405462319446/photo/1",
+          "media_key": "3_2008711182862135296",
+          "start": 74,
+          "url": "https://t.co/KO9juZ28YW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008711405462319446",
+    "in_reply_to_user_id": "1597370951444074496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Ting__0831 \n大家好，这是我的母猪肉便器玉兰，请随意羞辱\n#母猪发情  #反差母狗  #羞辱洗脑 \n@wqganenshi_ \n@DD https://t.co/KO9juZ28YW"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [dd].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "dd",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "dd"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2041,
+        "media_key": "3_2008711182862225408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-BgLZ7bkAAr20D.jpg",
+        "width": 1138
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2008711182862135296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-BgLZ7aMAAxhBo.jpg",
+        "width": 766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008711182862225408",
+            "3_2008711182862135296"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2008711405462319446",
+        "created_at": "2026-01-07T01:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T02:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008711405462319446"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "母猪发情"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "反差母狗"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "羞辱洗脑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597370951444074496",
+              "start": 0,
+              "username": "Ting__0831"
+            },
+            {
+              "end": 68,
+              "id": "1427499053227466756",
+              "start": 56,
+              "username": "wqganenshi_"
+            },
+            {
+              "end": 73,
+              "id": "118307321",
+              "start": 70,
+              "username": "dd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KO9juZ28YW",
+              "end": 97,
+              "expanded_url": "https://x.com/SY1599838/status/2008711405462319446/photo/1",
+              "media_key": "3_2008711182862225408",
+              "start": 74,
+              "url": "https://t.co/KO9juZ28YW"
+            },
+            {
+              "display_url": "pic.x.com/KO9juZ28YW",
+              "end": 97,
+              "expanded_url": "https://x.com/SY1599838/status/2008711405462319446/photo/1",
+              "media_key": "3_2008711182862135296",
+              "start": 74,
+              "url": "https://t.co/KO9juZ28YW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008711405462319446",
+        "in_reply_to_user_id": "1597370951444074496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Ting__0831 \n大家好，这是我的母猪肉便器玉兰，请随意羞辱\n#母猪发情  #反差母狗  #羞辱洗脑 \n@wqganenshi_ \n@DD https://t.co/KO9juZ28YW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 450,
+          "like_count": 267,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 95
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T23:25:17.000Z",
+        "description": "02年的女性",
+        "id": "1597370951444074496",
+        "name": "Livia TING（方玉蘭）",
+        "pinned_tweet_id": "1849699659729739973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008546709631365123/-DKbJFlr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 637,
+          "like_count": 8567,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 5074
+        },
+        "username": "Ting__0831",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T05:14:45.000Z",
+        "description": "接投稿！！！投稿同时@wqganenshi_和@liaoyiansheng中文翻译：wq感恩石_|#超1天没转私我｜🌏老牌靠谱线下c圈约妹@jinchencos68｜🔥五年C圈信誉中介@huahuocosq｜ 💎玩外围怕踩坑？找金教授 @jjshou007 ｜💥简介招商",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "超1天没转私我"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "wqganenshi_"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "liaoyiansheng"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "jinchencos68"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "huahuocosq"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "jjshou007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_S-sTNs_LyIwN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_S-sTNs_LyIwN2E1",
+                "start": 0,
+                "url": "https://t.co/0u3WNRRNWV"
+              }
+            ]
+          }
+        },
+        "id": "1427499053227466756",
+        "location": "有稿投💨💦小群👇",
+        "name": "有稿投😁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1482978871964225537/zQoKqgXc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 301517,
+          "following_count": 172,
+          "like_count": 55271,
+          "listed_count": 421,
+          "media_count": 0,
+          "tweet_count": 51357
+        },
+        "url": "https://t.co/0u3WNRRNWV",
+        "username": "wqganenshi_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

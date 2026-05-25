@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2016792677321220523",
+    "created_at": "2026-01-29T08:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T09:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016792677321220523"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "女神"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "反差"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "母狗"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "羞辱"
+        },
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "肉便器"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994650544338866176",
+          "start": 3,
+          "username": "xhenhuan"
+        },
+        {
+          "end": 115,
+          "id": "1844956237135544320",
+          "start": 108,
+          "username": "zplike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016792677321220523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016724404068339814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xhenhuan: 下贱的贱狗母猪，生下来就长着淫荡的表子脸，平日里不管伪装成什么高贵冰冷的模样，内心就是天生的骚货性奴，脑子里天天只想着被随意践踏，被随便玩玩就会原地高潮喷卵失禁的贱货，只配做爹的胯下玩物 @zplike\n#女神 #反差 #母狗 #羞辱 #肉便器 #贱…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016792677321220523].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016792677321220523",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016792677321220523"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_2016724301706399744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zYET0bkAAPaDO.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016724301706399744"
+          ]
+        },
+        "author_id": "1994650544338866176",
+        "conversation_id": "2016724404068339814",
+        "created_at": "2026-01-29T04:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T05:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016724404068339814"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "女神"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "反差"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "母狗"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "羞辱"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "肉便器"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "贱货"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "粗口"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "人妻"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "少妇"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "白富美"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "女大"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "御姐"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "调教"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 101,
+              "id": "1844956237135544320",
+              "start": 94,
+              "username": "zplike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6aR1yCUDs",
+              "end": 179,
+              "expanded_url": "https://x.com/xhenhuan/status/2016724404068339814/photo/1",
+              "media_key": "3_2016724301706399744",
+              "start": 156,
+              "url": "https://t.co/O6aR1yCUDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016724404068339814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "下贱的贱狗母猪，生下来就长着淫荡的表子脸，平日里不管伪装成什么高贵冰冷的模样，内心就是天生的骚货性奴，脑子里天天只想着被随意践踏，被随便玩玩就会原地高潮喷卵失禁的贱货，只配做爹的胯下玩物 @zplike\n#女神 #反差 #母狗 #羞辱 #肉便器 #贱货 #粗口 #人妻 #少妇 #白富美 #女大 #御姐 #调教 https://t.co/O6aR1yCUDs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "2016460297947459805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 561,
+          "like_count": 324,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 129
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T06:12:15.000Z",
+        "description": "高冷女神/清纯女大/外人眼中的乖乖女/反差性瘾人妻/高管/白富美 接受野爹的调教 羞辱 洗脑 榨金 曝光 做野爹的奴隶 做真实的母猪贱狗肉便器 VX：xiaohonwell  QQ： 2148133364",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hongge123",
+                "end": 23,
+                "expanded_url": "http://t.me/hongge123",
+                "start": 0,
+                "url": "https://t.co/PTq5PDYdy4"
+              }
+            ]
+          }
+        },
+        "id": "1994650544338866176",
+        "name": "宏爹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013179265064280064/EZOzMAI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 349,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/PTq5PDYdy4",
+        "username": "xhenhuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:    @jiaofu716428191     v:wsdbtxx\n Q:867768161",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 9,
+          "like_count": 111,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 591
+        },
+        "username": "zplike",
+        "verified": false
+      }
+    ]
+  }
+}

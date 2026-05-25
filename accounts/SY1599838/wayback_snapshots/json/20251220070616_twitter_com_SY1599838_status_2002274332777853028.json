@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1695114043672113152"
+      ],
+      "media_source_tweet_id": [
+        "1695114154313703565"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2002274332777853028",
+    "created_at": "2025-12-20T07:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T08:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002274332777853028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4202780127",
+          "start": 3,
+          "username": "yum_707"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aabFzyoQ3M",
+          "end": 55,
+          "expanded_url": "https://x.com/yum_707/status/1695114154313703565/video/1",
+          "media_key": "7_1695114043672113152",
+          "start": 32,
+          "url": "https://t.co/aabFzyoQ3M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002274332777853028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2918
+    },
+    "referenced_tweets": [
+      {
+        "id": "1695114154313703565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yum_707: 女生自慰的n种方式\n你最喜欢哪一种？ https://t.co/aabFzyoQ3M"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2002274332777853028].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2002274332777853028",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2002274332777853028"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71900,
+        "height": 1252,
+        "media_key": "7_1695114043672113152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1695114043672113152/pu/img/hB_yB7_Sucv4gpmA.jpg",
+        "public_metrics": {
+          "view_count": 437859
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1695114043672113152/pu/vid/320x556/EBF-XJmCXO-v2Btw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1695114043672113152/pu/vid/480x834/YHV8HJcu1hJKXafP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1695114043672113152/pu/vid/720x1252/JJlwf4ofLERe41l-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1695114043672113152/pu/pl/avwdqng67ObJWJ7l.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1695114043672113152"
+          ]
+        },
+        "author_id": "4202780127",
+        "conversation_id": "1695114154313703565",
+        "created_at": "2023-08-25T16:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2023-08-25T17:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1695114154313703565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aabFzyoQ3M",
+              "end": 42,
+              "expanded_url": "https://x.com/yum_707/status/1695114154313703565/video/1",
+              "media_key": "7_1695114043672113152",
+              "start": 19,
+              "url": "https://t.co/aabFzyoQ3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1695114154313703565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6052,
+          "impression_count": 2308928,
+          "like_count": 27786,
+          "quote_count": 24,
+          "reply_count": 277,
+          "retweet_count": 2918
+        },
+        "reply_settings": "everyone",
+        "text": "女生自慰的n种方式\n你最喜欢哪一种？ https://t.co/aabFzyoQ3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 395,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 55
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-16T15:51:04.000Z",
+        "description": "🌟认准本人唯一60w粉大号🌟你的反差小玉米 I 常驻BEL🇧🇪 I ♡ 我的所有福利/加私v👉🏼 https://t.co/VFzxcwMVVV ♡ daily日常小号@yum_7073",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 84,
+                "username": "yum_7073"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "link.me/yum_707",
+                "end": 72,
+                "expanded_url": "https://link.me/yum_707",
+                "start": 49,
+                "url": "https://t.co/VFzxcwMVVV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/yum_707",
+                "end": 23,
+                "expanded_url": "https://link.me/yum_707",
+                "start": 0,
+                "url": "https://t.co/VFzxcwMVVV"
+              }
+            ]
+          }
+        },
+        "id": "4202780127",
+        "location": "All my work 订阅支持我👉🏻",
+        "name": "Yummy707",
+        "pinned_tweet_id": "1925217853986500860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897519500821716994/96r7QTfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684298,
+          "following_count": 120,
+          "like_count": 1063,
+          "listed_count": 2083,
+          "media_count": 307,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/VFzxcwMVVV",
+        "username": "yum_707",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2000965689025482856",
+    "created_at": "2025-12-16T16:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T17:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000972169191583809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1887418957235462144",
+          "start": 0,
+          "username": "callmemandyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000972169191583809",
+    "in_reply_to_user_id": "1887418957235462144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000965689025482856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@callmemandyyy 磨逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736574795125563392",
+        "conversation_id": "2000965689025482856",
+        "created_at": "2025-12-16T16:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000972169191583809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1887418957235462144",
+              "start": 0,
+              "username": "callmemandyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000972169191583809",
+        "in_reply_to_user_id": "1887418957235462144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000965689025482856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@callmemandyyy 磨逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887418957235462144",
+        "conversation_id": "2000965689025482856",
+        "created_at": "2025-12-16T16:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000965689025482856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000965689025482856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡不着…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 397,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 50
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T08:32:06.000Z",
+        "description": "朋友圈",
+        "id": "1887418957235462144",
+        "name": "把男人夹哭",
+        "pinned_tweet_id": "1999471385853460500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905369305681735680/NuslN01d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4326,
+          "following_count": 56,
+          "like_count": 145,
+          "listed_count": 6,
+          "media_count": 116,
+          "tweet_count": 144
+        },
+        "username": "callmemandyyy",
+        "verified": false
+      }
+    ]
+  }
+}

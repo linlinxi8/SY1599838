@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1994588097313738944",
+    "created_at": "2025-11-29T02:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T03:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994588097313738944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717099526056734720",
+          "start": 3,
+          "username": "kaoroubaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994588097313738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 486
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965035215602205095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaoroubaba: 夫人正跪在她的领导胯间忘情吞吐，我抽送着她那早已泛滥成灾的骚穴，每一下撞击都让夫人发出淫荡的浪叫，感受着她骚穴里不断传来的痉挛。着心爱的女人被别的男人玩坏的感觉简直不要太爽，夫人已经像条发情的母狗般浪叫不止，嘴里不断乞求着眼前的男人灌满她的骚穴，…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994588097313738944].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994588097313738944",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994588097313738944"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30000,
+        "height": 1080,
+        "media_key": "13_1965035118931869696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965035118931869696/img/9d_Z7sh3moLj_HRM.jpg",
+        "public_metrics": {
+          "view_count": 342856
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965035118931869696/vid/avc1/640x360/4DnTvcMglcXqi8KB.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965035118931869696/vid/avc1/480x270/p_mibvMOhpDO4vnb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965035118931869696/pl/R88MF80oQ7Mda9_t.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965035118931869696/vid/avc1/1920x1080/eq8c1M8_nZaiWRM5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965035118931869696/vid/avc1/1280x720/3zPxb5K2mi7QL2Vf.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965035118931869696"
+          ]
+        },
+        "author_id": "1717099526056734720",
+        "conversation_id": "1965035215602205095",
+        "created_at": "2025-09-08T12:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T13:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965035215602205095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5QfExIz2ej",
+              "end": 161,
+              "expanded_url": "https://x.com/kaoroubaba/status/1965035215602205095/video/1",
+              "media_key": "13_1965035118931869696",
+              "start": 138,
+              "url": "https://t.co/5QfExIz2ej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965035215602205095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 159,
+                "id": "1591137880688144384",
+                "start": 147,
+                "username": "Kawasawasen"
+              },
+              {
+                "end": 169,
+                "id": "1552529965371236352",
+                "start": 160,
+                "username": "ToBulaer"
+              },
+              {
+                "end": 179,
+                "id": "1537352275290644481",
+                "start": 171,
+                "username": "ToBulma"
+              },
+              {
+                "end": 190,
+                "id": "1732486642525474816",
+                "start": 180,
+                "username": "BulmaList"
+              }
+            ]
+          },
+          "text": "夫人正跪在她的领导胯间忘情吞吐，我抽送着她那早已泛滥成灾的骚穴，每一下撞击都让夫人发出淫荡的浪叫，感受着她骚穴里不断传来的痉挛。着心爱的女人被别的男人玩坏的感觉简直不要太爽，夫人已经像条发情的母狗般浪叫不止，嘴里不断乞求着眼前的男人灌满她的骚穴，听着夫人这下贱的话我更硬了…\n\nWataa🖤\n\n@Kawasawasen @ToBulaer \n@ToBulma @BulmaList"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2217,
+          "impression_count": 660528,
+          "like_count": 6282,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 486
+        },
+        "reply_settings": "everyone",
+        "text": "夫人正跪在她的领导胯间忘情吞吐，我抽送着她那早已泛滥成灾的骚穴，每一下撞击都让夫人发出淫荡的浪叫，感受着她骚穴里不断传来的痉挛。着心爱的女人被别的男人玩坏的感觉简直不要太爽，夫人已经像条发情的母狗般浪叫不止，嘴里不断乞求着眼前的男人灌满她的骚穴，听着夫人这下贱的话我更硬了… https://t.co/5QfExIz2ej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 388,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T08:43:35.000Z",
+        "description": "𝑁𝑆𝐹𝑊 🔞｜NTR｜3P｜人妻｜母狗｜爱丝袜｜电报完整视频群➡️ https://t.co/9YhN3pdTbs｜无其他平台账号⚠️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kaoroubabaBot",
+                "end": 57,
+                "expanded_url": "https://t.me/kaoroubabaBot",
+                "start": 34,
+                "url": "https://t.co/9YhN3pdTbs"
+              }
+            ]
+          }
+        },
+        "id": "1717099526056734720",
+        "location": "《无转推纯净版移步“亮点”观看》",
+        "name": "烤肉爸爸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916956147514544129/IUjTpZUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291758,
+          "following_count": 76,
+          "like_count": 33,
+          "listed_count": 800,
+          "media_count": 21,
+          "tweet_count": 255
+        },
+        "username": "kaoroubaba",
+        "verified": true
+      }
+    ]
+  }
+}

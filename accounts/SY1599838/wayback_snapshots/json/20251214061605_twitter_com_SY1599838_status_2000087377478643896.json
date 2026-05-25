@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2000087377478643896",
+    "created_at": "2025-12-14T06:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000087377478643896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1797330447254302722",
+          "start": 3,
+          "username": "muchunvquanbiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000087377478643896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820715682662961232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @muchunvquanbiao: 女权女神挑战4\n需母人全程内裤套头无脑抠屄并且模仿视频中母人的动作无脑强制高潮！警告！需两次强制高潮分为前段1分30秒 后段宣誓时需一同念出并且强迫母人二次高潮喷卵 \n短短两分钟的时间就能喷两次的废物母猪需转推评论我是弱智二连喷傻屄败北…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000087377478643896].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000087377478643896",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000087377478643896"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 134768,
+        "height": 1280,
+        "media_key": "7_1820715560315015169",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1820715560315015169/pu/img/GCuAiWyOL3dYUQEM.jpg",
+        "public_metrics": {
+          "view_count": 34167
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820715560315015169/pu/vid/avc1/320x710/ua3TT2B6-et_l0y6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820715560315015169/pu/vid/avc1/480x1066/cL75MpWaAc6IQH57.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820715560315015169/pu/vid/avc1/576x1280/c36XDLT7Z5Fh0wzR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1820715560315015169/pu/pl/ydAz7_hwB8lynHgc.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1820715560315015169"
+          ]
+        },
+        "author_id": "1797330447254302722",
+        "conversation_id": "1820715682662961232",
+        "created_at": "2024-08-06T06:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T07:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820715682662961232"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "女权"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "女神"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "洗脑"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "自毁"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "败北"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O27iHNLx0Y",
+              "end": 173,
+              "expanded_url": "https://x.com/muchunvquanbiao/status/1820715682662961232/video/1",
+              "media_key": "7_1820715560315015169",
+              "start": 150,
+              "url": "https://t.co/O27iHNLx0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820715682662961232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 143200,
+          "like_count": 442,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "女权女神挑战4\n需母人全程内裤套头无脑抠屄并且模仿视频中母人的动作无脑强制高潮！警告！需两次强制高潮分为前段1分30秒 后段宣誓时需一同念出并且强迫母人二次高潮喷卵 \n短短两分钟的时间就能喷两次的废物母猪需转推评论我是弱智二连喷傻屄败北母猪 接受所有人的骚扰！#女权 #女神 #洗脑 #自毁 #败北 https://t.co/O27iHNLx0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 398,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 46
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T18:12:43.000Z",
+        "description": "私信在 @yudie765 唯一小号 不要被骗！！！\n推广自辨 \n收徒教学可私信小号了解\n私信在小号 私信在小号 私信在小号 重要的事情说三遍 q3544201290",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "yudie765"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/muchunvquanbiao",
+                "end": 23,
+                "expanded_url": "http://t.me/muchunvquanbiao",
+                "start": 0,
+                "url": "https://t.co/CrAGdPxRmu"
+              }
+            ]
+          }
+        },
+        "id": "1797330447254302722",
+        "name": "女神女权毁灭者",
+        "pinned_tweet_id": "1986639411006918978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932940809776869376/9gRR_NYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50000,
+          "following_count": 1649,
+          "like_count": 965,
+          "listed_count": 129,
+          "media_count": 140,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/CrAGdPxRmu",
+        "username": "muchunvquanbiao",
+        "verified": false
+      }
+    ]
+  }
+}

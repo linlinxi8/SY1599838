@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1965236235238297615",
+    "created_at": "2025-09-09T02:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T03:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965238030975095245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884064435959934976",
+          "start": 0,
+          "username": "Alin_orz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965238030975095245",
+    "in_reply_to_user_id": "1884064435959934976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965236235238297615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alin_orz 姐姐加我～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965236228409925632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Xr7_4aIAAuI09.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965236232533016578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Xr8PPbgAI6Ji9.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736574795125563392",
+        "conversation_id": "1965236235238297615",
+        "created_at": "2025-09-09T02:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T03:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965238030975095245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884064435959934976",
+              "start": 0,
+              "username": "Alin_orz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965238030975095245",
+        "in_reply_to_user_id": "1884064435959934976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965236235238297615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alin_orz 姐姐加我～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965236228409925632",
+            "3_1965236232533016578"
+          ]
+        },
+        "author_id": "1884064435959934976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1965236235238297615",
+        "created_at": "2025-09-09T02:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T03:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965236235238297615"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "atm"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "榨金"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "无脑贡"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "贡奴"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "上贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XA64OGtPQq",
+              "end": 133,
+              "expanded_url": "https://x.com/Alin_orz/status/1965236235238297615/photo/1",
+              "media_key": "3_1965236228409925632",
+              "start": 110,
+              "url": "https://t.co/XA64OGtPQq"
+            },
+            {
+              "display_url": "pic.x.com/XA64OGtPQq",
+              "end": 133,
+              "expanded_url": "https://x.com/Alin_orz/status/1965236235238297615/photo/1",
+              "media_key": "3_1965236232533016578",
+              "start": 110,
+              "url": "https://t.co/XA64OGtPQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965236235238297615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "送死也不至于这么着急吧^\n明明是个很好相处的宝宝居然主动要求上贡，哎...心软的大姐姐只好将其收入麾下将其肆意宰榨咯🖤\n不过没想到居然这么快就被吸空了钱包，真是有些不过瘾呢^\n＃atm #榨金 #无脑贡 #贡奴 #上贡 https://t.co/XA64OGtPQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875692524096122881/jStRE-Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 239,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T02:22:37.000Z",
+        "description": "欢迎可爱的小正太和乖孩子们来跟大姐姐贴贴♫ 不管是温柔知性的大姐姐，还是宠爱孩子的好妈妈，又或者是不可描述的关系这里全都没问题///无门槛无费用可长期\n只是面对小孩子群体的神秘肉食女罢了❤\n\n私信勾搭可掉落门牌号噢w",
+        "id": "1884064435959934976",
+        "location": "Tokyo-to, Japan",
+        "name": "阿琳想摸鱼orz",
+        "pinned_tweet_id": "1933854544662085803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937201369473253379/65OokF4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 282,
+          "like_count": 1934,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 122
+        },
+        "username": "Alin_orz",
+        "verified": false
+      }
+    ]
+  }
+}

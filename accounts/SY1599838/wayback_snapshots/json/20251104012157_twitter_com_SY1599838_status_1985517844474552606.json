@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1985517844474552606",
+    "created_at": "2025-11-04T01:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T02:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985517844474552606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657117067919740930",
+          "start": 3,
+          "username": "anal145"
+        },
+        {
+          "end": 64,
+          "id": "1687590257930182656",
+          "start": 51,
+          "username": "anana_grande"
+        },
+        {
+          "end": 84,
+          "id": "1657124492546650112",
+          "start": 72,
+          "username": "ashiga_suki"
+        },
+        {
+          "end": 101,
+          "id": "1657141614626627585",
+          "start": 92,
+          "username": "59megami"
+        },
+        {
+          "end": 124,
+          "id": "1657139590254190592",
+          "start": 109,
+          "username": "bukkake_tenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985517844474552606",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 459
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932187312110379241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anal145: ⚠️オカズに使えるアカウント一覧！⚠️\n◤￣￣￣￣￣￣￣￣￣￣\n▶️アナル\n@anana_grande\n▶️脚フェチ\n@ashiga_suki\n▶️ごっくん\n@59megami\n▶️ぶっかけ\n@bukkake_tenshi\n▶️熟女系\n@juku_ma…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985517844474552606].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985517844474552606",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985517844474552606"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 137103,
+        "height": 404,
+        "media_key": "7_1929280065336172544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1929280065336172544/pu/img/Ew-BA851sUXliWaK.jpg",
+        "public_metrics": {
+          "view_count": 269767
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929280065336172544/pu/vid/avc1/480x270/D2MDJQZ_uF_4Y_RI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929280065336172544/pu/vid/avc1/720x404/nVbSvrxF-Gq8zXXS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1929280065336172544/pu/pl/neVXqCPeBCWFVfRW.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1929280065336172544"
+          ],
+          "media_source_tweet_id": [
+            "1929280122009563360"
+          ]
+        },
+        "author_id": "1657117067919740930",
+        "conversation_id": "1932187312110379241",
+        "created_at": "2025-06-09T21:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T22:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932187312110379241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1687590257930182656",
+              "start": 38,
+              "username": "anana_grande"
+            },
+            {
+              "end": 71,
+              "id": "1657124492546650112",
+              "start": 59,
+              "username": "ashiga_suki"
+            },
+            {
+              "end": 88,
+              "id": "1657141614626627585",
+              "start": 79,
+              "username": "59megami"
+            },
+            {
+              "end": 111,
+              "id": "1657139590254190592",
+              "start": 96,
+              "username": "bukkake_tenshi"
+            },
+            {
+              "end": 130,
+              "id": "2840835247",
+              "start": 118,
+              "username": "juku_market"
+            },
+            {
+              "end": 165,
+              "id": "1657125321047506947",
+              "start": 156,
+              "username": "scatoro2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DprO1PGRwB",
+              "end": 210,
+              "expanded_url": "https://x.com/anal_kaisen/status/1929280122009563360/video/1",
+              "media_key": "7_1929280065336172544",
+              "start": 187,
+              "url": "https://t.co/DprO1PGRwB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932187312110379241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2193,
+          "impression_count": 1046995,
+          "like_count": 4276,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 459
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️オカズに使えるアカウント一覧！⚠️\n◤￣￣￣￣￣￣￣￣￣￣\n▶️アナル\n@anana_grande\n▶️脚フェチ\n@ashiga_suki\n▶️ごっくん\n@59megami\n▶️ぶっかけ\n@bukkake_tenshi\n▶️熟女系\n@juku_market\n▶️アナル\n@anal_timez\n▶️スカトロ\n@scatoro2\n＿＿＿＿＿＿＿＿＿＿◢\n襲われバド部員🏸\nhttps://t.co/DprO1PGRwB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 361,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T20:15:41.000Z",
+        "description": "アナルプレイのエロ動画を紹介するアカウント。オススメのアナル作品があればコメント・DMで教えてください！アナルAVに興味がある方はフォローお願いします🙇【🔞アダルトな内容なので18歳未満の方は閲覧禁止】🎥✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "av-top.com/anal/",
+                "end": 23,
+                "expanded_url": "https://av-top.com/anal/",
+                "start": 0,
+                "url": "https://t.co/RvWbSMRQUw"
+              }
+            ]
+          }
+        },
+        "id": "1657117067919740930",
+        "name": "アナルスキーの尻穴🕳動画ラボ",
+        "pinned_tweet_id": "1965703484105515083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717536096068800512/aNvqeyFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41501,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 199,
+          "media_count": 6132,
+          "tweet_count": 20650
+        },
+        "url": "https://t.co/RvWbSMRQUw",
+        "username": "anal145",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2023-08-04T22:24:28.000Z",
+        "description": "下の穴好きな私がアナル動画を紹介📼\n気に入ったら是非いいね＆RTをお願いします🙏\n18歳未満は閲覧禁止だよ🔞",
+        "id": "1687590257930182656",
+        "name": "アナアナ・グランデ",
+        "pinned_tweet_id": "1969963220007088296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762698869996158976/HWZpPoLf_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6815,
+          "following_count": 1,
+          "like_count": 13700,
+          "listed_count": 41,
+          "media_count": 6900,
+          "tweet_count": 13637
+        },
+        "username": "anana_grande",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T20:46:16.000Z",
+        "description": "パンスト・ニーソ・網タイツ・ナイロン・紺ソ・素足のどれでも大好物な私がおすすめの脚フェチ動画を紹介します🧦絶対領域もいいけど足裏もいいよね🦵アダルトな内容なので18歳未満の方は閲覧禁止🔞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "av-top.com/ashi/",
+                "end": 23,
+                "expanded_url": "https://av-top.com/ashi/",
+                "start": 0,
+                "url": "https://t.co/vDvDqSPwyR"
+              }
+            ]
+          }
+        },
+        "id": "1657124492546650112",
+        "name": "やっぱり脚が好き🦵脚フェチ動画",
+        "pinned_tweet_id": "1871935584836702498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716702970686164992/Fl1HRwAS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4207,
+          "following_count": 28,
+          "like_count": 7138,
+          "listed_count": 27,
+          "media_count": 5381,
+          "tweet_count": 11059
+        },
+        "url": "https://t.co/vDvDqSPwyR",
+        "username": "ashiga_suki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T21:53:00.000Z",
+        "description": "女子たちがザーメンをごっくん👄する動画を集めたごっくん専門アカウント。女子に精子を飲ませるのが好き！という方はフォローお願いします😊【🔞アダルトな内容なので18歳未満は閲覧禁止】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "av-top.com/gokkun/",
+                "end": 23,
+                "expanded_url": "https://av-top.com/gokkun/",
+                "start": 0,
+                "url": "https://t.co/2zB7njZLe7"
+              }
+            ]
+          }
+        },
+        "id": "1657141614626627585",
+        "name": "ごっくん女神🗽",
+        "pinned_tweet_id": "1931612993437270323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734435212350918656/BpRIoV85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9873,
+          "following_count": 77,
+          "like_count": 27229,
+          "listed_count": 61,
+          "media_count": 1520,
+          "tweet_count": 5218
+        },
+        "url": "https://t.co/2zB7njZLe7",
+        "username": "59megami",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T21:45:44.000Z",
+        "description": "女子にザーメン🥛をぶっかけるのが大好きな私がオススメ動画を紹介しています。厳選したぶっかけ動画を紹介しているのでフォローお願いします😊【🔞アダルトな内容なので18歳未満は閲覧禁止】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "av-top.com/bukkake/",
+                "end": 23,
+                "expanded_url": "https://av-top.com/bukkake/",
+                "start": 0,
+                "url": "https://t.co/TdIFvKRwqG"
+              }
+            ]
+          }
+        },
+        "id": "1657139590254190592",
+        "name": "ぶっかけ天使👼",
+        "pinned_tweet_id": "1931609322813087788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734435094151266304/Nxo5-nsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10233,
+          "following_count": 65,
+          "like_count": 30993,
+          "listed_count": 57,
+          "media_count": 1159,
+          "tweet_count": 4324
+        },
+        "url": "https://t.co/TdIFvKRwqG",
+        "username": "bukkake_tenshi",
+        "verified": false
+      }
+    ]
+  }
+}

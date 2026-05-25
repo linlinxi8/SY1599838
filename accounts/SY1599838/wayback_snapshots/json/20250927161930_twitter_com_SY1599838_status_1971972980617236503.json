@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1971911718348726287",
+    "created_at": "2025-09-27T16:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T17:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971972980617236503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700125379590225920",
+          "start": 0,
+          "username": "cjm19970421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971972980617236503",
+    "in_reply_to_user_id": "1700125379590225920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971911718348726287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjm19970421 喜欢😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1971911706277519360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12jP80bIAA8P_5.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971911706252320768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12jP8uaoAAkB4s.jpg",
+        "width": 1548
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971911706332069888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12jP9BbgAAHmRf.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971911706269175816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12jP8yb0AglJtX.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736574795125563392",
+        "conversation_id": "1971911718348726287",
+        "created_at": "2025-09-27T16:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T17:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971972980617236503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700125379590225920",
+              "start": 0,
+              "username": "cjm19970421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971972980617236503",
+        "in_reply_to_user_id": "1700125379590225920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971911718348726287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjm19970421 喜欢😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971911706277519360",
+            "3_1971911706252320768",
+            "3_1971911706332069888",
+            "3_1971911706269175816"
+          ]
+        },
+        "author_id": "1700125379590225920",
+        "conversation_id": "1971911718348726287",
+        "created_at": "2025-09-27T12:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T13:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971911718348726287"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 102,
+              "tag": "贡"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "榨金"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "女高"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "转账"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "素人"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "女神"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "女s"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "小额贡"
+            },
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "女大学生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QA2XYuTvbJ",
+              "end": 163,
+              "expanded_url": "https://x.com/cjm19970421/status/1971911718348726287/photo/1",
+              "media_key": "3_1971911706277519360",
+              "start": 140,
+              "url": "https://t.co/QA2XYuTvbJ"
+            },
+            {
+              "display_url": "pic.x.com/QA2XYuTvbJ",
+              "end": 163,
+              "expanded_url": "https://x.com/cjm19970421/status/1971911718348726287/photo/1",
+              "media_key": "3_1971911706252320768",
+              "start": 140,
+              "url": "https://t.co/QA2XYuTvbJ"
+            },
+            {
+              "display_url": "pic.x.com/QA2XYuTvbJ",
+              "end": 163,
+              "expanded_url": "https://x.com/cjm19970421/status/1971911718348726287/photo/1",
+              "media_key": "3_1971911706332069888",
+              "start": 140,
+              "url": "https://t.co/QA2XYuTvbJ"
+            },
+            {
+              "display_url": "pic.x.com/QA2XYuTvbJ",
+              "end": 163,
+              "expanded_url": "https://x.com/cjm19970421/status/1971911718348726287/photo/1",
+              "media_key": "3_1971911706269175816",
+              "start": 140,
+              "url": "https://t.co/QA2XYuTvbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971911718348726287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【素人女神分享】第二位\n上贡金额：150+\n上贡方式：红包，转账\n第二位素人女神。一开始还以为是女大，没想到是清纯女高，知道是给女高贡，更兴奋了是怎么回事😭\n可以小额哦，喜欢女高和小额贡的绝对不能错过😁\n#贡 #榨金 #女高 #转账 #素人\n#女神 #女s #小额贡 #女大学生 https://t.co/QA2XYuTvbJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875692524096122881/jStRE-Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 274,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T12:34:20.000Z",
+        "description": "喜欢素人的兄弟可以关注一下 ，以后也会持续开发和分享素人女神，可以多多交流😁平时要上班不经常看推，可以加q1749946181，记得备注来意",
+        "id": "1700125379590225920",
+        "name": "瞬间即永恒",
+        "pinned_tweet_id": "1971776122871537674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971862745462329346/XKj-sZQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 329,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 184
+        },
+        "username": "cjm19970421",
+        "verified": false
+      }
+    ]
+  }
+}

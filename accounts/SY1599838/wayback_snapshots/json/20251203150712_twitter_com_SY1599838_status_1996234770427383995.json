@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1996234770427383995",
+    "created_at": "2025-12-03T15:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T16:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996234770427383995"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "自毁"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "社死"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "反差"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "投稿"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "反差婊"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "辱骂"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "羞辱"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "曝光"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "母狗"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "母猪"
+        },
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "肉便器"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "闺蜜"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "试探"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1443437859143225346",
+          "start": 3,
+          "username": "dom33693558"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996234770427383995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967155803896586582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dom33693558: 高冷女神婊李大傻屄第四弹🖤\n被鸡巴爹强制爆耍猪脑，对着自个平时的舔狗请求爆骂自个傻屄母猪，彻底在舔狗面前曝光贱屄本性猪脑升天🖕🏻\n#自毁 #社死 #反差 #投稿   #反差婊 #辱骂 #羞辱 #曝光 #母狗 #母猪  #肉便器  #闺蜜 #试探…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1996234770427383995].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1996234770427383995",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1996234770427383995"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1967155798984835072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0y9xthXQAAckIH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967155799706202112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0y9xwNWcAAUsDg.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967155800780021760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0y9x0NXoAAFqyT.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967155799794274304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0y9xwiWUAApK52.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967155798984835072",
+            "3_1967155799706202112",
+            "3_1967155800780021760",
+            "3_1967155799794274304"
+          ]
+        },
+        "author_id": "1443437859143225346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967155803896586582",
+        "created_at": "2025-09-14T09:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T10:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967155803896586582"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "自毁"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "社死"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "反差"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "投稿"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "反差婊"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "辱骂"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "羞辱"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "曝光"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "母狗"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "母猪"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "肉便器"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "闺蜜"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "试探"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "模特"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sL8PDC2fwb",
+              "end": 150,
+              "expanded_url": "https://x.com/dom33693558/status/1967155803896586582/photo/1",
+              "media_key": "3_1967155798984835072",
+              "start": 127,
+              "url": "https://t.co/sL8PDC2fwb"
+            },
+            {
+              "display_url": "pic.x.com/sL8PDC2fwb",
+              "end": 150,
+              "expanded_url": "https://x.com/dom33693558/status/1967155803896586582/photo/1",
+              "media_key": "3_1967155799706202112",
+              "start": 127,
+              "url": "https://t.co/sL8PDC2fwb"
+            },
+            {
+              "display_url": "pic.x.com/sL8PDC2fwb",
+              "end": 150,
+              "expanded_url": "https://x.com/dom33693558/status/1967155803896586582/photo/1",
+              "media_key": "3_1967155800780021760",
+              "start": 127,
+              "url": "https://t.co/sL8PDC2fwb"
+            },
+            {
+              "display_url": "pic.x.com/sL8PDC2fwb",
+              "end": 150,
+              "expanded_url": "https://x.com/dom33693558/status/1967155803896586582/photo/1",
+              "media_key": "3_1967155799794274304",
+              "start": 127,
+              "url": "https://t.co/sL8PDC2fwb"
+            },
+            {
+              "display_url": "x.com/dom33693558/st…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/dom33693558/status/1934657612039229789",
+              "start": 151,
+              "url": "https://t.co/smiamNAST0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967155803896586582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10585,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934657612039229789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高冷女神婊李大傻屄第四弹🖤\n被鸡巴爹强制爆耍猪脑，对着自个平时的舔狗请求爆骂自个傻屄母猪，彻底在舔狗面前曝光贱屄本性猪脑升天🖕🏻\n#自毁 #社死 #反差 #投稿   #反差婊 #辱骂 #羞辱 #曝光 #母狗 #母猪  #肉便器  #闺蜜 #试探 #模特 https://t.co/sL8PDC2fwb https://t.co/smiamNAST0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 408,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 57
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T04:49:53.000Z",
+        "description": "原万粉大号被封@33263750 \n曝光/社死/控心/洗脑/人格摧毁/男尊女卑q:1678916195",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "33263750"
+              }
+            ]
+          }
+        },
+        "id": "1443437859143225346",
+        "location": "Singapore",
+        "name": "渣爹(复活版)",
+        "pinned_tweet_id": "1967884330908398038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818179729574498304/sKg679_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4202,
+          "following_count": 4128,
+          "like_count": 9568,
+          "listed_count": 25,
+          "media_count": 233,
+          "tweet_count": 1832
+        },
+        "username": "dom33693558",
+        "verified": false
+      }
+    ]
+  }
+}

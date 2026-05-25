@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2015374637564039256",
+    "created_at": "2026-01-25T10:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015374637564039256"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "女大学生"
+        },
+        {
+          "end": 109,
+          "start": 104,
+          "tag": "自毁曝光"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "母猪发情"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "社死"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "男尊女卑"
+        },
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "肉便器"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "骚逼"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961920569647222784",
+          "start": 3,
+          "username": "ZhuiLuo_S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015374637564039256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015340435078611295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZhuiLuo_S: 🖤活体母畜广告1🖤\n白天是大学校园里的高冷女神，到晚上就是跪着给坠爹磕头求随意使用的精盆肉便器母畜，彻底上交身体控制权被爆耍玩弄\n点赞转发到20继续更新母畜犯贱记录\n#女大学生 #自毁曝光 #母猪发情 #社死 #男尊女卑 #肉便器 #骚逼  #反差…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2015374637564039256].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2015374637564039256",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2015374637564039256"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1294,
+        "media_key": "3_2015340420188848128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ftbzbXwAAWTyX.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1487,
+        "media_key": "3_2015340420192940032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ftbzcWMAAiRtQ.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1537,
+        "media_key": "3_2015340420193030144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ftbzcXkAAOGbf.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1700,
+        "media_key": "3_2015340420205514752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ftbzfWEAAJw3h.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015340420188848128",
+            "3_2015340420192940032",
+            "3_2015340420193030144",
+            "3_2015340420205514752"
+          ]
+        },
+        "author_id": "1961920569647222784",
+        "conversation_id": "2015340435078611295",
+        "created_at": "2026-01-25T08:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015340435078611295"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "女大学生"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "自毁曝光"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "母猪发情"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "社死"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "肉便器"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "骚逼"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "反差婊"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "母畜"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "婊子"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "女大"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 149,
+              "id": "1652591516756615171",
+              "start": 139,
+              "username": "DDDDBBHHH"
+            },
+            {
+              "end": 162,
+              "id": "1427499053227466756",
+              "start": 150,
+              "username": "wqganenshi_"
+            },
+            {
+              "end": 170,
+              "id": "1844956237135544320",
+              "start": 163,
+              "username": "zplike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQYJwwLHt1",
+              "end": 194,
+              "expanded_url": "https://x.com/ZhuiLuo_S/status/2015340435078611295/photo/1",
+              "media_key": "3_2015340420188848128",
+              "start": 171,
+              "url": "https://t.co/ZQYJwwLHt1"
+            },
+            {
+              "display_url": "pic.x.com/ZQYJwwLHt1",
+              "end": 194,
+              "expanded_url": "https://x.com/ZhuiLuo_S/status/2015340435078611295/photo/1",
+              "media_key": "3_2015340420192940032",
+              "start": 171,
+              "url": "https://t.co/ZQYJwwLHt1"
+            },
+            {
+              "display_url": "pic.x.com/ZQYJwwLHt1",
+              "end": 194,
+              "expanded_url": "https://x.com/ZhuiLuo_S/status/2015340435078611295/photo/1",
+              "media_key": "3_2015340420193030144",
+              "start": 171,
+              "url": "https://t.co/ZQYJwwLHt1"
+            },
+            {
+              "display_url": "pic.x.com/ZQYJwwLHt1",
+              "end": 194,
+              "expanded_url": "https://x.com/ZhuiLuo_S/status/2015340435078611295/photo/1",
+              "media_key": "3_2015340420205514752",
+              "start": 171,
+              "url": "https://t.co/ZQYJwwLHt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015340435078611295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 261,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🖤活体母畜广告1🖤\n白天是大学校园里的高冷女神，到晚上就是跪着给坠爹磕头求随意使用的精盆肉便器母畜，彻底上交身体控制权被爆耍玩弄\n点赞转发到20继续更新母畜犯贱记录\n#女大学生 #自毁曝光 #母猪发情 #社死 #男尊女卑 #肉便器 #骚逼  #反差婊  #母畜 #婊子 #女大 @DDDDBBHHH @wqganenshi_ @zplike https://t.co/ZQYJwwLHt1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 549,
+          "like_count": 316,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 124
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T22:35:06.000Z",
+        "description": "曝光投稿/羞辱/自毁/胁迫控制母狗 接试探 不骚不贱的别来骚扰野爹 q：1472049304",
+        "id": "1961920569647222784",
+        "location": "天王星",
+        "name": "坠爹（羞辱 曝光）",
+        "pinned_tweet_id": "2013638766519349540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979445372343721984/5GNfhhCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 272,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 143
+        },
+        "username": "ZhuiLuo_S",
+        "verified": false
+      }
+    ]
+  }
+}

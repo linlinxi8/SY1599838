@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017816603212320768",
+        "3_2017816603195555840",
+        "3_2017816603174600706",
+        "3_2017816603174514688"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2017816615895883889",
+    "created_at": "2026-02-01T04:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T05:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017816615895883889"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 76,
+          "tag": "绿帽ntr"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "羞辱辱骂"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "反差"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 74,
+          "id": "1844956237135544320",
+          "start": 67,
+          "username": "zplike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wvnbhI2HQ6",
+          "end": 118,
+          "expanded_url": "https://x.com/SY1599838/status/2017816615895883889/photo/1",
+          "media_key": "3_2017816603212320768",
+          "start": 95,
+          "url": "https://t.co/wvnbhI2HQ6"
+        },
+        {
+          "display_url": "pic.x.com/wvnbhI2HQ6",
+          "end": 118,
+          "expanded_url": "https://x.com/SY1599838/status/2017816615895883889/photo/1",
+          "media_key": "3_2017816603195555840",
+          "start": 95,
+          "url": "https://t.co/wvnbhI2HQ6"
+        },
+        {
+          "display_url": "pic.x.com/wvnbhI2HQ6",
+          "end": 118,
+          "expanded_url": "https://x.com/SY1599838/status/2017816615895883889/photo/1",
+          "media_key": "3_2017816603174600706",
+          "start": 95,
+          "url": "https://t.co/wvnbhI2HQ6"
+        },
+        {
+          "display_url": "pic.x.com/wvnbhI2HQ6",
+          "end": 118,
+          "expanded_url": "https://x.com/SY1599838/status/2017816615895883889/photo/1",
+          "media_key": "3_2017816603174514688",
+          "start": 95,
+          "url": "https://t.co/wvnbhI2HQ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017816615895883889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "骚逼网红～🖤\n被废物鸡巴男友发现了怎么办呢？那就直接无脑跪地犯贱承认叭～看着自己的“女友”在祖宗面前发骚，骚鸡巴也不由自主硬起来了叭\n@zplike \n#绿帽ntr  #羞辱辱骂  #反差 https://t.co/wvnbhI2HQ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2017816603212320768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAC5goBbEAAQjJj.jpg",
+        "width": 713
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2017816603195555840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAC5gn9bQAAtqe7.jpg",
+        "width": 781
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2017816603174600706",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAC5gn4bgAI-pWT.jpg",
+        "width": 790
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2017816603174514688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAC5gn4aMAA53Wo.jpg",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017816603212320768",
+            "3_2017816603195555840",
+            "3_2017816603174600706",
+            "3_2017816603174514688"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2017816615895883889",
+        "created_at": "2026-02-01T04:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017816615895883889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 76,
+              "tag": "绿帽ntr"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "羞辱辱骂"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "反差"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 74,
+              "id": "1844956237135544320",
+              "start": 67,
+              "username": "zplike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wvnbhI2HQ6",
+              "end": 118,
+              "expanded_url": "https://x.com/SY1599838/status/2017816615895883889/photo/1",
+              "media_key": "3_2017816603212320768",
+              "start": 95,
+              "url": "https://t.co/wvnbhI2HQ6"
+            },
+            {
+              "display_url": "pic.x.com/wvnbhI2HQ6",
+              "end": 118,
+              "expanded_url": "https://x.com/SY1599838/status/2017816615895883889/photo/1",
+              "media_key": "3_2017816603195555840",
+              "start": 95,
+              "url": "https://t.co/wvnbhI2HQ6"
+            },
+            {
+              "display_url": "pic.x.com/wvnbhI2HQ6",
+              "end": 118,
+              "expanded_url": "https://x.com/SY1599838/status/2017816615895883889/photo/1",
+              "media_key": "3_2017816603174600706",
+              "start": 95,
+              "url": "https://t.co/wvnbhI2HQ6"
+            },
+            {
+              "display_url": "pic.x.com/wvnbhI2HQ6",
+              "end": 118,
+              "expanded_url": "https://x.com/SY1599838/status/2017816615895883889/photo/1",
+              "media_key": "3_2017816603174514688",
+              "start": 95,
+              "url": "https://t.co/wvnbhI2HQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017816615895883889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骚逼网红～🖤\n被废物鸡巴男友发现了怎么办呢？那就直接无脑跪地犯贱承认叭～看着自己的“女友”在祖宗面前发骚，骚鸡巴也不由自主硬起来了叭\n@zplike \n#绿帽ntr  #羞辱辱骂  #反差 https://t.co/wvnbhI2HQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "2016460297947459805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 569,
+          "like_count": 328,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 134
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:    @jiaofu716428191     v:wsdbtxx\n Q:867768161",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 9,
+          "like_count": 110,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 600
+        },
+        "username": "zplike",
+        "verified": false
+      }
+    ]
+  }
+}

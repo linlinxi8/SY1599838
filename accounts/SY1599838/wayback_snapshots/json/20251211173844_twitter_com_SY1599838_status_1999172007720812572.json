@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999171697052909569"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1999172007720812572",
+    "created_at": "2025-12-11T17:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T18:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999172007720812572"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "胁迫"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "社死"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "自毁"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "洗脑"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "丧志"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "丧智"
+        },
+        {
+          "end": 140,
+          "start": 137,
+          "tag": "母驴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 151,
+          "id": "1652591516756615171",
+          "start": 141,
+          "username": "DDDDBBHHH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9easYYl2dA",
+          "end": 175,
+          "expanded_url": "https://x.com/SY1599838/status/1999172007720812572/photo/1",
+          "media_key": "3_1999171697052909569",
+          "start": 152,
+          "url": "https://t.co/9easYYl2dA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999172007720812572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "转发点赞这个推文的母狗\n承认你是个渴望被鸡巴废物贱母猪淫荡下贱的废物鸡巴套子白天喜欢伪装成人到晚上就会卸下伪装的人型母畜，基因自带就是个雌性畜牲，做梦都想着被先生亲爹，暴虐蹂躏的废物雌畜，真是脑子被灌了淫卵精液的下贱丧志母猪 #胁迫 #社死 #自毁 #洗脑 #丧志 #丧智 #母驴 @DDDDBBHHH https://t.co/9easYYl2dA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1526,
+        "media_key": "3_1999171697052909569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G758EP_agAEb8Ok.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999171697052909569"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "1999172007720812572",
+        "created_at": "2025-12-11T17:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999172007720812572"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "胁迫"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "社死"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "自毁"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "洗脑"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "丧志"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "丧智"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "母驴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 151,
+              "id": "1652591516756615171",
+              "start": 141,
+              "username": "DDDDBBHHH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9easYYl2dA",
+              "end": 175,
+              "expanded_url": "https://x.com/SY1599838/status/1999172007720812572/photo/1",
+              "media_key": "3_1999171697052909569",
+              "start": 152,
+              "url": "https://t.co/9easYYl2dA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999172007720812572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "转发点赞这个推文的母狗\n承认你是个渴望被鸡巴废物贱母猪淫荡下贱的废物鸡巴套子白天喜欢伪装成人到晚上就会卸下伪装的人型母畜，基因自带就是个雌性畜牲，做梦都想着被先生亲爹，暴虐蹂躏的废物雌畜，真是脑子被灌了淫卵精液的下贱丧志母猪 #胁迫 #社死 #自毁 #洗脑 #丧志 #丧智 #母驴 @DDDDBBHHH https://t.co/9easYYl2dA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 407,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 43
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T08:31:44.000Z",
+        "description": "免费转推@DDDDBBHHH 直接@就可以。   每日大赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "DDDDBBHHH"
+              }
+            ]
+          }
+        },
+        "id": "1652591516756615171",
+        "name": "每日大赛（@帮转）",
+        "pinned_tweet_id": "1898995609756897717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652592430699651073/HYzCDgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3587,
+          "following_count": 130,
+          "like_count": 2791,
+          "listed_count": 7,
+          "media_count": 5,
+          "tweet_count": 3942
+        },
+        "username": "DDDDBBHHH",
+        "verified": false
+      }
+    ]
+  }
+}

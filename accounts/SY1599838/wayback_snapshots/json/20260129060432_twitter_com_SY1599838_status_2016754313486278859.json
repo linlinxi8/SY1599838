@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2016750928078983543",
+    "created_at": "2026-01-29T06:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016754313486278859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776987956836003840",
+          "start": 0,
+          "username": "qweas16970831"
+        },
+        {
+          "end": 22,
+          "id": "1844956237135544320",
+          "start": 15,
+          "username": "zplike"
+        },
+        {
+          "end": 35,
+          "id": "1427499053227466756",
+          "start": 23,
+          "username": "wqganenshi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016754313486278859",
+    "in_reply_to_user_id": "1776987956836003840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016754128324874519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qweas16970831 @zplike @wqganenshi_ 另外一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736574795125563392",
+        "conversation_id": "2016750928078983543",
+        "created_at": "2026-01-29T06:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016754313486278859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776987956836003840",
+              "start": 0,
+              "username": "qweas16970831"
+            },
+            {
+              "end": 22,
+              "id": "1844956237135544320",
+              "start": 15,
+              "username": "zplike"
+            },
+            {
+              "end": 35,
+              "id": "1427499053227466756",
+              "start": 23,
+              "username": "wqganenshi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016754313486278859",
+        "in_reply_to_user_id": "1776987956836003840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016754128324874519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qweas16970831 @zplike @wqganenshi_ 另外一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776987956836003840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2016750928078983543",
+        "created_at": "2026-01-29T06:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016754128324874519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1736574795125563392",
+              "start": 0,
+              "username": "SY1599838"
+            },
+            {
+              "end": 18,
+              "id": "1844956237135544320",
+              "start": 11,
+              "username": "zplike"
+            },
+            {
+              "end": 31,
+              "id": "1427499053227466756",
+              "start": 19,
+              "username": "wqganenshi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016754128324874519",
+        "in_reply_to_user_id": "1736574795125563392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016750928078983543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SY1599838 @zplike @wqganenshi_ 还是那个留学母驴没"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "2016460297947459805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 559,
+          "like_count": 323,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 128
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T14:58:48.000Z",
+        "description": "",
+        "id": "1776987956836003840",
+        "location": "合肥",
+        "name": "羞辱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912374933209980928/0DpxFNtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 2946,
+          "like_count": 12025,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1255
+        },
+        "username": "qweas16970831",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:    @jiaofu716428191     v:wsdbtxx\n Q:867768161",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 9,
+          "like_count": 105,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 589
+        },
+        "username": "zplike",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T05:14:45.000Z",
+        "description": "接投稿！！！投稿同时@wqganenshi_和@liaoyiansheng中文翻译：wq感恩石_|#超1天没转私我｜🌏老牌靠谱线下c圈约妹@jinchen166｜🔥五年C圈信誉中介@huahuocosq｜ 💎玩外围怕踩坑？找金教授 @jjshou07｜💥简介招商",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "超1天没转私我"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "wqganenshi_"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "liaoyiansheng"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "jinchen166"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "huahuocosq"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "jjshou07"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_S-sTNs_LyIwN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_S-sTNs_LyIwN2E1",
+                "start": 0,
+                "url": "https://t.co/0u3WNRSlMt"
+              }
+            ]
+          }
+        },
+        "id": "1427499053227466756",
+        "location": "有稿投💨💦小群👇",
+        "name": "有稿投😁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1482978871964225537/zQoKqgXc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 302844,
+          "following_count": 182,
+          "like_count": 56291,
+          "listed_count": 421,
+          "media_count": 0,
+          "tweet_count": 52453
+        },
+        "url": "https://t.co/0u3WNRSlMt",
+        "username": "wqganenshi_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

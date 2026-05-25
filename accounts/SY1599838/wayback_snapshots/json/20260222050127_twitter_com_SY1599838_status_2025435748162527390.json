@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025435713265897472",
+        "3_2025435715384082436"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2025435748162527390",
+    "created_at": "2026-02-22T05:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025435748162527390"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "曝光贱狗"
+        },
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "羞辱"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "母狗"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1982671107808448512",
+          "start": 0,
+          "username": "facd1277"
+        },
+        {
+          "end": 64,
+          "id": "1844956237135544320",
+          "start": 57,
+          "username": "zplike"
+        },
+        {
+          "end": 81,
+          "id": "1994695281909403656",
+          "start": 67,
+          "username": "liaoyiansheng"
+        },
+        {
+          "end": 96,
+          "id": "1427499053227466756",
+          "start": 84,
+          "username": "wqganenshi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NN7lAus98D",
+          "end": 120,
+          "expanded_url": "https://x.com/SY1599838/status/2025435748162527390/photo/1",
+          "media_key": "3_2025435713265897472",
+          "start": 97,
+          "url": "https://t.co/NN7lAus98D"
+        },
+        {
+          "display_url": "pic.x.com/NN7lAus98D",
+          "end": 120,
+          "expanded_url": "https://x.com/SY1599838/status/2025435748162527390/photo/1",
+          "media_key": "3_2025435715384082436",
+          "start": 97,
+          "url": "https://t.co/NN7lAus98D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025435748162527390",
+    "in_reply_to_user_id": "1982671107808448512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@facd1277\n \n🖤🖤🖤🖤\n一头求着祖宗曝光的骚逼，在男友鸡巴上面想着祖宗～\n#曝光贱狗  #羞辱 #母狗\n@zplike\n \n@liaoyiansheng\n \n@wqganenshi_ https://t.co/NN7lAus98D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1898,
+        "media_key": "3_2025435713265897472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvLDMyakAA9xaV.jpg",
+        "width": 1202
+      },
+      {
+        "height": 911,
+        "media_key": "3_2025435715384082436",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvLDUrbgAQQ4dr.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025435713265897472",
+            "3_2025435715384082436"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2025435748162527390",
+        "created_at": "2026-02-22T05:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025435748162527390"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "曝光贱狗"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "羞辱"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "母狗"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1982671107808448512",
+              "start": 0,
+              "username": "facd1277"
+            },
+            {
+              "end": 64,
+              "id": "1844956237135544320",
+              "start": 57,
+              "username": "zplike"
+            },
+            {
+              "end": 81,
+              "id": "1994695281909403656",
+              "start": 67,
+              "username": "liaoyiansheng"
+            },
+            {
+              "end": 96,
+              "id": "1427499053227466756",
+              "start": 84,
+              "username": "wqganenshi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NN7lAus98D",
+              "end": 120,
+              "expanded_url": "https://x.com/SY1599838/status/2025435748162527390/photo/1",
+              "media_key": "3_2025435713265897472",
+              "start": 97,
+              "url": "https://t.co/NN7lAus98D"
+            },
+            {
+              "display_url": "pic.x.com/NN7lAus98D",
+              "end": 120,
+              "expanded_url": "https://x.com/SY1599838/status/2025435748162527390/photo/1",
+              "media_key": "3_2025435715384082436",
+              "start": 97,
+              "url": "https://t.co/NN7lAus98D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025435748162527390",
+        "in_reply_to_user_id": "1982671107808448512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@facd1277\n \n🖤🖤🖤🖤\n一头求着祖宗曝光的骚逼，在男友鸡巴上面想着祖宗～\n#曝光贱狗  #羞辱 #母狗\n@zplike\n \n@liaoyiansheng\n \n@wqganenshi_ https://t.co/NN7lAus98D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 579,
+          "like_count": 335,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 149
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T04:50:26.000Z",
+        "description": "榨精母猪 人形飞机杯 免费公厕 glory hole主理人 母猪肉便器 上下穴免费使用 内射中出可解锁更多体位喵🖤🖤🖤",
+        "id": "1982671107808448512",
+        "name": "精盆母猪爱吃精液和大鸡巴",
+        "pinned_tweet_id": "2024507714098122969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025017056559579136/UeWJoAIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 53,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "username": "facd1277",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:    @jiaofu716428191     v:wsdbtxx\n Q:867768161",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 9,
+          "like_count": 153,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 658
+        },
+        "username": "zplike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T09:09:51.000Z",
+        "description": "NSFW18+｜接投稿！！！投稿同时@wqganenshi_和@liaoyiansheng｜#超1天没转私我｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "超1天没转私我"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "wqganenshi_"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "liaoyiansheng"
+              }
+            ]
+          }
+        },
+        "id": "1994695281909403656",
+        "name": "撩意暗生",
+        "pinned_tweet_id": "2018243662317305933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997576611944865792/xif-BMUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3945,
+          "following_count": 22,
+          "like_count": 1619,
+          "listed_count": 16,
+          "media_count": 0,
+          "tweet_count": 1639
+        },
+        "username": "liaoyiansheng",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T05:14:45.000Z",
+        "description": "接投稿！！！投稿同时@wqganenshi_和@liaoyiansheng中文翻译：wq感恩石_|#超1天没转私我｜🌏老牌靠谱线下c圈约妹@jinchencos4｜💎玩外围怕踩坑？找金教授 @jjshou009｜💥简介招商",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "超1天没转私我"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "wqganenshi_"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "liaoyiansheng"
+              },
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jinchencos4"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "jjshou009"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_S-sTNs_LyIwN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_S-sTNs_LyIwN2E1",
+                "start": 0,
+                "url": "https://t.co/0u3WNRSlMt"
+              }
+            ]
+          }
+        },
+        "id": "1427499053227466756",
+        "location": "有稿投💨💦小群👇",
+        "name": "有稿投😁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1482978871964225537/zQoKqgXc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 306016,
+          "following_count": 197,
+          "like_count": 57423,
+          "listed_count": 428,
+          "media_count": 0,
+          "tweet_count": 53643
+        },
+        "url": "https://t.co/0u3WNRSlMt",
+        "username": "wqganenshi_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

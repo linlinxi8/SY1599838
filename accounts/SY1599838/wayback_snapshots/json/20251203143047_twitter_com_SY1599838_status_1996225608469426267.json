@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1996225608469426267",
+    "created_at": "2025-12-03T14:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T15:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996225608469426267"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "上贡"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "反差"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "倒贴"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "自毁"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "母猪"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "母狗"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "女神"
+        },
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "高学历"
+        },
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "留学生"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "胁迫"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "开盒"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "939753588070289408",
+          "start": 3,
+          "username": "SeemabK69796504"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996225608469426267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876323105582563630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SeemabK69796504: #上贡 #反差 #倒贴 #自毁 #母猪 #母狗\n#女神 #高学历 #留学生 #胁迫 #开盒\n  某985婊子蛆想玩自毁又玩不起，多次贡假身份证后被祖宗爆耍，结果无脑败北看着别的畜牲心甘情愿吐身份证自己也忍不住把自己卖了，你们这些人前装高…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876323079355502592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgoJ5kTaEAAAGRe.jpg",
+        "width": 852
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1876323080324427777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgoJ5n6asAE1C_Q.jpg",
+        "width": 872
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1876323088864063488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgoJ6HubMAAnUrl.jpg",
+        "width": 860
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1876323095537135616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgoJ6glaMAA8XzS.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736574795125563392",
+        "conversation_id": "1996225608469426267",
+        "created_at": "2025-12-03T14:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996225608469426267"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "上贡"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "反差"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "倒贴"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "自毁"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "母猪"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "母狗"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "女神"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "高学历"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "留学生"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "胁迫"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "开盒"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "939753588070289408",
+              "start": 3,
+              "username": "SeemabK69796504"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996225608469426267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876323105582563630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SeemabK69796504: #上贡 #反差 #倒贴 #自毁 #母猪 #母狗\n#女神 #高学历 #留学生 #胁迫 #开盒\n  某985婊子蛆想玩自毁又玩不起，多次贡假身份证后被祖宗爆耍，结果无脑败北看着别的畜牲心甘情愿吐身份证自己也忍不住把自己卖了，你们这些人前装高…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876323079355502592",
+            "3_1876323080324427777",
+            "3_1876323088864063488",
+            "3_1876323095537135616"
+          ]
+        },
+        "author_id": "939753588070289408",
+        "conversation_id": "1876323105582563630",
+        "created_at": "2025-01-06T17:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T18:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876323105582563630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "上贡"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "反差"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "倒贴"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "自毁"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "母猪"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "母狗"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "女神"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "高学历"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "留学生"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "胁迫"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "开盒"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T0O1rO51mC",
+              "end": 163,
+              "expanded_url": "https://x.com/SeemabK69796504/status/1876323105582563630/photo/1",
+              "media_key": "3_1876323079355502592",
+              "start": 140,
+              "url": "https://t.co/T0O1rO51mC"
+            },
+            {
+              "display_url": "pic.x.com/T0O1rO51mC",
+              "end": 163,
+              "expanded_url": "https://x.com/SeemabK69796504/status/1876323105582563630/photo/1",
+              "media_key": "3_1876323080324427777",
+              "start": 140,
+              "url": "https://t.co/T0O1rO51mC"
+            },
+            {
+              "display_url": "pic.x.com/T0O1rO51mC",
+              "end": 163,
+              "expanded_url": "https://x.com/SeemabK69796504/status/1876323105582563630/photo/1",
+              "media_key": "3_1876323088864063488",
+              "start": 140,
+              "url": "https://t.co/T0O1rO51mC"
+            },
+            {
+              "display_url": "pic.x.com/T0O1rO51mC",
+              "end": 163,
+              "expanded_url": "https://x.com/SeemabK69796504/status/1876323105582563630/photo/1",
+              "media_key": "3_1876323095537135616",
+              "start": 140,
+              "url": "https://t.co/T0O1rO51mC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876323105582563630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10279,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#上贡 #反差 #倒贴 #自毁 #母猪 #母狗\n#女神 #高学历 #留学生 #胁迫 #开盒\n  某985婊子蛆想玩自毁又玩不起，多次贡假身份证后被祖宗爆耍，结果无脑败北看着别的畜牲心甘情愿吐身份证自己也忍不住把自己卖了，你们这些人前装高冷吊龟男的贱货都是这副模样，真是有够好笑的 https://t.co/T0O1rO51mC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 407,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 56
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-10T07:08:09.000Z",
+        "description": "母人思想建立者/qq1455309612\n/母人的价值只在于做男人的奴隶/\n倒贴给我做奴卡学历卡颜值，废物勿扰/\n母的，只是男人脚下卑微的蛆虫，你什么都不是。\nhttps://t.co/SA2ztC1dHy\n小号@drenn660717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "drenn660717"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zedesikao",
+                "end": 103,
+                "expanded_url": "http://t.me/zedesikao",
+                "start": 80,
+                "url": "https://t.co/SA2ztC1dHy"
+              }
+            ]
+          }
+        },
+        "id": "939753588070289408",
+        "name": "泽的思考",
+        "pinned_tweet_id": "1991566486562042362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808582757267951616/i9rbaFhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 104,
+          "like_count": 113,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 416
+        },
+        "username": "SeemabK69796504",
+        "verified": false
+      }
+    ]
+  }
+}

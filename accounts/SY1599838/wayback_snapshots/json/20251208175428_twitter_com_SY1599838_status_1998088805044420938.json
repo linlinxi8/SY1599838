@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1993546528255078400"
+      ],
+      "media_source_tweet_id": [
+        "1993550290914885653"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1998088805044420938",
+    "created_at": "2025-12-08T17:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T18:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998088805044420938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1623903736195338240",
+          "start": 3,
+          "username": "Y672228352"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZwhfK5LBud",
+          "end": 39,
+          "expanded_url": "https://x.com/i/status/1993550290914885653/video/1",
+          "media_key": "7_1993546528255078400",
+          "start": 16,
+          "url": "https://t.co/ZwhfK5LBud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998088805044420938",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998087821844967434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y672228352: https://t.co/ZwhfK5LBud"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998088805044420938].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998088805044420938",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998088805044420938"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 73393,
+        "height": 576,
+        "media_key": "7_1993546528255078400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1993546528255078400/pu/img/2Q8XyiaD7mcuNkKd.jpg",
+        "public_metrics": {
+          "view_count": 44646
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993546528255078400/pu/vid/avc1/480x270/6S3mIXMneeJ_33e1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993546528255078400/pu/vid/avc1/640x360/3TbQ8QzfcIwOytay.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993546528255078400/pu/vid/avc1/1024x576/nhiaFAEh_20j26y5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1993546528255078400/pu/pl/LIvQqAKRaw2gOBtM.m3u8?tag=12"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1993546528255078400"
+          ],
+          "media_source_tweet_id": [
+            "1993550290914885653"
+          ]
+        },
+        "author_id": "1623903736195338240",
+        "conversation_id": "1998087821844967434",
+        "created_at": "2025-12-08T17:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T18:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998087821844967434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZwhfK5LBud",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/1993550290914885653/video/1",
+              "media_key": "7_1993546528255078400",
+              "start": 0,
+              "url": "https://t.co/ZwhfK5LBud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998087821844967434",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZwhfK5LBud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBR7zS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBR7zS"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "南京",
+        "name": "曦主（黑心版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 417,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 38
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-10T04:36:52.000Z",
+        "description": "原号: @sgmc9527 雌堕洗脑白眼精液社死曝光。 无论你人前是什么女神名媛。 背后一定会被撕破女神皮。 被扒光的体无完肤。 自曝信息被胁迫控制。 qq:672228352 v:sgmc9527。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "sgmc9527"
+              }
+            ]
+          }
+        },
+        "id": "1623903736195338240",
+        "location": "021",
+        "name": "清风（复活版)",
+        "pinned_tweet_id": "1766828418673586464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624018901674651648/mAVkndzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 3209,
+          "like_count": 25500,
+          "listed_count": 2,
+          "media_count": 678,
+          "tweet_count": 10186
+        },
+        "username": "Y672228352",
+        "verified": false
+      }
+    ]
+  }
+}

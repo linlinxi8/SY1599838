@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011634325314551808"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2011634500988789005",
+    "created_at": "2026-01-15T03:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T04:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011634500988789005"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "曝光"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CjDQkyA5KH",
+          "end": 38,
+          "expanded_url": "https://x.com/SY1599838/status/2011634500988789005/photo/1",
+          "media_key": "3_2011634325314551808",
+          "start": 15,
+          "url": "https://t.co/CjDQkyA5KH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011634500988789005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来呀～骚逼\n玩死你🖕\n#曝光 https://t.co/CjDQkyA5KH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2011634325314551808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rCwsJbQAAgWNG.jpg",
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011634325314551808"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2011634500988789005",
+        "created_at": "2026-01-15T03:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T04:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011634500988789005"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "曝光"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjDQkyA5KH",
+              "end": 38,
+              "expanded_url": "https://x.com/SY1599838/status/2011634500988789005/photo/1",
+              "media_key": "3_2011634325314551808",
+              "start": 15,
+              "url": "https://t.co/CjDQkyA5KH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011634500988789005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来呀～骚逼\n玩死你🖕\n#曝光 https://t.co/CjDQkyA5KH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 518,
+          "like_count": 290,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 106
+        },
+        "username": "SY1599838",
+        "verified": false
+      }
+    ]
+  }
+}

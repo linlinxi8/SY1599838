@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998605240862662656",
+        "3_1998605240866856960",
+        "3_1998605240829194240"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1998605548263289274",
+    "created_at": "2025-12-10T04:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T05:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998605548263289274"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "母人"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "羞辱"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "洗脑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 114,
+          "id": "1844956237135544320",
+          "start": 107,
+          "username": "zplike"
+        },
+        {
+          "end": 125,
+          "id": "1652591516756615171",
+          "start": 115,
+          "username": "DDDDBBHHH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CFzQofJY4L",
+          "end": 149,
+          "expanded_url": "https://x.com/SY1599838/status/1998605548263289274/photo/1",
+          "media_key": "3_1998605240862662656",
+          "start": 126,
+          "url": "https://t.co/CFzQofJY4L"
+        },
+        {
+          "display_url": "pic.x.com/CFzQofJY4L",
+          "end": 149,
+          "expanded_url": "https://x.com/SY1599838/status/1998605548263289274/photo/1",
+          "media_key": "3_1998605240866856960",
+          "start": 126,
+          "url": "https://t.co/CFzQofJY4L"
+        },
+        {
+          "display_url": "pic.x.com/CFzQofJY4L",
+          "end": 149,
+          "expanded_url": "https://x.com/SY1599838/status/1998605548263289274/photo/1",
+          "media_key": "3_1998605240829194240",
+          "start": 126,
+          "url": "https://t.co/CFzQofJY4L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998605548263289274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被曝光的一瞬间大脑一空白，意识到你的形象即将被毁，本该羞耻，但你的骚屄却会涌出一股暖流\n幻想被同学、闺蜜知道你是个烂婊子的一刹那，只想在一阵阵的辱骂下把你的猪脑从烂逼里喷出去被当成傻逼对待\n#母人 #羞辱 #洗脑\n@zplike @DDDDBBHHH https://t.co/CFzQofJY4L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_1998605240862662656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7x44KPaYAAN73j.jpg",
+        "width": 1440
+      },
+      {
+        "height": 960,
+        "media_key": "3_1998605240866856960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7x44KQaYAAJYVD.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1468,
+        "media_key": "3_1998605240829194240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7x44KHbsAAcUNf.jpg",
+        "width": 1047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998605240862662656",
+            "3_1998605240866856960",
+            "3_1998605240829194240"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "1998605548263289274",
+        "created_at": "2025-12-10T04:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T05:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998605548263289274"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "母人"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "羞辱"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "洗脑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 114,
+              "id": "1844956237135544320",
+              "start": 107,
+              "username": "zplike"
+            },
+            {
+              "end": 125,
+              "id": "1652591516756615171",
+              "start": 115,
+              "username": "DDDDBBHHH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFzQofJY4L",
+              "end": 149,
+              "expanded_url": "https://x.com/SY1599838/status/1998605548263289274/photo/1",
+              "media_key": "3_1998605240862662656",
+              "start": 126,
+              "url": "https://t.co/CFzQofJY4L"
+            },
+            {
+              "display_url": "pic.x.com/CFzQofJY4L",
+              "end": 149,
+              "expanded_url": "https://x.com/SY1599838/status/1998605548263289274/photo/1",
+              "media_key": "3_1998605240866856960",
+              "start": 126,
+              "url": "https://t.co/CFzQofJY4L"
+            },
+            {
+              "display_url": "pic.x.com/CFzQofJY4L",
+              "end": 149,
+              "expanded_url": "https://x.com/SY1599838/status/1998605548263289274/photo/1",
+              "media_key": "3_1998605240829194240",
+              "start": 126,
+              "url": "https://t.co/CFzQofJY4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998605548263289274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被曝光的一瞬间大脑一空白，意识到你的形象即将被毁，本该羞耻，但你的骚屄却会涌出一股暖流\n幻想被同学、闺蜜知道你是个烂婊子的一刹那，只想在一阵阵的辱骂下把你的猪脑从烂逼里喷出去被当成傻逼对待\n#母人 #羞辱 #洗脑\n@zplike @DDDDBBHHH https://t.co/CFzQofJY4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 407,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 40
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:   @jiaofu716428191     \n小号艾特➕关注帮转帖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 2,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 468
+        },
+        "username": "zplike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T08:31:44.000Z",
+        "description": "免费转推@DDDDBBHHH 直接@就可以。   每日大赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "DDDDBBHHH"
+              }
+            ]
+          }
+        },
+        "id": "1652591516756615171",
+        "name": "每日大赛（@帮转）",
+        "pinned_tweet_id": "1898995609756897717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652592430699651073/HYzCDgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3593,
+          "following_count": 130,
+          "like_count": 2773,
+          "listed_count": 7,
+          "media_count": 5,
+          "tweet_count": 3917
+        },
+        "username": "DDDDBBHHH",
+        "verified": false
+      }
+    ]
+  }
+}

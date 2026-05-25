@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014438798688485377",
+        "3_2014438798701010944",
+        "3_2014438798709407744",
+        "3_2014438730782699520"
+      ],
+      "media_source_tweet_id": [
+        "2014438813372649577",
+        "2014438813372649577",
+        "2014438813372649577",
+        "2014438813372649577"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2014438925746458920",
+    "created_at": "2026-01-22T20:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T21:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014438925746458920"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "反差"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "背德"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "绿帽分享"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "羞辱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736574795125563392",
+          "start": 3,
+          "username": "SY1599838"
+        },
+        {
+          "end": 26,
+          "id": "1570677871118778369",
+          "start": 15,
+          "username": "cindy10_25"
+        },
+        {
+          "end": 77,
+          "id": "1844956237135544320",
+          "start": 70,
+          "username": "zplike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RabZNhLK3z",
+          "end": 121,
+          "expanded_url": "https://x.com/SY1599838/status/2014438813372649577/photo/1",
+          "media_key": "3_2014438798688485377",
+          "start": 98,
+          "url": "https://t.co/RabZNhLK3z"
+        },
+        {
+          "display_url": "pic.x.com/RabZNhLK3z",
+          "end": 121,
+          "expanded_url": "https://x.com/SY1599838/status/2014438813372649577/photo/1",
+          "media_key": "3_2014438798701010944",
+          "start": 98,
+          "url": "https://t.co/RabZNhLK3z"
+        },
+        {
+          "display_url": "pic.x.com/RabZNhLK3z",
+          "end": 121,
+          "expanded_url": "https://x.com/SY1599838/status/2014438813372649577/photo/1",
+          "media_key": "3_2014438798709407744",
+          "start": 98,
+          "url": "https://t.co/RabZNhLK3z"
+        },
+        {
+          "display_url": "pic.x.com/RabZNhLK3z",
+          "end": 121,
+          "expanded_url": "https://x.com/SY1599838/status/2014438813372649577/photo/1",
+          "media_key": "3_2014438730782699520",
+          "start": 98,
+          "url": "https://t.co/RabZNhLK3z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014438925746458920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014438813372649577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SY1599838: @cindy10_25\n \n发骚被男友发现之后彻底犯贱臣服作为骚逼奴在屌下犯贱🖤\n持续在评论区更新调教记录～\n@zplike\n \n#反差 #背德 #绿帽分享 #羞辱 https://t.co/RabZNhLK3z"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014438925746458920].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014438925746458920",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014438925746458920"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [cindy10_25].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "cindy10_25",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "cindy10_25"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_2014438798688485377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_S5ahmXgAE5KBq.jpg",
+        "width": 954
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2014438798701010944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_S5ahpWoAApv3K.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2014438798709407744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_S5ahrWwAAby6d.jpg",
+        "width": 843
+      },
+      {
+        "height": 867,
+        "media_key": "3_2014438730782699520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_S5WkoXcAA8IqF.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014438798688485377",
+            "3_2014438798701010944",
+            "3_2014438798709407744",
+            "3_2014438730782699520"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2014438813372649577",
+        "created_at": "2026-01-22T20:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T21:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014438813372649577"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "反差"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "背德"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "绿帽分享"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "羞辱"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1570677871118778369",
+              "start": 0,
+              "username": "cindy10_25"
+            },
+            {
+              "end": 62,
+              "id": "1844956237135544320",
+              "start": 55,
+              "username": "zplike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RabZNhLK3z",
+              "end": 106,
+              "expanded_url": "https://x.com/SY1599838/status/2014438813372649577/photo/1",
+              "media_key": "3_2014438798688485377",
+              "start": 83,
+              "url": "https://t.co/RabZNhLK3z"
+            },
+            {
+              "display_url": "pic.x.com/RabZNhLK3z",
+              "end": 106,
+              "expanded_url": "https://x.com/SY1599838/status/2014438813372649577/photo/1",
+              "media_key": "3_2014438798701010944",
+              "start": 83,
+              "url": "https://t.co/RabZNhLK3z"
+            },
+            {
+              "display_url": "pic.x.com/RabZNhLK3z",
+              "end": 106,
+              "expanded_url": "https://x.com/SY1599838/status/2014438813372649577/photo/1",
+              "media_key": "3_2014438798709407744",
+              "start": 83,
+              "url": "https://t.co/RabZNhLK3z"
+            },
+            {
+              "display_url": "pic.x.com/RabZNhLK3z",
+              "end": 106,
+              "expanded_url": "https://x.com/SY1599838/status/2014438813372649577/photo/1",
+              "media_key": "3_2014438730782699520",
+              "start": 83,
+              "url": "https://t.co/RabZNhLK3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014438813372649577",
+        "in_reply_to_user_id": "1570677871118778369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@cindy10_25\n \n发骚被男友发现之后彻底犯贱臣服作为骚逼奴在屌下犯贱🖤\n持续在评论区更新调教记录～\n@zplike\n \n#反差 #背德 #绿帽分享 #羞辱 https://t.co/RabZNhLK3z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 544,
+          "like_count": 313,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 122
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:    @jiaofu716428191     v:wsdbtxx\n Q:867768161",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 3,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 560
+        },
+        "username": "zplike",
+        "verified": false
+      }
+    ]
+  }
+}

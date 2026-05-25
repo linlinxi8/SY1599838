@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007278791765401600",
+        "3_2007278791782199296"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2007279199934157251",
+    "created_at": "2026-01-03T02:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T03:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007279199934157251"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 85,
+          "tag": "母狗女高"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "母狗"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "母猪"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "女德"
+        },
+        {
+          "end": 110,
+          "start": 105,
+          "tag": "男尊女卑"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "肉便器"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "反差"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "自毁"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "洗脑"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "倒贴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 143,
+          "id": "1652591516756615171",
+          "start": 133,
+          "username": "DDDDBBHHH"
+        },
+        {
+          "end": 157,
+          "id": "1427499053227466756",
+          "start": 145,
+          "username": "wqganenshi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xDIN9hRnow",
+          "end": 181,
+          "expanded_url": "https://x.com/SY1599838/status/2007279199934157251/photo/1",
+          "media_key": "3_2007278791765401600",
+          "start": 158,
+          "url": "https://t.co/xDIN9hRnow"
+        },
+        {
+          "display_url": "pic.x.com/xDIN9hRnow",
+          "end": 181,
+          "expanded_url": "https://x.com/SY1599838/status/2007279199934157251/photo/1",
+          "media_key": "3_2007278791782199296",
+          "start": 158,
+          "url": "https://t.co/xDIN9hRnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007279199934157251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白天高冷的名媛，晚上就变成无脑的丧志母猪脱宫喷卵，天生下贱废物的烂逼酸臭母蛆马桶，欠骂欠打喜欢接屎的马桶爬过来挨骂，主动倒贴丧志拱逼排卵上供！让祖宗踩在脚下变成一坨烂肉\n#母狗女高  #母狗 #母猪  #女德 #男尊女卑 #肉便器 #反差 #自毁 #洗脑 #倒贴 \n@DDDDBBHHH \n@wqganenshi_ https://t.co/xDIN9hRnow"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2007278791765401600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tJbRRaIAAKXNd.jpg",
+        "width": 960
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2007278791782199296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tJbRVacAAo0kL.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007278791765401600",
+            "3_2007278791782199296"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2007279199934157251",
+        "created_at": "2026-01-03T02:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T03:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007279199934157251"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "母狗女高"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "母狗"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "母猪"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "女德"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "肉便器"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "反差"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "自毁"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "洗脑"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "倒贴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 143,
+              "id": "1652591516756615171",
+              "start": 133,
+              "username": "DDDDBBHHH"
+            },
+            {
+              "end": 157,
+              "id": "1427499053227466756",
+              "start": 145,
+              "username": "wqganenshi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xDIN9hRnow",
+              "end": 181,
+              "expanded_url": "https://x.com/SY1599838/status/2007279199934157251/photo/1",
+              "media_key": "3_2007278791765401600",
+              "start": 158,
+              "url": "https://t.co/xDIN9hRnow"
+            },
+            {
+              "display_url": "pic.x.com/xDIN9hRnow",
+              "end": 181,
+              "expanded_url": "https://x.com/SY1599838/status/2007279199934157251/photo/1",
+              "media_key": "3_2007278791782199296",
+              "start": 158,
+              "url": "https://t.co/xDIN9hRnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007279199934157251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白天高冷的名媛，晚上就变成无脑的丧志母猪脱宫喷卵，天生下贱废物的烂逼酸臭母蛆马桶，欠骂欠打喜欢接屎的马桶爬过来挨骂，主动倒贴丧志拱逼排卵上供！让祖宗踩在脚下变成一坨烂肉\n#母狗女高  #母狗 #母猪  #女德 #男尊女卑 #肉便器 #反差 #自毁 #洗脑 #倒贴 \n@DDDDBBHHH \n@wqganenshi_ https://t.co/xDIN9hRnow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 420,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 76
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T08:31:44.000Z",
+        "description": "免费转推@DDDDBBHHH 直接@就可以。   每日大赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "DDDDBBHHH"
+              }
+            ]
+          }
+        },
+        "id": "1652591516756615171",
+        "name": "每日大赛（@帮转）",
+        "pinned_tweet_id": "1898995609756897717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652592430699651073/HYzCDgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3720,
+          "following_count": 128,
+          "like_count": 2924,
+          "listed_count": 10,
+          "media_count": 5,
+          "tweet_count": 4124
+        },
+        "username": "DDDDBBHHH",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T05:14:45.000Z",
+        "description": "接投稿！！！投稿同时@wqganenshi_和@liaoyiansheng中文翻译：wq感恩石_|#超1天没转私我｜🌏老牌靠谱线下c圈约妹@jinchencos86｜🔥五年C圈信誉中介@huahuocosq｜ 💎玩外围怕踩坑？找金教授 @jjshou007 ｜💥简介招商",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "超1天没转私我"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "wqganenshi_"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "liaoyiansheng"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "jinchencos86"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "huahuocosq"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "jjshou007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_S-sTNs_LyIwN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_S-sTNs_LyIwN2E1",
+                "start": 0,
+                "url": "https://t.co/0u3WNRRNWV"
+              }
+            ]
+          }
+        },
+        "id": "1427499053227466756",
+        "location": "有稿投💨💦小群👇",
+        "name": "有稿投😁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1482978871964225537/zQoKqgXc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 300954,
+          "following_count": 172,
+          "like_count": 55144,
+          "listed_count": 421,
+          "media_count": 0,
+          "tweet_count": 51235
+        },
+        "url": "https://t.co/0u3WNRRNWV",
+        "username": "wqganenshi_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

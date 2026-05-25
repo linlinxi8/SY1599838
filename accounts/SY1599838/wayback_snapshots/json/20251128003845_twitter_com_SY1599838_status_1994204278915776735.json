@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1994062074834776064"
+      ],
+      "media_source_tweet_id": [
+        "1994062237133361590"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1994204278915776735",
+    "created_at": "2025-11-28T00:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T01:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994204278915776735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845274815424495619",
+          "start": 3,
+          "username": "eva991009"
+        },
+        {
+          "end": 22,
+          "id": "18458734",
+          "start": 15,
+          "username": "yinp50"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j9pLGiybFv",
+          "end": 52,
+          "expanded_url": "https://x.com/eva991009/status/1994062237133361590/video/1",
+          "media_key": "13_1994062074834776064",
+          "start": 29,
+          "url": "https://t.co/j9pLGiybFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994204278915776735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994062237133361590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eva991009: @yinp50 蕾丝吊带袜 https://t.co/j9pLGiybFv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994204278915776735].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994204278915776735",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994204278915776735"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51893,
+        "height": 1280,
+        "media_key": "13_1994062074834776064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994062074834776064/img/E58FwNDAO0r9X-iX.jpg",
+        "public_metrics": {
+          "view_count": 3776
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994062074834776064/vid/avc1/320x568/Nl52pifpUsYJ1GKQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994062074834776064/vid/avc1/480x852/qthHJeA8ZK3Z4igi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994062074834776064/vid/avc1/720x1280/RdgMlUkVrBdHt5zl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994062074834776064/pl/vHI-RwRE4xM5CMrQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994062074834776064"
+          ]
+        },
+        "author_id": "1845274815424495619",
+        "conversation_id": "1994061068780621875",
+        "created_at": "2025-11-27T15:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994062237133361590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "18458734",
+              "start": 0,
+              "username": "yinp50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j9pLGiybFv",
+              "end": 37,
+              "expanded_url": "https://x.com/eva991009/status/1994062237133361590/video/1",
+              "media_key": "13_1994062074834776064",
+              "start": 14,
+              "url": "https://t.co/j9pLGiybFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994062237133361590",
+        "in_reply_to_user_id": "18458734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 11427,
+          "like_count": 419,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994061068780621875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinp50 蕾丝吊带袜 https://t.co/j9pLGiybFv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 387,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T01:26:27.000Z",
+        "description": "TG基础群99r解锁更多福利，566r长视频永久更新| 接受露脸定制50一分钟，不露脸定制不用入门40一分钟（三分钟起定）不入门露脸定制80米一分钟，5分钟起定，电报自助入群：https://t.co/v6nYzdvNaW,唯一小号@eva991019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 116,
+                "username": "eva991019"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/kikyou777_bot",
+                "end": 111,
+                "expanded_url": "https://t.me/kikyou777_bot",
+                "start": 88,
+                "url": "https://t.co/v6nYzdvNaW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mshow.co/zh-CN/@eva9910…",
+                "end": 23,
+                "expanded_url": "https://mshow.co/zh-CN/@eva991009",
+                "start": 0,
+                "url": "https://t.co/5IQvKYjC7T"
+              }
+            ]
+          }
+        },
+        "id": "1845274815424495619",
+        "name": "桔梗",
+        "pinned_tweet_id": "1993503466833215518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926020578965663744/0U_cj12L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283839,
+          "following_count": 359,
+          "like_count": 109,
+          "listed_count": 741,
+          "media_count": 2056,
+          "tweet_count": 2930
+        },
+        "url": "https://t.co/5IQvKYjC7T",
+        "username": "eva991009",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-29T20:29:34.000Z",
+        "description": "全网高质量cos外围找糯糯 @nuonuocosww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "nuonuocosww"
+              }
+            ]
+          }
+        },
+        "id": "18458734",
+        "location": "广告位招租",
+        "name": "熊二",
+        "pinned_tweet_id": "1992208154768355688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916484723137826816/hXcr8sE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140232,
+          "following_count": 451,
+          "like_count": 158,
+          "listed_count": 139,
+          "media_count": 573,
+          "tweet_count": 2981
+        },
+        "username": "yinp50",
+        "verified": true
+      }
+    ]
+  }
+}

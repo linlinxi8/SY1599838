@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002732665490059264"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2002660206241841572",
+    "created_at": "2025-12-21T13:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T14:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002732687069700325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r0aNbU6vTs",
+          "end": 23,
+          "expanded_url": "https://x.com/SY1599838/status/2002732687069700325/photo/1",
+          "media_key": "3_2002732665490059264",
+          "start": 0,
+          "url": "https://t.co/r0aNbU6vTs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002732687069700325",
+    "in_reply_to_user_id": "1736574795125563392",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002660206241841572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/r0aNbU6vTs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_2002732665490059264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8siv5KbMAApfCl.jpg",
+        "width": 1185
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2002660192895578112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rg1btbMAAoAy4.jpg",
+        "width": 809
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2002660192874536960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rg1boaIAAb31m.jpg",
+        "width": 553
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2002660192874586112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rg1boa4AAQnd_.jpg",
+        "width": 553
+      },
+      {
+        "height": 1109,
+        "media_key": "3_2002660174360948736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rg0WqbMAAII8k.png",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002732665490059264"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2002660206241841572",
+        "created_at": "2025-12-21T13:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002732687069700325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0aNbU6vTs",
+              "end": 23,
+              "expanded_url": "https://x.com/SY1599838/status/2002732687069700325/photo/1",
+              "media_key": "3_2002732665490059264",
+              "start": 0,
+              "url": "https://t.co/r0aNbU6vTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002732687069700325",
+        "in_reply_to_user_id": "1736574795125563392",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002660206241841572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/r0aNbU6vTs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002660192895578112",
+            "3_2002660192874536960",
+            "3_2002660192874586112",
+            "3_2002660174360948736"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2002660206241841572",
+        "created_at": "2025-12-21T08:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T09:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002660206241841572"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "羞辱洗脑"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "胁迫控制"
+            },
+            {
+              "end": 74,
+              "start": 68,
+              "tag": "母猪肉便器"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 83,
+              "id": "1844956237135544320",
+              "start": 76,
+              "username": "zplike"
+            },
+            {
+              "end": 95,
+              "id": "1652591516756615171",
+              "start": 85,
+              "username": "DDDDBBHHH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeKS0SvztH",
+              "end": 119,
+              "expanded_url": "https://x.com/SY1599838/status/2002660206241841572/photo/1",
+              "media_key": "3_2002660192895578112",
+              "start": 96,
+              "url": "https://t.co/YeKS0SvztH"
+            },
+            {
+              "display_url": "pic.x.com/YeKS0SvztH",
+              "end": 119,
+              "expanded_url": "https://x.com/SY1599838/status/2002660206241841572/photo/1",
+              "media_key": "3_2002660192874536960",
+              "start": 96,
+              "url": "https://t.co/YeKS0SvztH"
+            },
+            {
+              "display_url": "pic.x.com/YeKS0SvztH",
+              "end": 119,
+              "expanded_url": "https://x.com/SY1599838/status/2002660206241841572/photo/1",
+              "media_key": "3_2002660192874586112",
+              "start": 96,
+              "url": "https://t.co/YeKS0SvztH"
+            },
+            {
+              "display_url": "pic.x.com/YeKS0SvztH",
+              "end": 119,
+              "expanded_url": "https://x.com/SY1599838/status/2002660206241841572/photo/1",
+              "media_key": "3_2002660174360948736",
+              "start": 96,
+              "url": "https://t.co/YeKS0SvztH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002660206241841572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "捕获高贵“女神”，实际上是扣逼犯贱的母猪鸡巴套子呢\n无论多么高贵的女生，随便调弄几句都成了胯下母狗\n#男尊女卑 #羞辱洗脑 #胁迫控制 #母猪肉便器 \n@zplike  @DDDDBBHHH https://t.co/YeKS0SvztH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 399,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 59
+        },
+        "username": "SY1599838",
+        "verified": false
+      }
+    ]
+  }
+}

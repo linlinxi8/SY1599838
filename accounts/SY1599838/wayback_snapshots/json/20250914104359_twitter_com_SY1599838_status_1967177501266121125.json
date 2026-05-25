@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1965801785391800320"
+      ],
+      "media_source_tweet_id": [
+        "1965801941688287725"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1967177501266121125",
+    "created_at": "2025-09-14T10:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T11:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967177501266121125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684213812109484039",
+          "start": 3,
+          "username": "bb13146666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7BkzLbCmMt",
+          "end": 58,
+          "expanded_url": "https://x.com/bb13146666/status/1965801941688287725/video/1",
+          "media_key": "7_1965801785391800320",
+          "start": 35,
+          "url": "https://t.co/7BkzLbCmMt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967177501266121125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965801941688287725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bb13146666: 女神的口水都甩出来了 还不张嘴接好？ https://t.co/7BkzLbCmMt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967177501266121125].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967177501266121125",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967177501266121125"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14790,
+        "height": 1088,
+        "media_key": "7_1965801785391800320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1965801785391800320/pu/img/0a5QNNZHqEBAa-XQ.jpg",
+        "public_metrics": {
+          "view_count": 7330
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965801785391800320/pu/vid/avc1/320x592/G-RZDVNxTcECzIxO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965801785391800320/pu/vid/avc1/480x888/lu597vQlktZRxoJm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965801785391800320/pu/vid/avc1/588x1088/3sIq7TeVSNfK-h-T.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1965801785391800320/pu/pl/9SmNxhZkI2LfJR3k.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1965801785391800320"
+          ]
+        },
+        "author_id": "1684213812109484039",
+        "conversation_id": "1965801941688287725",
+        "created_at": "2025-09-10T15:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T16:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965801941688287725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7BkzLbCmMt",
+              "end": 42,
+              "expanded_url": "https://x.com/bb13146666/status/1965801941688287725/video/1",
+              "media_key": "7_1965801785391800320",
+              "start": 19,
+              "url": "https://t.co/7BkzLbCmMt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965801941688287725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 22595,
+          "like_count": 388,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "女神的口水都甩出来了 还不张嘴接好？ https://t.co/7BkzLbCmMt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875692524096122881/jStRE-Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 252,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T14:47:25.000Z",
+        "description": "喜欢精神小妹 看见她们就控制不住自己 欢迎投稿 交流 日常更新精神小妹片段   \n                                                  进群交流：3863610954（有门槛）",
+        "id": "1684213812109484039",
+        "location": "距离你1.1km",
+        "name": "精神小妹都是我亲妈",
+        "pinned_tweet_id": "1695512874897276950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703090138421817344/jdCPNycA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14342,
+          "following_count": 16,
+          "like_count": 773,
+          "listed_count": 43,
+          "media_count": 364,
+          "tweet_count": 928
+        },
+        "username": "bb13146666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016448602906763264",
+        "3_2016448602919317504",
+        "3_2016448602906763265"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2016448612926988420",
+    "created_at": "2026-01-28T09:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T10:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016448612926988420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "m.tb.cn/h.7Nimfv6?tk=7…",
+          "end": 29,
+          "expanded_url": "https://m.tb.cn/h.7Nimfv6?tk=7r4AU44ySy1",
+          "start": 6,
+          "status": 200,
+          "unwound_url": "https://m.tb.cn/h.7Nimfv6?tk=7r4AU44ySy1",
+          "url": "https://t.co/KOeHQYDDbg"
+        },
+        {
+          "display_url": "pic.x.com/taSr9Q0B5M",
+          "end": 92,
+          "expanded_url": "https://x.com/SY1599838/status/2016448612926988420/photo/1",
+          "media_key": "3_2016448602906763264",
+          "start": 69,
+          "url": "https://t.co/taSr9Q0B5M"
+        },
+        {
+          "display_url": "pic.x.com/taSr9Q0B5M",
+          "end": 92,
+          "expanded_url": "https://x.com/SY1599838/status/2016448612926988420/photo/1",
+          "media_key": "3_2016448602919317504",
+          "start": 69,
+          "url": "https://t.co/taSr9Q0B5M"
+        },
+        {
+          "display_url": "pic.x.com/taSr9Q0B5M",
+          "end": 92,
+          "expanded_url": "https://x.com/SY1599838/status/2016448612926988420/photo/1",
+          "media_key": "3_2016448602906763265",
+          "start": 69,
+          "url": "https://t.co/taSr9Q0B5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016448612926988420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【手机天喵】https://t.co/KOeHQYDDbg HU591 「康佳私处剃毛器电动女士专用刮毛刀男女生私密腋毛脱毛刀家用神器」 https://t.co/taSr9Q0B5M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2016448602906763264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vdUhwXIAAGRLL.jpg",
+        "width": 591
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2016448602919317504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vdUhzWsAAKXXO.jpg",
+        "width": 591
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2016448602906763265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vdUhwXIAEbhRR.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016448602906763264",
+            "3_2016448602919317504",
+            "3_2016448602906763265"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2016448612926988420",
+        "created_at": "2026-01-28T09:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T10:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016448612926988420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "m.tb.cn/h.7Nimfv6?tk=7…",
+              "end": 29,
+              "expanded_url": "https://m.tb.cn/h.7Nimfv6?tk=7r4AU44ySy1",
+              "start": 6,
+              "status": 200,
+              "unwound_url": "https://m.tb.cn/h.7Nimfv6?tk=7r4AU44ySy1",
+              "url": "https://t.co/KOeHQYDDbg"
+            },
+            {
+              "display_url": "pic.x.com/taSr9Q0B5M",
+              "end": 92,
+              "expanded_url": "https://x.com/SY1599838/status/2016448612926988420/photo/1",
+              "media_key": "3_2016448602906763264",
+              "start": 69,
+              "url": "https://t.co/taSr9Q0B5M"
+            },
+            {
+              "display_url": "pic.x.com/taSr9Q0B5M",
+              "end": 92,
+              "expanded_url": "https://x.com/SY1599838/status/2016448612926988420/photo/1",
+              "media_key": "3_2016448602919317504",
+              "start": 69,
+              "url": "https://t.co/taSr9Q0B5M"
+            },
+            {
+              "display_url": "pic.x.com/taSr9Q0B5M",
+              "end": 92,
+              "expanded_url": "https://x.com/SY1599838/status/2016448612926988420/photo/1",
+              "media_key": "3_2016448602906763265",
+              "start": 69,
+              "url": "https://t.co/taSr9Q0B5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016448612926988420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【手机天喵】https://t.co/KOeHQYDDbg HU591 「康佳私处剃毛器电动女士专用刮毛刀男女生私密腋毛脱毛刀家用神器」 https://t.co/taSr9Q0B5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "2016413766615732443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 555,
+          "like_count": 320,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 125
+        },
+        "username": "SY1599838",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000774355207512101",
+        "3_2000774353492041731",
+        "3_2000774355211706395",
+        "3_2000774353521430528"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000774700247736585",
+    "created_at": "2025-12-16T03:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T04:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000774700247736585"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "女大学生"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "母狗"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "曝光"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "羞辱洗脑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 54,
+          "id": "1844956237135544320",
+          "start": 47,
+          "username": "zplike"
+        },
+        {
+          "end": 66,
+          "id": "1652591516756615171",
+          "start": 56,
+          "username": "DDDDBBHHH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xa2XEvmKDn",
+          "end": 90,
+          "expanded_url": "https://x.com/SY1599838/status/2000774700247736585/photo/1",
+          "media_key": "3_2000774355207512101",
+          "start": 67,
+          "url": "https://t.co/xa2XEvmKDn"
+        },
+        {
+          "display_url": "pic.x.com/xa2XEvmKDn",
+          "end": 90,
+          "expanded_url": "https://x.com/SY1599838/status/2000774700247736585/photo/1",
+          "media_key": "3_2000774353492041731",
+          "start": 67,
+          "url": "https://t.co/xa2XEvmKDn"
+        },
+        {
+          "display_url": "pic.x.com/xa2XEvmKDn",
+          "end": 90,
+          "expanded_url": "https://x.com/SY1599838/status/2000774700247736585/photo/1",
+          "media_key": "3_2000774355211706395",
+          "start": 67,
+          "url": "https://t.co/xa2XEvmKDn"
+        },
+        {
+          "display_url": "pic.x.com/xa2XEvmKDn",
+          "end": 90,
+          "expanded_url": "https://x.com/SY1599838/status/2000774700247736585/photo/1",
+          "media_key": "3_2000774353521430528",
+          "start": 67,
+          "url": "https://t.co/xa2XEvmKDn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000774700247736585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大三女大穴牲\n背着男朋友当祖宗几把套子的贱逼母猪\n#女大学生  #母狗 #曝光 #羞辱洗脑 \n@zplike  @DDDDBBHHH https://t.co/xa2XEvmKDn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000774355207512101",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8QtrO3a4CUWQu_.jpg",
+        "width": 1060
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2000774353492041731",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8QtrIea4AMViYo.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000774355211706395",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8QtrO4a4BsniZk.jpg",
+        "width": 943
+      },
+      {
+        "height": 2033,
+        "media_key": "3_2000774353521430528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8QtrIlbUAACnzf.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000774355207512101",
+            "3_2000774353492041731",
+            "3_2000774355211706395",
+            "3_2000774353521430528"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000774700247736585",
+        "created_at": "2025-12-16T03:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T04:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000774700247736585"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "女大学生"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "母狗"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "曝光"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "羞辱洗脑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 54,
+              "id": "1844956237135544320",
+              "start": 47,
+              "username": "zplike"
+            },
+            {
+              "end": 66,
+              "id": "1652591516756615171",
+              "start": 56,
+              "username": "DDDDBBHHH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xa2XEvmKDn",
+              "end": 90,
+              "expanded_url": "https://x.com/SY1599838/status/2000774700247736585/photo/1",
+              "media_key": "3_2000774355207512101",
+              "start": 67,
+              "url": "https://t.co/xa2XEvmKDn"
+            },
+            {
+              "display_url": "pic.x.com/xa2XEvmKDn",
+              "end": 90,
+              "expanded_url": "https://x.com/SY1599838/status/2000774700247736585/photo/1",
+              "media_key": "3_2000774353492041731",
+              "start": 67,
+              "url": "https://t.co/xa2XEvmKDn"
+            },
+            {
+              "display_url": "pic.x.com/xa2XEvmKDn",
+              "end": 90,
+              "expanded_url": "https://x.com/SY1599838/status/2000774700247736585/photo/1",
+              "media_key": "3_2000774355211706395",
+              "start": 67,
+              "url": "https://t.co/xa2XEvmKDn"
+            },
+            {
+              "display_url": "pic.x.com/xa2XEvmKDn",
+              "end": 90,
+              "expanded_url": "https://x.com/SY1599838/status/2000774700247736585/photo/1",
+              "media_key": "3_2000774353521430528",
+              "start": 67,
+              "url": "https://t.co/xa2XEvmKDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000774700247736585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大三女大穴牲\n背着男朋友当祖宗几把套子的贱逼母猪\n#女大学生  #母狗 #曝光 #羞辱洗脑 \n@zplike  @DDDDBBHHH https://t.co/xa2XEvmKDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 99,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 76,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 398,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 49
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:   @jiaofu716428191     \n小号艾特➕关注帮转帖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 2,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 475
+        },
+        "username": "zplike",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T08:31:44.000Z",
+        "description": "免费转推@DDDDBBHHH 直接@就可以。   每日大赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "DDDDBBHHH"
+              }
+            ]
+          }
+        },
+        "id": "1652591516756615171",
+        "name": "每日大赛（@帮转）",
+        "pinned_tweet_id": "1898995609756897717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652592430699651073/HYzCDgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3601,
+          "following_count": 130,
+          "like_count": 2826,
+          "listed_count": 7,
+          "media_count": 5,
+          "tweet_count": 3977
+        },
+        "username": "DDDDBBHHH",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2006319715984277718",
+    "created_at": "2025-12-31T11:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T12:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006319715984277718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1948041021377650688",
+          "start": 3,
+          "username": "eHJwKIPGF758940"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006319715984277718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997544049281290489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eHJwKIPGF758940: 突然发现自己的女王闺蜜动不动就发呆，还有时会偷偷的翻着白眼傻笑。得知她最近经常出没一家心理诊所，你便悄悄跟了上去……\n你再次醒来面前只有一个不断旋转的漩涡，耳边传来你闺蜜温柔恍惚的声音\n“是…服从…我是婊子女王…一个对鸡巴翻白眼的鸡巴奴…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006319715984277718].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006319715984277718",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006319715984277718"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997544044650700800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7izuaSaIAAujYn.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997544045623808000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7izud6akAAkxCK.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997544045514735617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7izudgaQAE_1nw.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997544045422526464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7izudKbQAAcM0K.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997544044650700800",
+            "3_1997544045623808000",
+            "3_1997544045514735617",
+            "3_1997544045422526464"
+          ]
+        },
+        "author_id": "1948041021377650688",
+        "conversation_id": "1997544049281290489",
+        "created_at": "2025-12-07T05:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T06:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997544049281290489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xqCWYJ6xAi",
+              "end": 166,
+              "expanded_url": "https://x.com/eHJwKIPGF758940/status/1997544049281290489/photo/1",
+              "media_key": "3_1997544044650700800",
+              "start": 143,
+              "url": "https://t.co/xqCWYJ6xAi"
+            },
+            {
+              "display_url": "pic.x.com/xqCWYJ6xAi",
+              "end": 166,
+              "expanded_url": "https://x.com/eHJwKIPGF758940/status/1997544049281290489/photo/1",
+              "media_key": "3_1997544045623808000",
+              "start": 143,
+              "url": "https://t.co/xqCWYJ6xAi"
+            },
+            {
+              "display_url": "pic.x.com/xqCWYJ6xAi",
+              "end": 166,
+              "expanded_url": "https://x.com/eHJwKIPGF758940/status/1997544049281290489/photo/1",
+              "media_key": "3_1997544045514735617",
+              "start": 143,
+              "url": "https://t.co/xqCWYJ6xAi"
+            },
+            {
+              "display_url": "pic.x.com/xqCWYJ6xAi",
+              "end": 166,
+              "expanded_url": "https://x.com/eHJwKIPGF758940/status/1997544049281290489/photo/1",
+              "media_key": "3_1997544045422526464",
+              "start": 143,
+              "url": "https://t.co/xqCWYJ6xAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997544049281290489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 886,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现自己的女王闺蜜动不动就发呆，还有时会偷偷的翻着白眼傻笑。得知她最近经常出没一家心理诊所，你便悄悄跟了上去……\n你再次醒来面前只有一个不断旋转的漩涡，耳边传来你闺蜜温柔恍惚的声音\n“是…服从…我是婊子女王…一个对鸡巴翻白眼的鸡巴奴隶”\n你感谢着看着闺蜜\n和她共同服侍着主人的鸡巴 https://t.co/xqCWYJ6xAi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 424,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 74
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T15:22:43.000Z",
+        "description": "想要被洗脑自己加 sdfghjklqtyuio需发语音验证",
+        "id": "1948041021377650688",
+        "name": "洗脑催眠师",
+        "pinned_tweet_id": "1977485850352181388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959007651289079808/QEk34l0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 22,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 39
+        },
+        "username": "eHJwKIPGF758940",
+        "verified": false
+      }
+    ]
+  }
+}

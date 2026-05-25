@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1970430090837401600"
+      ],
+      "media_source_tweet_id": [
+        "1972552566648054154"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1983363818274336919",
+    "created_at": "2025-10-29T02:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T03:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983363818274336919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969632397676388353",
+          "start": 3,
+          "username": "LBoone8257"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Uj84OmO8x",
+          "end": 39,
+          "expanded_url": "https://x.com/CCroftoonix/status/1972552566648054154/video/33",
+          "media_key": "13_1970430090837401600",
+          "start": 16,
+          "url": "https://t.co/2Uj84OmO8x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983363818274336919",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 309
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982857829242503354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LBoone8257: https://t.co/2Uj84OmO8x"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983363818274336919].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983363818274336919",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983363818274336919"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7183813,
+        "height": 720,
+        "media_key": "13_1970430090837401600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970430090837401600/img/rv8V3TVx3kbopimi.jpg",
+        "public_metrics": {
+          "view_count": 5533285
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970430090837401600/vid/avc1/480x270/oD0MNjO-b7iZtE6D.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970430090837401600/vid/avc1/640x360/ricMV3JchhSb0tV2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970430090837401600/vid/avc1/1280x720/4H5FwflGGw8tFrFj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970430090837401600/pl/QZqgSSLGnS8QOp26.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970430090837401600"
+          ],
+          "media_source_tweet_id": [
+            "1972552566648054154"
+          ]
+        },
+        "author_id": "1969632397676388353",
+        "conversation_id": "1982857829242503354",
+        "created_at": "2025-10-27T17:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T18:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982857829242503354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Uj84OmO8x",
+              "end": 23,
+              "expanded_url": "https://x.com/CCroftoonix/status/1972552566648054154/video/33",
+              "media_key": "13_1970430090837401600",
+              "start": 0,
+              "url": "https://t.co/2Uj84OmO8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982857829242503354",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2625,
+          "impression_count": 47289,
+          "like_count": 3284,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 309
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2Uj84OmO8x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 356,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T05:19:00.000Z",
+        "description": "",
+        "id": "1969632397676388353",
+        "name": "Lanell Boone",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 19,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "LBoone8257",
+        "verified": false
+      }
+    ]
+  }
+}

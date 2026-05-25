@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1990804703492648963"
+      ],
+      "media_source_tweet_id": [
+        "1990827989173731333"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990959651131736151",
+    "created_at": "2025-11-19T01:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T02:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990959651131736151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1173978846724591617",
+          "start": 3,
+          "username": "AliyceBorges"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DSJwe4jUtJ",
+          "end": 47,
+          "expanded_url": "https://x.com/AliyceBorges/status/1990827989173731333/video/1",
+          "media_key": "13_1990804703492648963",
+          "start": 24,
+          "url": "https://t.co/DSJwe4jUtJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990959651131736151",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 402
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990827989173731333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AliyceBorges: wataa https://t.co/DSJwe4jUtJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990959651131736151].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990959651131736151",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990959651131736151"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8316250,
+        "height": 720,
+        "media_key": "13_1990804703492648963",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990804703492648963/img/kgtSUxawuaa7oiMH.jpg",
+        "public_metrics": {
+          "view_count": 20162
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990804703492648963/vid/avc1/480x270/gh7NAnBIwWFot4HL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990804703492648963/vid/avc1/640x360/0hwJLHr7g34Axob8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990804703492648963/vid/avc1/1280x720/H3u4VmERUB6hcxiv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990804703492648963/pl/HKwwxor_RztpZNRC.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990804703492648963"
+          ]
+        },
+        "author_id": "1173978846724591617",
+        "conversation_id": "1990827989173731333",
+        "created_at": "2025-11-18T17:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T18:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990827989173731333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSJwe4jUtJ",
+              "end": 29,
+              "expanded_url": "https://x.com/AliyceBorges/status/1990827989173731333/video/1",
+              "media_key": "13_1990804703492648963",
+              "start": 6,
+              "url": "https://t.co/DSJwe4jUtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990827989173731333",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1147,
+          "impression_count": 48199,
+          "like_count": 2155,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 402
+        },
+        "reply_settings": "everyone",
+        "text": "wataa https://t.co/DSJwe4jUtJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 389,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-17T15:15:58.000Z",
+        "description": "推只是冰山一角 更多原创视频内容尽在\n\n萝莉岛，放心无病毒无套路☺️",
+        "id": "1173978846724591617",
+        "name": "糖心V小小萝",
+        "pinned_tweet_id": "1967606103845531680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966502914161291264/oRIoVzu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66913,
+          "following_count": 167,
+          "like_count": 4859,
+          "listed_count": 167,
+          "media_count": 31,
+          "tweet_count": 170
+        },
+        "username": "AliyceBorges",
+        "verified": true
+      }
+    ]
+  }
+}

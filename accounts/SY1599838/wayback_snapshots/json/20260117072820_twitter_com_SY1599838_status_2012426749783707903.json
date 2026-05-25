@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2012424545584419177",
+    "created_at": "2026-01-17T07:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T08:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012426749783707903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1904584747701198852",
+          "start": 0,
+          "username": "Kayoko00721"
+        },
+        {
+          "end": 20,
+          "id": "1844956237135544320",
+          "start": 13,
+          "username": "zplike"
+        },
+        {
+          "end": 24,
+          "id": "118307321",
+          "start": 21,
+          "username": "dd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012426749783707903",
+    "in_reply_to_user_id": "1736574795125563392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012424545584419177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kayoko00721 @zplike @dd 这位是迷迭香母猪"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [dd].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "dd",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "dd"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_2012424317280337920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2RQRjaQAABUH2.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012424317230096384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2RQRXboAAybbB.jpg",
+        "width": 1150
+      },
+      {
+        "height": 405,
+        "media_key": "3_2012424317213220865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2RQRTaIAEtWBw.jpg",
+        "width": 1189
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012424317213278208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2RQRTbAAAWwA5.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736574795125563392",
+        "conversation_id": "2012424545584419177",
+        "created_at": "2026-01-17T07:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012426749783707903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1904584747701198852",
+              "start": 0,
+              "username": "Kayoko00721"
+            },
+            {
+              "end": 20,
+              "id": "1844956237135544320",
+              "start": 13,
+              "username": "zplike"
+            },
+            {
+              "end": 24,
+              "id": "118307321",
+              "start": 21,
+              "username": "dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012426749783707903",
+        "in_reply_to_user_id": "1736574795125563392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012424545584419177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kayoko00721 @zplike @dd 这位是迷迭香母猪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012424317280337920",
+            "3_2012424317230096384",
+            "3_2012424317213220865",
+            "3_2012424317213278208"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "2012424545584419177",
+        "created_at": "2026-01-17T07:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012424545584419177"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "反差女大"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "母猪便器"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "曝光女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1904584747701198852",
+              "start": 0,
+              "username": "Kayoko00721"
+            },
+            {
+              "end": 99,
+              "id": "1844956237135544320",
+              "start": 92,
+              "username": "zplike"
+            },
+            {
+              "end": 104,
+              "id": "118307321",
+              "start": 101,
+              "username": "dd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gO9kQAGPXj",
+              "end": 128,
+              "expanded_url": "https://x.com/SY1599838/status/2012424545584419177/photo/1",
+              "media_key": "3_2012424317280337920",
+              "start": 105,
+              "url": "https://t.co/gO9kQAGPXj"
+            },
+            {
+              "display_url": "pic.x.com/gO9kQAGPXj",
+              "end": 128,
+              "expanded_url": "https://x.com/SY1599838/status/2012424545584419177/photo/1",
+              "media_key": "3_2012424317230096384",
+              "start": 105,
+              "url": "https://t.co/gO9kQAGPXj"
+            },
+            {
+              "display_url": "pic.x.com/gO9kQAGPXj",
+              "end": 128,
+              "expanded_url": "https://x.com/SY1599838/status/2012424545584419177/photo/1",
+              "media_key": "3_2012424317213220865",
+              "start": 105,
+              "url": "https://t.co/gO9kQAGPXj"
+            },
+            {
+              "display_url": "pic.x.com/gO9kQAGPXj",
+              "end": 128,
+              "expanded_url": "https://x.com/SY1599838/status/2012424545584419177/photo/1",
+              "media_key": "3_2012424317213278208",
+              "start": 105,
+              "url": "https://t.co/gO9kQAGPXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012424545584419177",
+        "in_reply_to_user_id": "1904584747701198852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Kayoko00721 \n女大穴牲9🖤\n应母猪的要求向大家展示一头淫荡的母猪呢～一开始还在指责我不要欺负她的姐妹不过很快就被捕获肏着屁眼叫爹了\n#反差女大 #母猪便器 #曝光女友 \n@zplike  @DD https://t.co/gO9kQAGPXj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 531,
+          "like_count": 302,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 115
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T17:23:24.000Z",
+        "description": "♥网络废料生成器，可能是雌小鬼，请注意防范♠\n♦24小时发情，自慰上瘾，露出狂，超爱意淫强奸轮奸♣\n♠喜欢对陌生人展示淫荡一面，会随机掉落淫叫或照片什么的♦\n♣电报和QQ可以随意加 微信请赞赏码私信（有日常朋友圈公开哦）♥",
+        "id": "1904584747701198852",
+        "name": "媚炫送批白给JK飞机杯佳代子",
+        "pinned_tweet_id": "2007214089039458362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011453074070708225/p3ZvzUPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 312,
+          "like_count": 628,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 227
+        },
+        "username": "Kayoko00721",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T04:20:37.000Z",
+        "description": "唯一大号:   @jiaofu716428191     \n小号艾特➕关注帮转帖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "jiaofu716428191"
+              }
+            ]
+          }
+        },
+        "id": "1844956237135544320",
+        "name": "黑心🖤教父",
+        "pinned_tweet_id": "1864209725933736041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859136056672874496/ddzqJlrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 2,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 576
+        },
+        "username": "zplike",
+        "verified": false
+      }
+    ]
+  }
+}

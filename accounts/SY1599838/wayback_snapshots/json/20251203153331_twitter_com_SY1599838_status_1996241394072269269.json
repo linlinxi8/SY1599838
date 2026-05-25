@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996241378502955008"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1996241394072269269",
+    "created_at": "2025-12-03T15:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T16:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996241394072269269"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "自毁"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "社死"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "反差"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "投稿"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "反差婊"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "辱骂"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "羞辱"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "曝光"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "母狗"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "母猪"
+        },
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "肉便器"
+        },
+        {
+          "end": 141,
+          "start": 138,
+          "tag": "闺蜜"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lg4J135WpC",
+          "end": 165,
+          "expanded_url": "https://x.com/SY1599838/status/1996241394072269269/photo/1",
+          "media_key": "3_1996241378502955008",
+          "start": 142,
+          "url": "https://t.co/Lg4J135WpC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996241394072269269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学历低的婊子别立牌坊了，你们做狗不叫反差，除了卖逼换饭吃你们还能干啥？\n    来自毁的傻逼不是研究（留学）生or名校就趁早爬一边去站街，这样你月底还能攒两百块倒贴男爹的房费\n#自毁 #社死 #反差 #投稿   #反差婊 #辱骂 #羞辱 #曝光 #母狗 #母猪  #肉便器  #闺蜜 https://t.co/Lg4J135WpC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1996241378502955008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QS9Qua0AAQBZL.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996241378502955008"
+          ]
+        },
+        "author_id": "1736574795125563392",
+        "conversation_id": "1996241394072269269",
+        "created_at": "2025-12-03T15:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996241394072269269"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "自毁"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "社死"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "反差"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "投稿"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "反差婊"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "辱骂"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "羞辱"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "曝光"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "母狗"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "母猪"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "肉便器"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "闺蜜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lg4J135WpC",
+              "end": 165,
+              "expanded_url": "https://x.com/SY1599838/status/1996241394072269269/photo/1",
+              "media_key": "3_1996241378502955008",
+              "start": 142,
+              "url": "https://t.co/Lg4J135WpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996241394072269269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学历低的婊子别立牌坊了，你们做狗不叫反差，除了卖逼换饭吃你们还能干啥？\n    来自毁的傻逼不是研究（留学）生or名校就趁早爬一边去站街，这样你月底还能攒两百块倒贴男爹的房费\n#自毁 #社死 #反差 #投稿   #反差婊 #辱骂 #羞辱 #曝光 #母狗 #母猪  #肉便器  #闺蜜 https://t.co/Lg4J135WpC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁/男尊女卑",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996238702704803840/wYQgIk5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 408,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 59
+        },
+        "username": "SY1599838",
+        "verified": false
+      }
+    ]
+  }
+}

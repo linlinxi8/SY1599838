@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2005684572705742918",
+    "created_at": "2025-12-29T16:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T17:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005684572705742918"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "丧志"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "母猪"
+        },
+        {
+          "end": 126,
+          "start": 122,
+          "tag": "阿黑颜"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "拱屄"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "洗脑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3219823412",
+          "start": 3,
+          "username": "HeiXinYuDie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005684572705742918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999669347107897750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HeiXinYuDie: 母人大学习\n对，就是这样，禁止思考，只需要顺着欲望发情就好，不要想你的身份，形象，现在的你只是头大脑空白的丧志母畜，忽略掉一切让你不舒服的自尊和骄傲，习惯破碎式的淫靡叫声\n顶胯！拱逼！翻白眼！\n#丧志 #母猪 #阿黑颜 #拱屄 #洗脑\n@007…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005684572705742918].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005684572705742918",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005684572705742918"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11586,
+        "height": 1278,
+        "media_key": "7_1999669310789488640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1999669310789488640/pu/img/RE_cMJ6FAZzWECor.jpg",
+        "public_metrics": {
+          "view_count": 3101
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999669310789488640/pu/vid/avc1/320x592/4BaaxUxusPIh180O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999669310789488640/pu/vid/avc1/480x888/ZSYPv6dYicuihxdf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999669310789488640/pu/vid/avc1/690x1278/huNOUkKYKj3dCpCs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1999669310789488640/pu/pl/cpq3Pi_SfVmDeltk.m3u8?tag=12"
+          }
+        ],
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1999669310789488640"
+          ]
+        },
+        "author_id": "3219823412",
+        "conversation_id": "1999669347107897750",
+        "created_at": "2025-12-13T02:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T03:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999669347107897750"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "丧志"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "母猪"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "阿黑颜"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "拱屄"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "洗脑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 127,
+              "id": "1252372982",
+              "start": 118,
+              "username": "007share"
+            },
+            {
+              "end": 138,
+              "id": "1432597094007771137",
+              "start": 129,
+              "username": "Ann66688"
+            },
+            {
+              "end": 150,
+              "id": "1652591516756615171",
+              "start": 140,
+              "username": "DDDDBBHHH"
+            },
+            {
+              "end": 161,
+              "id": "1728416577463238656",
+              "start": 152,
+              "username": "tbzt2024"
+            },
+            {
+              "end": 175,
+              "id": "1427499053227466756",
+              "start": 163,
+              "username": "wqganenshi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJ5gZcBuHT",
+              "end": 199,
+              "expanded_url": "https://x.com/HeiXinYuDie/status/1999669347107897750/video/1",
+              "media_key": "7_1999669310789488640",
+              "start": 176,
+              "url": "https://t.co/bJ5gZcBuHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999669347107897750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 8897,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "母人大学习\n对，就是这样，禁止思考，只需要顺着欲望发情就好，不要想你的身份，形象，现在的你只是头大脑空白的丧志母畜，忽略掉一切让你不舒服的自尊和骄傲，习惯破碎式的淫靡叫声\n顶胯！拱逼！翻白眼！\n#丧志 #母猪 #阿黑颜 #拱屄 #洗脑\n@007share \n@Ann66688 \n@DDDDBBHHH \n@tbzt2024 \n@wqganenshi_ https://t.co/bJ5gZcBuHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 422,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 70
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-19T00:28:26.000Z",
+        "description": "主营\n#粗口🖤\n#洗脑🖤\n#爆耍🖤\n#胁迫🖤\n#压榨🖤\n#控制🖤\n#榨🏧🖤\n你要做的，只有沉沦\n 🖤Q：1285131846\n 🖤V：yuyuyuuquq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "粗口"
+              },
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "洗脑"
+              },
+              {
+                "end": 16,
+                "start": 13,
+                "tag": "爆耍"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "胁迫"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "压榨"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "控制"
+              },
+              {
+                "end": 35,
+                "start": 33,
+                "tag": "榨"
+              }
+            ]
+          }
+        },
+        "id": "3219823412",
+        "location": "你抬头仰视的正上方",
+        "name": "宇爹",
+        "pinned_tweet_id": "1875794592676868406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620784812964323329/PjtCyU-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 29,
+          "like_count": 12,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 175
+        },
+        "username": "HeiXinYuDie",
+        "verified": false
+      }
+    ]
+  }
+}

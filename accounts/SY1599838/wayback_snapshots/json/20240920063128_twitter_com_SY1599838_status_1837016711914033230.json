@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1836751340271542272",
+        "3_1836752512629780480"
+      ],
+      "media_source_tweet_id": [
+        "1836752514890563618",
+        "1836752514890563618"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1837016711914033230",
+    "created_at": "2024-09-20T06:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T07:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837016711914033230"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "裸足"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "足控"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "美足"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "恋足"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827680945136123904",
+          "start": 3,
+          "username": "xuan_kieru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qdge6fdfdn",
+          "end": 127,
+          "expanded_url": "https://twitter.com/xuan_kieru/status/1836752514890563618/photo/1",
+          "media_key": "3_1836751340271542272",
+          "start": 104,
+          "url": "https://t.co/qDge6fdfDN"
+        },
+        {
+          "display_url": "pic.x.com/qdge6fdfdn",
+          "end": 127,
+          "expanded_url": "https://twitter.com/xuan_kieru/status/1836752514890563618/photo/1",
+          "media_key": "3_1836752512629780480",
+          "start": 104,
+          "url": "https://t.co/qDge6fdfDN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837016711914033230",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836752514890563618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuan_kieru: 【今日份雪糕】\n老图～\n\n这次是沐浴中的裸足jiojio哦，不加修饰的纯粹视觉享受～\n\n诶，好奇上面沾着的液体是什么？\n只是沐浴露，而已哦♡\n\n#裸足 #足控 #美足 #恋足 https://t.co/qDge6fdfDN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1837016711914033230].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1837016711914033230",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837016711914033230"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1836751340271542272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GX1znMmboAAyEuo.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1836752512629780480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GX10rb-asAAMFhy.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836751340271542272",
+            "3_1836752512629780480"
+          ]
+        },
+        "author_id": "1827680945136123904",
+        "conversation_id": "1836752514890563618",
+        "created_at": "2024-09-19T13:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T13:57:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836751342993609122",
+          "1836752514890563618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "裸足"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "足控"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "美足"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "恋足"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qdge6fdfdn",
+              "end": 111,
+              "expanded_url": "https://twitter.com/xuan_kieru/status/1836752514890563618/photo/1",
+              "media_key": "3_1836751340271542272",
+              "start": 88,
+              "url": "https://t.co/qDge6fdfDN"
+            },
+            {
+              "display_url": "pic.x.com/qdge6fdfdn",
+              "end": 111,
+              "expanded_url": "https://twitter.com/xuan_kieru/status/1836752514890563618/photo/1",
+              "media_key": "3_1836752512629780480",
+              "start": 88,
+              "url": "https://t.co/qDge6fdfDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836752514890563618",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 904,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "【今日份雪糕】\n老图～\n\n这次是沐浴中的裸足jiojio哦，不加修饰的纯粹视觉享受～\n\n诶，好奇上面沾着的液体是什么？\n只是沐浴露，而已哦♡\n\n#裸足 #足控 #美足 #恋足 https://t.co/qDge6fdfDN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "是轩轩大人的煞笔贱狗足虫呢@DivinKieru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "DivinKieru"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832303392645115906/YmYTBG0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 175,
+          "like_count": 86,
+          "listed_count": 0,
+          "tweet_count": 22
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T12:14:34.000Z",
+        "description": "这里是S/Dom系饲主轩轩哦～这个号主要分享日常～主号请看关注列表",
+        "id": "1827680945136123904",
+        "name": "軒軒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827681121976406018/ZbmWxM82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1,
+          "like_count": 7,
+          "listed_count": 2,
+          "tweet_count": 15
+        },
+        "username": "xuan_kieru",
+        "verified": true
+      }
+    ]
+  }
+}

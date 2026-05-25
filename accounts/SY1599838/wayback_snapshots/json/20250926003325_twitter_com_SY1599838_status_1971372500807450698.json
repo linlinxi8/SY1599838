@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1957281617917194240"
+      ],
+      "media_source_tweet_id": [
+        "1957281652692111641"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "1971372500807450698",
+    "created_at": "2025-09-26T00:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T01:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971372500807450698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684213812109484039",
+          "start": 3,
+          "username": "bb13146666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rtviyOZiGl",
+          "end": 100,
+          "expanded_url": "https://x.com/bb13146666/status/1957281652692111641/video/1",
+          "media_key": "7_1957281617917194240",
+          "start": 77,
+          "url": "https://t.co/rtviyOZiGl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971372500807450698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957281652692111641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bb13146666: 怎么贱狗 想吃口水了 张嘴！\n给你…哈哈…吸回来…逗你的啊 贱狗 你配吗？\n你只配看脚撸一撸了，口水这么香的东西你不配！ https://t.co/rtviyOZiGl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1971372500807450698].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1971372500807450698",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1971372500807450698"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9984,
+        "height": 936,
+        "media_key": "7_1957281617917194240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957281617917194240/pu/img/Oc1Pvyxx1SLoFZaa.jpg",
+        "public_metrics": {
+          "view_count": 10101
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957281617917194240/pu/vid/avc1/320x416/h-jSMolZWRDYhDeQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957281617917194240/pu/vid/avc1/480x624/SK8IoiyfFvN8jTgH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957281617917194240/pu/vid/avc1/720x936/5xEGYrbDIwOVkKs2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957281617917194240/pu/pl/LrvsIeBfIhgt8pLu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1957281617917194240"
+          ]
+        },
+        "author_id": "1684213812109484039",
+        "conversation_id": "1957281652692111641",
+        "created_at": "2025-08-18T03:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957281652692111641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtviyOZiGl",
+              "end": 84,
+              "expanded_url": "https://x.com/bb13146666/status/1957281652692111641/video/1",
+              "media_key": "7_1957281617917194240",
+              "start": 61,
+              "url": "https://t.co/rtviyOZiGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957281652692111641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 37134,
+          "like_count": 682,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "怎么贱狗 想吃口水了 张嘴！\n给你…哈哈…吸回来…逗你的啊 贱狗 你配吗？\n你只配看脚撸一撸了，口水这么香的东西你不配！ https://t.co/rtviyOZiGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875692524096122881/jStRE-Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 270,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T14:47:25.000Z",
+        "description": "喜欢精神小妹 看见她们就控制不住自己 欢迎投稿 交流 日常更新精神小妹片段   \n                                                  进群交流：3863610954（有门槛）",
+        "id": "1684213812109484039",
+        "location": "距离你1.1km",
+        "name": "精神小妹都是我亲妈",
+        "pinned_tweet_id": "1695512874897276950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703090138421817344/jdCPNycA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14802,
+          "following_count": 16,
+          "like_count": 801,
+          "listed_count": 41,
+          "media_count": 375,
+          "tweet_count": 920
+        },
+        "username": "bb13146666",
+        "verified": false
+      }
+    ]
+  }
+}

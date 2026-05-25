@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2012820402020536320"
+      ],
+      "media_source_tweet_id": [
+        "2012845447446991320"
+      ]
+    },
+    "author_id": "1736574795125563392",
+    "conversation_id": "2013137361073508690",
+    "created_at": "2026-01-19T06:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T07:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013137361073508690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176903857361698817",
+          "start": 3,
+          "username": "nyunchan2k3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x4Q91occ14",
+          "end": 47,
+          "expanded_url": "https://x.com/nyunchan2k3/status/2012845447446991320/video/1",
+          "media_key": "13_2012820402020536320",
+          "start": 24,
+          "url": "https://t.co/x4Q91occ14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013137361073508690",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012845447446991320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyunchan2k3: wataa🐶 https://t.co/x4Q91occ14"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2013137361073508690].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2013137361073508690",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2013137361073508690"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17159,
+        "height": 1280,
+        "media_key": "13_2012820402020536320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012820402020536320/img/fC5UOvlz48d6J3To.jpg",
+        "public_metrics": {
+          "view_count": 77
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012820402020536320/vid/avc1/320x568/pOM6259lVdm2kHfd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012820402020536320/vid/avc1/480x852/jkPVfo7rh7tRVvj2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012820402020536320/vid/avc1/720x1280/It8A-mN66-qsWEzn.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012820402020536320/pl/PHcS4_z8fmpOsPkX.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012820402020536320"
+          ]
+        },
+        "author_id": "1176903857361698817",
+        "conversation_id": "2012845447446991320",
+        "created_at": "2026-01-18T11:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012845447446991320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4Q91occ14",
+              "end": 30,
+              "expanded_url": "https://x.com/nyunchan2k3/status/2012845447446991320/video/1",
+              "media_key": "13_2012820402020536320",
+              "start": 7,
+              "url": "https://t.co/x4Q91occ14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012845447446991320",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 458,
+          "impression_count": 42816,
+          "like_count": 1360,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "wataa🐶 https://t.co/x4Q91occ14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 539,
+          "like_count": 314,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 117
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-25T16:59:03.000Z",
+        "description": "𝙉𝙎𝙁𝙒 18+🔞｜遵守X平台规则，喜欢约啪福利姬 coser的博主一枚，反差圣体，不定时抽取幸运粉丝线下🐽！！！关注+点赞哦",
+        "id": "1176903857361698817",
+        "name": "喵喵的奇妙幻想",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010195815550300161/2PBiO005_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 55,
+          "like_count": 26,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 42
+        },
+        "username": "nyunchan2k3",
+        "verified": false
+      }
+    ]
+  }
+}

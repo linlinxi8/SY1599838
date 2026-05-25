@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "2007838337072247150",
+    "created_at": "2026-01-04T15:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T16:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007838337072247150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1646768420749463552",
+          "start": 3,
+          "username": "mira0837_sister"
+        },
+        {
+          "end": 73,
+          "id": "1736574795125563392",
+          "start": 63,
+          "username": "SY1599838"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007838337072247150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007838282697293842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mira0837_sister: 对不起呢小公狗们，你们最爱的黑心修女米拉其实是一个爱抠逼的下贱母猪\n\n现在吸着曦爹 @SY1599838 鸡巴的浓浓雄臭，已经被洗脑得只想发情喷卵，骚逼已经流着水拱个不停\n\n所以请你们好好看着人家被祖宗洗脑到丧志喷卵的猪样呢 https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1570,
+        "media_key": "3_2007838275508273152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91GRgoagAAt9Jw.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736574795125563392",
+        "conversation_id": "2007838337072247150",
+        "created_at": "2026-01-04T15:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007838337072247150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1646768420749463552",
+              "start": 3,
+              "username": "mira0837_sister"
+            },
+            {
+              "end": 73,
+              "id": "1736574795125563392",
+              "start": 63,
+              "username": "SY1599838"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007838337072247150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007838282697293842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mira0837_sister: 对不起呢小公狗们，你们最爱的黑心修女米拉其实是一个爱抠逼的下贱母猪\n\n现在吸着曦爹 @SY1599838 鸡巴的浓浓雄臭，已经被洗脑得只想发情喷卵，骚逼已经流着水拱个不停\n\n所以请你们好好看着人家被祖宗洗脑到丧志喷卵的猪样呢 https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007838275508273152"
+          ]
+        },
+        "author_id": "1646768420749463552",
+        "conversation_id": "2007838282697293842",
+        "created_at": "2026-01-04T15:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007838282697293842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "1736574795125563392",
+              "start": 42,
+              "username": "SY1599838"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AHKDIFq3eI",
+              "end": 136,
+              "expanded_url": "https://x.com/mira0837_sister/status/2007838282697293842/photo/1",
+              "media_key": "3_2007838275508273152",
+              "start": 113,
+              "url": "https://t.co/AHKDIFq3eI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007838282697293842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对不起呢小公狗们，你们最爱的黑心修女米拉其实是一个爱抠逼的下贱母猪\n\n现在吸着曦爹 @SY1599838 鸡巴的浓浓雄臭，已经被洗脑得只想发情喷卵，骚逼已经流着水拱个不停\n\n所以请你们好好看着人家被祖宗洗脑到丧志喷卵的猪样呢 https://t.co/AHKDIFq3eI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "曝光/社死/控心/洗脑/人格摧毁\n🐧2200715417 V：xizhu_new\n滚到胯下犯贱🖕🏻🖕🏻🖕🏻🖕🏻\n欢迎大胆咨询慢慢在这种状态下沉迷留恋，私下伪装彻底臣服\n偷偷发情https://t.co/WeH3bBQzKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/toma",
+                "end": 111,
+                "expanded_url": "https://miyu.link/toma",
+                "start": 88,
+                "url": "https://t.co/WeH3bBQzKk"
+              }
+            ]
+          }
+        },
+        "id": "1736574795125563392",
+        "location": "母畜头上",
+        "name": "曦主（黑心版）",
+        "pinned_tweet_id": "1999172007720812572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996980620501905408/8nOBmoWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 431,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 86
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T06:52:49.000Z",
+        "description": "",
+        "id": "1646768420749463552",
+        "name": "黑心修女米拉🖤",
+        "pinned_tweet_id": "1886452041675067776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886449637550415872/xGMDQZso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 183,
+          "like_count": 3250,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 727
+        },
+        "username": "mira0837_sister",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1736574795125563392",
+    "conversation_id": "1979476770262016338",
+    "created_at": "2025-10-18T09:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T10:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979476770262016338"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "娜娜"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "反差"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "母狗"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1362591025",
+          "start": 3,
+          "username": "TangxiinVlog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979476770262016338",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 853
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978669229277843904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TangxiinVlog: Chudai🩷 #娜娜 #反差 #母狗"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1979476770262016338].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1979476770262016338",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1979476770262016338"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362591025",
+        "conversation_id": "1978669229277843904",
+        "created_at": "2025-10-16T03:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978669229277843904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "娜娜"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "反差"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "母狗"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978669229277843904",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3402,
+          "impression_count": 447696,
+          "like_count": 5542,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 853
+        },
+        "reply_settings": "everyone",
+        "text": "Chudai🩷 #娜娜 #反差 #母狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-18T02:31:29.000Z",
+        "description": "",
+        "id": "1736574795125563392",
+        "location": "辽宁",
+        "name": "不知处a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875692524096122881/jStRE-Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 298,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "SY1599838",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-18T18:16:51.000Z",
+        "description": "众多知名创作者强势入驻：台北娜娜、桥本香菜、玩偶姐姐、情深叉喔、饼干姐姐、小欣奈，等人气Vlog主带来的海量优质内容，等你来发现。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/TangxinVlog",
+                "end": 23,
+                "expanded_url": "http://bit.ly/TangxinVlog",
+                "start": 0,
+                "url": "https://t.co/KODjvd8hMQ"
+              }
+            ]
+          }
+        },
+        "id": "1362591025",
+        "location": "糖心Vlog官网👉🏻",
+        "name": "糖心Vlog官方",
+        "pinned_tweet_id": "1979210700129210476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954792076530561024/5NUEuNAY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147453,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 271,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/KODjvd8hMQ",
+        "username": "TangxiinVlog",
+        "verified": true
+      }
+    ]
+  }
+}
